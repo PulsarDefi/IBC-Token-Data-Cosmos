@@ -1,12 +1,18 @@
 # 💱 IBC-Cosmos data
 
-Why this repo?<br>
+### Why this repo?
 - At Pulsar we felt like there was a big gap on IBC data which prevented us from having a good way to match any IBC token to its original native token. This repo is meant to be kept updated with the current native and IBC tokens of each cosmos chain under https://github.com/cosmos/chain-registry
+- With `ibc_data.json` you should be able to find any IBC token by its hash, and using the denom property, you should be able to trace back to its original token data on `native_token_data.json`
 
-Planning on adding more data in the future<br/><br/>
-The file `ibc_data.min.json` is just a minified version of `ibc_data.json`<br/>
-The file `native_token_data.min.json` is just a minified version of `native_token_data.json`<br/><br/>
-IBC data schema:
+### Future
+- Planning on adding more relevant data
+- Planning on adding an API behind this data
+
+### Hints
+- The file `ibc_data.min.json` is just a minified version of `ibc_data.json`<br/>
+- The file `native_token_data.min.json` is just a minified version of `native_token_data.json`<br/><br/>
+
+#### IBC data schema:
 ```
 {
     "ibc_hash": {
@@ -17,7 +23,7 @@ IBC data schema:
     }
 }
 ```
-Native Token data schema:
+#### Native Token data schema:
 ```
 {
     "denom": {
