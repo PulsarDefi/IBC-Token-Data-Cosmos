@@ -8,7 +8,7 @@
     ]
   },
   "ibc/07BFA931C7D88147A7824FD573812A0842D1B93A4C42ADCB199129552D932B22": {
-    "supply": "360234656",
+    "supply": "365784656",
     "path": "transfer/channel-17/transfer/channel-141/transfer/channel-1",
     "denom": "uakt",
     "chains": [
@@ -56,7 +56,7 @@
     ]
   },
   "ibc/1849A429022CBAAB619074CA4412D0016F262218BE6DD828BA8A3DD97D6B52BB": {
-    "supply": "511638",
+    "supply": "511738",
     "path": "transfer/channel-35",
     "denom": "ujuno",
     "chains": [
@@ -263,7 +263,7 @@
     ]
   },
   "ibc/B4F8297D4C270E82BDF11D51FD51A9FD23B0958B98B1E08346477452119E7D70": {
-    "supply": "16403885",
+    "supply": "16403905",
     "path": "transfer/channel-9",
     "denom": "uosmo",
     "chains": [
@@ -307,6 +307,7 @@
       "crescent",
       "cronos",
       "emoney",
+      "galaxy",
       "impacthub",
       "injective",
       "juno",
@@ -402,7 +403,7 @@
     ]
   },
   "ibc/4CD525F166D32B0132C095F353F4C6F033B0FF5C49141470D1EFDA1D63303D04": {
-    "supply": "1100000",
+    "supply": "1101000",
     "path": "transfer/channel-2",
     "denom": "ujuno",
     "chains": [
@@ -547,7 +548,7 @@
     ]
   },
   "ibc/373EF14936B38AC8F8A7E7024C0FB7099369FDDFDA3CDA9EFA73684B16249B64": {
-    "supply": "78176019823",
+    "supply": "77597619823",
     "path": "transfer/channel-6",
     "denom": "eeur",
     "chains": [
@@ -564,7 +565,7 @@
     ]
   },
   "ibc/47BD209179859CDE4A2806763D7189B6E6FE13A17880FE2B42DE1E6C1E329E23": {
-    "supply": "1826168",
+    "supply": "1826178",
     "path": "transfer/channel-3",
     "denom": "uosmo",
     "chains": [
@@ -658,7 +659,7 @@
     ]
   },
   "ibc/9117A26BA81E29FA4F78F57DC2BD90CD3D26848101BA880445F119B22A1E254E": {
-    "supply": "30582651650",
+    "supply": "25473231002",
     "path": "transfer/channel-2",
     "denom": "uatom",
     "chains": [
@@ -702,7 +703,7 @@
     ]
   },
   "ibc/ACD9A665DB6C19EC1D057A43D468E324CA9FB9C5ABF82235815F7B7745A15B80": {
-    "supply": "40232489129",
+    "supply": "42379539129",
     "path": "transfer/channel-6",
     "denom": "ungm",
     "chains": [
@@ -784,7 +785,7 @@
     ]
   },
   "ibc/E216E3FE674FF526C41DD2366337585FC07B6CCFEB2E17FD2A82F06DE0EE9772": {
-    "supply": "47657283873",
+    "supply": "47658283873",
     "path": "transfer/channel-3/transfer/channel-72",
     "denom": "uluna",
     "chains": [
@@ -825,7 +826,8 @@
       "bandchain",
       "echelon",
       "injective",
-      "persistence"
+      "persistence",
+      "tgrade"
     ]
   },
   "ibc/67E8387284A038A0AD42BAE9EAA4C6A90E0D82B5C556F37FB57A3D1C8773C042": {
@@ -837,7 +839,7 @@
     ]
   },
   "ibc/6B8531505147C9FF2AC90BC096AEC5D8E77EE3582874640FA5FE4E4FB382D2AC": {
-    "supply": "1502414",
+    "supply": "1502427",
     "path": "transfer/channel-83",
     "denom": "uosmo",
     "chains": [
@@ -1063,7 +1065,7 @@
     ]
   },
   "ibc/13B2C536BB057AC79D5616B8EA1B9540EC1F2170718CAFF6F0083C966FFFED0B": {
-    "supply": "7640663664",
+    "supply": "7645453664",
     "path": "transfer/channel-2",
     "denom": "uosmo",
     "chains": [
@@ -1074,7 +1076,7 @@
     ]
   },
   "ibc/15E9C5CF5969080539DB395FA7D9C0868265217EFC528433671AAF9B1912D159": {
-    "supply": "480503066",
+    "supply": "522638066",
     "path": "transfer/channel-8",
     "denom": "uatom",
     "chains": [
@@ -1273,7 +1275,7 @@
     ]
   },
   "ibc/89C79BD28DCCF300B9EE87740B061011AD870EC480777FAB95D85B3ED36BC06C": {
-    "supply": "13230181",
+    "supply": "14830181",
     "path": "transfer/channel-11",
     "denom": "ujuno",
     "chains": [
@@ -1354,7 +1356,7 @@
     ]
   },
   "ibc/EB2CED20AB0466F18BE49285E56B31306D4C60438A022EA995BA65D5E3CF7E09": {
-    "supply": "11124",
+    "supply": "411124",
     "path": "transfer/channel-16",
     "denom": "uscrt",
     "chains": [
@@ -1371,7 +1373,7 @@
     ]
   },
   "ibc/FAC1BAAA6ECDCB88408A6EEEA13AD4736DA687F85ACD22B5BBD00D36754AC0FA": {
-    "supply": "7321718",
+    "supply": "8098930",
     "path": "transfer/channel-7",
     "denom": "uosmo",
     "chains": [
@@ -1454,7 +1456,7 @@
     ]
   },
   "ibc/00255B18FBBC1E36845AAFDCB4CBD460DC45331496A64C2A29CEAFDD3B997B5F": {
-    "supply": "10000000000000000000",
+    "supply": "1015160059457055549180",
     "path": "transfer/channel-281",
     "denom": "gravity0x817bbDbC3e8A1204f3691d14bB44992841e3dB35",
     "chains": [
@@ -1534,7 +1536,7 @@
     ]
   },
   "ibc/091F39508BB813883D43F29461C7EBC2DD480319B659FAB583129D78A9A2D22E": {
-    "supply": "50022000000000001",
+    "supply": "43022000000000001",
     "path": "transfer/channel-361",
     "denom": "wei",
     "chains": [
@@ -1598,7 +1600,7 @@
     ]
   },
   "ibc/12DA42304EE1CE96071F712AA4D58186AD11C3165C0DCDA71E017A54F3935E66": {
-    "supply": "22555938074398",
+    "supply": "22556788024216",
     "path": "transfer/channel-182",
     "denom": "uiris",
     "chains": [
@@ -1622,7 +1624,7 @@
     ]
   },
   "ibc/146119BC46E69DEC6BA554A368FF97E7E2D32BA96B57A5D5B169667C91D8528E": {
-    "supply": "798000",
+    "supply": "1885000",
     "path": "transfer/channel-363",
     "denom": "usat",
     "chains": [
@@ -1630,7 +1632,7 @@
     ]
   },
   "ibc/14F9BC3E44B8A9C1BE1FB08980FAB87034C9905EF17CF2F5008FC085218811CC": {
-    "supply": "151736066340",
+    "supply": "151727124433",
     "path": "transfer/channel-141",
     "denom": "uosmo",
     "chains": [
@@ -1646,7 +1648,7 @@
     ]
   },
   "ibc/1542F8DC70E7999691E991E1EDEB1B47E65E3A217B1649D347098EE48ACB580F": {
-    "supply": "954040713",
+    "supply": "1051140541",
     "path": "transfer/channel-235",
     "denom": "uscrt",
     "chains": [
@@ -1694,7 +1696,7 @@
     ]
   },
   "ibc/19DD710119533524061885A6F190B18AF28D9537E2BAE37F32A62C1A25979287": {
-    "supply": "642190882700495640680",
+    "supply": "736284882700495640680",
     "path": "transfer/channel-292",
     "denom": "aevmos",
     "chains": [
@@ -1782,7 +1784,7 @@
     ]
   },
   "ibc/1FBDD58D438B4D04D26CBFB2E722C18984A0F1A52468C4F42F37D102F3D3F399": {
-    "supply": "2341757261940",
+    "supply": "2342467206066",
     "path": "transfer/channel-185",
     "denom": "uregen",
     "chains": [
@@ -1822,7 +1824,7 @@
     ]
   },
   "ibc/2181AAB0218EAC24BC9F86BD1364FBBFA3E6E3FCC25E88E3E68C15DC6E752D86": {
-    "supply": "2518387514954",
+    "supply": "2518242543933",
     "path": "transfer/channel-184",
     "denom": "uakt",
     "chains": [
@@ -1933,8 +1935,16 @@
       "cosmoshub"
     ]
   },
+  "ibc/315F4351967DD4EB926FBF8F6D339C2321FA255FAE8687E4D70A8F20006366C1": {
+    "supply": "10000000000000000",
+    "path": "transfer/channel-141/transfer/channel-204/transfer/channel-8",
+    "denom": "gravity0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "chains": [
+      "cosmoshub"
+    ]
+  },
   "ibc/3353ECFE33281DE5F84FEDDDFF495E5EBD53E9E4385F8ACCC81D456C93735EC7": {
-    "supply": "659310385681208753437",
+    "supply": "621243544924387977437",
     "path": "transfer/channel-141/transfer/channel-204",
     "denom": "aevmos",
     "chains": [
@@ -1950,7 +1960,7 @@
     ]
   },
   "ibc/34CEF8B6A6424C45FE3CCC4A02C9DF9BB38BACC323E08DFFEFE9E4B18BB89AC4": {
-    "supply": "654518534",
+    "supply": "717286534",
     "path": "transfer/channel-339",
     "denom": "uluna",
     "chains": [
@@ -2054,7 +2064,7 @@
     ]
   },
   "ibc/3C168643B15498A2F8BA843649D7CF207EA2F5A7C8AE77BC175EC2FBF21B1BAA": {
-    "supply": "111200000000000000",
+    "supply": "121500000000000000",
     "path": "transfer/channel-293",
     "denom": "weth-wei",
     "chains": [
@@ -2070,7 +2080,7 @@
     ]
   },
   "ibc/3D1E70D2B3F6029E3CA939D18F81179515D88E6404C736F780366B3A2C11CE56": {
-    "supply": "1100000",
+    "supply": "1600000",
     "path": "transfer/channel-281",
     "denom": "gravity0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "chains": [
@@ -2086,7 +2096,7 @@
     ]
   },
   "ibc/3F18D520CE791A40357D061FAD657CED6B21D023F229EAF131D7FE7CE6F488BD": {
-    "supply": "1261686802",
+    "supply": "1261686812",
     "path": "transfer/channel-326",
     "denom": "ucre",
     "chains": [
@@ -2102,7 +2112,7 @@
     ]
   },
   "ibc/42E47A5BA708EBE6E0C227006254F2784E209F4DBD3C6BB77EDC4B29EF875E8E": {
-    "supply": "221264796625569",
+    "supply": "221334515416246",
     "path": "transfer/channel-186",
     "denom": "udvpn",
     "chains": [
@@ -2150,7 +2160,7 @@
     ]
   },
   "ibc/4846F4382B7843861B6C5051134397359C8C94B547E8EA43EFAFEF4E5F7B7625": {
-    "supply": "5764338",
+    "supply": "5765338",
     "path": "transfer/channel-301",
     "denom": "orai",
     "chains": [
@@ -2174,7 +2184,7 @@
     ]
   },
   "ibc/4A98C8AC2C35498162346F28EEBF3206CBEF81F44725FE62A3DB0CC10E88E695": {
-    "supply": "53756900000000000000",
+    "supply": "110869000000000000000",
     "path": "transfer/channel-293",
     "denom": "dai-wei",
     "chains": [
@@ -2206,7 +2216,7 @@
     ]
   },
   "ibc/4CC44260793F84006656DD868E017578F827A492978161DA31D7572BCB3F4289": {
-    "supply": "1136192017",
+    "supply": "1176032862",
     "path": "transfer/channel-343",
     "denom": "ukuji",
     "chains": [
@@ -2302,7 +2312,7 @@
     ]
   },
   "ibc/5567102708097100D5B3FC160F01F5031CBF82EC362EA46CFEE97A8316B39264": {
-    "supply": "1000200000000019998",
+    "supply": "3100100000000019998",
     "path": "transfer/channel-358",
     "denom": "acanto",
     "chains": [
@@ -2398,7 +2408,7 @@
     ]
   },
   "ibc/5BB694D466CCF099EF73F165F88472AF51D9C4991EAA42BD1168C5304712CC0D": {
-    "supply": "4317809",
+    "supply": "4330067",
     "path": "transfer/channel-141",
     "denom": "uion",
     "chains": [
@@ -2406,7 +2416,7 @@
     ]
   },
   "ibc/5BD358D2143FD9F696119ECF9A24C86E6FE8402E1FCF252156ED1C7539481C77": {
-    "supply": "6458200000",
+    "supply": "45411000",
     "path": "transfer/channel-281",
     "denom": "gravity0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "chains": [
@@ -2462,7 +2472,7 @@
     ]
   },
   "ibc/621EBC891F642B44778FD0E9DACBBC14755280C897DD010AA104889C3FDCED06": {
-    "supply": "61370463",
+    "supply": "63370463",
     "path": "transfer/channel-277",
     "denom": "usdx",
     "chains": [
@@ -2478,7 +2488,7 @@
     ]
   },
   "ibc/6469BDA6F62C4F4B8F76629FA1E72A02A3D1DD9E2B22DDB3C3B2296DEAD29AB8": {
-    "supply": "18979141382551755",
+    "supply": "500063",
     "path": "transfer/channel-220",
     "denom": "inj",
     "chains": [
@@ -2518,7 +2528,7 @@
     ]
   },
   "ibc/68A333688E5B07451F95555F8FE510E43EF9D3D44DF0909964F92081EF9BE5A7": {
-    "supply": "320452830725",
+    "supply": "320454897405",
     "path": "transfer/channel-158",
     "denom": "uiov",
     "chains": [
@@ -2542,7 +2552,7 @@
     ]
   },
   "ibc/6C2BB0FDAE0ABFF0E965BFFCADEB0D9590F4A011A9EE678413B2F2587F05CB8C": {
-    "supply": "5353766",
+    "supply": "5647766",
     "path": "transfer/channel-293",
     "denom": "uaxl",
     "chains": [
@@ -2582,7 +2592,7 @@
     ]
   },
   "ibc/6F69BA08C96F5020D87A2F60C6BEE29B7661511C9CE7A117641BAD3BD29E8401": {
-    "supply": "247571509",
+    "supply": "249571512",
     "path": "transfer/channel-281",
     "denom": "ugraviton",
     "chains": [
@@ -2669,6 +2679,14 @@
       "cosmoshub"
     ]
   },
+  "ibc/771FB23883042F959CDCB02F3D0501CC7F32EF4E28835EE4D7DA8CA7E8CF16F6": {
+    "supply": "4000000000000000",
+    "path": "transfer/channel-293",
+    "denom": "wbnb-wei",
+    "chains": [
+      "cosmoshub"
+    ]
+  },
   "ibc/77FFA7FB5F19AE6E7091F86AD35714E35FAE82A7794F8A55BDC4E246316D2177": {
     "supply": "10807081",
     "path": "transfer/channel-240",
@@ -2726,7 +2744,7 @@
     ]
   },
   "ibc/80321E1F00839E9A38B04007DE79450861D465AFCA869B4CF2D5078A5F320FFA": {
-    "supply": "496817199941",
+    "supply": "494317199941",
     "path": "transfer/channel-141/transfer/channel-72",
     "denom": "uluna",
     "chains": [
@@ -2774,7 +2792,7 @@
     ]
   },
   "ibc/835EE9D00C35D72128F195B50F8A89EB83E5011C43EA0AA00D16348E2208FEBB": {
-    "supply": "18543588",
+    "supply": "2229564",
     "path": "transfer/channel-326",
     "denom": "ubcre",
     "chains": [
@@ -2798,7 +2816,7 @@
     ]
   },
   "ibc/854A2B3F3C679598591411883DF60EF216E0DCA83E141808A55D8C4BC8443641": {
-    "supply": "2456943373",
+    "supply": "2462493373",
     "path": "transfer/channel-141/transfer/channel-1",
     "denom": "uakt",
     "chains": [
@@ -2926,7 +2944,7 @@
     ]
   },
   "ibc/932D6003DA334ECBC5B23A071B4287D0A5CC97331197FE9F1C0689BA002A8421": {
-    "supply": "6808466055",
+    "supply": "13569013455",
     "path": "transfer/channel-293",
     "denom": "uusdc",
     "chains": [
@@ -2974,7 +2992,7 @@
     ]
   },
   "ibc/97F15E1BC69D4AAD938CAAA6CA5C963F6159C93059481246A8A26A113BC6BD2C": {
-    "supply": "100000",
+    "supply": "106000",
     "path": "transfer/channel-293",
     "denom": "wbtc-satoshi",
     "chains": [
@@ -3038,7 +3056,7 @@
     ]
   },
   "ibc/9E5C4D5270B0161C195416972307AA685740C94038AA16DCF07387DC195D07CC": {
-    "supply": "1000000000000000",
+    "supply": "1031154000000000000",
     "path": "transfer/channel-281",
     "denom": "gravity0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "chains": [
@@ -3206,7 +3224,7 @@
     ]
   },
   "ibc/ADBEC1A7AC2FEF73E06B066A1C94DAB6C27924EF7EA3F5A43378150009620284": {
-    "supply": "1309753576093",
+    "supply": "1309578437606",
     "path": "transfer/channel-232",
     "denom": "ubcna",
     "chains": [
@@ -3230,7 +3248,7 @@
     ]
   },
   "ibc/B17A749B0FD72FA2DF301551D3D91B69D57160A1CE36A40D7F76536891CF0001": {
-    "supply": "52965106",
+    "supply": "53055161",
     "path": "transfer/channel-141/transfer/channel-144",
     "denom": "ugraviton",
     "chains": [
@@ -3318,7 +3336,7 @@
     ]
   },
   "ibc/BB5D7FBBA895E6E43EAD8D49E084319663139CA438E41796A0ACB657AE64E8F3": {
-    "supply": "62621600000000000000",
+    "supply": "63121600000000000000",
     "path": "transfer/channel-293",
     "denom": "wmatic-wei",
     "chains": [
@@ -3366,7 +3384,7 @@
     ]
   },
   "ibc/C2E93CB53F969FC1FE2C12CAC4EA93358256695DD588534C48F032391E7D4D31": {
-    "supply": "10000000",
+    "supply": "32000000",
     "path": "transfer/channel-141/transfer/channel-144",
     "denom": "gravity0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "chains": [
@@ -3398,7 +3416,7 @@
     ]
   },
   "ibc/C8E7D1EE5DA9ACDFC90803636CF095F8C1BC448B1458277A71AC3EA5F9DDAE0C": {
-    "supply": "1000010",
+    "supply": "10",
     "path": "transfer/channel-361",
     "denom": "usdtest",
     "chains": [
@@ -3406,7 +3424,7 @@
     ]
   },
   "ibc/C932ADFE2B4216397A4F17458B6E4468499B86C3BC8116180F85D799D6F5CC1B": {
-    "supply": "68984941990982",
+    "supply": "68984729310313",
     "path": "transfer/channel-187",
     "denom": "basecro",
     "chains": [
@@ -3454,7 +3472,7 @@
     ]
   },
   "ibc/CDAB23DA5495290063363BD1C3499E26189036302DC689985A7E23F8DF8D8DB0": {
-    "supply": "161311840",
+    "supply": "157493131",
     "path": "transfer/channel-207",
     "denom": "ujuno",
     "chains": [
@@ -3497,6 +3515,14 @@
     "supply": "995294473467",
     "path": "transfer/channel-141/transfer/channel-53",
     "denom": "nanolike",
+    "chains": [
+      "cosmoshub"
+    ]
+  },
+  "ibc/D168A1C00396A0547BE2553EB9E35535FE0B3D511DAB62F5C44A18B34001F123": {
+    "supply": "1",
+    "path": "transfer/channel-368",
+    "denom": "uglx",
     "chains": [
       "cosmoshub"
     ]
@@ -3606,7 +3632,7 @@
     ]
   },
   "ibc/DEC41A02E47658D40FC71E5A35A9C807111F5A6662A3FB5DA84C4E6F53E616B3": {
-    "supply": "185482876",
+    "supply": "186482876",
     "path": "transfer/channel-288",
     "denom": "uumee",
     "chains": [
@@ -3633,6 +3659,14 @@
     "supply": "1234567",
     "path": "transfer/channel-133",
     "denom": "uvoi",
+    "chains": [
+      "cosmoshub"
+    ]
+  },
+  "ibc/DFF85AD657334F18B92F66962AF8A5A0323343A60AEC7CA08EF295B33D3C0636": {
+    "supply": "110000000000",
+    "path": "transfer/channel-365",
+    "denom": "poppy",
     "chains": [
       "cosmoshub"
     ]
@@ -3665,6 +3699,14 @@
     "supply": "1000000",
     "path": "transfer/channel-165",
     "denom": "uakt",
+    "chains": [
+      "cosmoshub"
+    ]
+  },
+  "ibc/E3258760C4101D2132B8BA22BE0CDF981512F5BE6FBFA29A336129C56B78FA5F": {
+    "supply": "2000000000000000",
+    "path": "transfer/channel-361",
+    "denom": "usdt",
     "chains": [
       "cosmoshub"
     ]
@@ -3710,7 +3752,7 @@
     ]
   },
   "ibc/E7D5E9D0E9BF8B7354929A817DD28D4D017E745F638954764AA88522A7A409EC": {
-    "supply": "3429046169536",
+    "supply": "3427295160027",
     "path": "transfer/channel-229",
     "denom": "ubtsg",
     "chains": [
@@ -3813,6 +3855,14 @@
       "cosmoshub"
     ]
   },
+  "ibc/F19560D205D6617BBCDBD26F181C1B2F834809E0238FAB1CF973212F3644F36E": {
+    "supply": "999000",
+    "path": "transfer/channel-364",
+    "denom": "usat",
+    "chains": [
+      "cosmoshub"
+    ]
+  },
   "ibc/F5A22BEAA340446A5E85025BF9BCF883E484F4CC6452F215C5B62CE91A06ED0C": {
     "supply": "30",
     "path": "transfer/channel-247",
@@ -3822,7 +3872,7 @@
     ]
   },
   "ibc/F5ED5F3DC6F0EF73FA455337C027FE91ABCB375116BF51A228E44C493E020A09": {
-    "supply": "1031204945712313109456",
+    "supply": "1031204945712313109466",
     "path": "transfer/channel-192",
     "denom": "rowan",
     "chains": [
@@ -3838,7 +3888,7 @@
     ]
   },
   "ibc/F683FCA3C6BBC6924D8BD651751DE36D395680611EEA8D72EB0798475C35D6BD": {
-    "supply": "628073172473",
+    "supply": "628093172473",
     "path": "transfer/channel-141/transfer/channel-5",
     "denom": "basecro",
     "chains": [
@@ -3910,7 +3960,7 @@
     ]
   },
   "ibc/0634D0993744740D675AD01E81156EAC945AEAAE17C074918DC7FF52F41B263E": {
-    "supply": "4922228",
+    "supply": "5216228",
     "path": "transfer/channel-4",
     "denom": "uaxl",
     "chains": [
@@ -3957,8 +4007,16 @@
       "crescent"
     ]
   },
+  "ibc/170C677610AC31DF0904FFE09CD3B5C657492170E7E52372E48756B71E56F2F1": {
+    "supply": "1000000",
+    "path": "transfer/channel-9/transfer/channel-208",
+    "denom": "uusdc",
+    "chains": [
+      "crescent"
+    ]
+  },
   "ibc/177904239844D7D0E59D04F864D1278C07A80688EA67BCFA940E954FFA4CF699": {
-    "supply": "5560022",
+    "supply": "5560023",
     "path": "transfer/channel-8",
     "denom": "uluna",
     "chains": [
@@ -3982,10 +4040,10 @@
       "crescent"
     ]
   },
-  "ibc/2040EFEA457442ECBA673AC0B2F1C1F18B05D55F1B9C28EE703AB3B47BDC2E5F": {
-    "supply": "630",
-    "path": "transfer/channel-9/transfer/channel-144",
-    "denom": "ugraviton",
+  "ibc/21DB3093824F38A29399E7466B5870559AEC683D0D09D746F9EC47BB8505CBF7": {
+    "supply": "3914500000000000000",
+    "path": "transfer/channel-4",
+    "denom": "frax-wei",
     "chains": [
       "crescent"
     ]
@@ -4030,6 +4088,14 @@
       "crescent"
     ]
   },
+  "ibc/3A8B62C6C382FF2946FD5E2A4925740749CCAAC4BD94520C221A8F82B6091258": {
+    "supply": "11000",
+    "path": "transfer/channel-1/transfer/channel-281",
+    "denom": "gravity0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "chains": [
+      "crescent"
+    ]
+  },
   "ibc/3CED5A5E110D34AB68F5A5F7E872798BB9414E7B58E94FC13DBF8A1CB0A5A19D": {
     "supply": "10000000",
     "path": "transfer/channel-2/transfer/channel-66/transfer/channel-18",
@@ -4048,7 +4114,7 @@
     ]
   },
   "ibc/477788E9D2BBA5CF521C16BB7283C9B886C2CFE941360EF7BA702D78BD9C8DDB": {
-    "supply": "2000000",
+    "supply": "3000000",
     "path": "transfer/channel-2/transfer/channel-10",
     "denom": "uosmo",
     "chains": [
@@ -4064,7 +4130,7 @@
     ]
   },
   "ibc/5F999C145B3800DC8215811064A8E209829F0DEF6B82E1BFBEE39A03C2DD09AB": {
-    "supply": "299799954675443291",
+    "supply": "313093264922102141",
     "path": "transfer/channel-2",
     "denom": "gravity0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006",
     "chains": [
@@ -4072,7 +4138,7 @@
     ]
   },
   "ibc/6BAC9E41FC02790648FE597EA2AA09E7D8CD736E32D3EB286371C6C7D8D812F7": {
-    "supply": "1490",
+    "supply": "1510",
     "path": "transfer/channel-6",
     "denom": "uumee",
     "chains": [
@@ -4096,7 +4162,7 @@
     ]
   },
   "ibc/73E97EB411B29C6F989C35D277D1A7FC65083572F102AC6BD101884EE9FB2C9F": {
-    "supply": "2553",
+    "supply": "2664",
     "path": "transfer/channel-7",
     "denom": "aevmos",
     "chains": [
@@ -4115,6 +4181,14 @@
     "supply": "100",
     "path": "transfer/channel-2",
     "denom": "gravity0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "chains": [
+      "crescent"
+    ]
+  },
+  "ibc/87F5155243BC0233A8C98E75671972822092B5B321D18059FE0F95F6E1CD1420": {
+    "supply": "4252676",
+    "path": "transfer/channel-9/transfer/channel-144",
+    "denom": "gravity0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "chains": [
       "crescent"
     ]
@@ -4185,7 +4259,7 @@
     ]
   },
   "ibc/BFF0D3805B50D93E2FA5C0B2DDF7E0B30A631076CD80BC12A48C0E95404B4A41": {
-    "supply": "1400366169256",
+    "supply": "1381812249356",
     "path": "transfer/channel-4",
     "denom": "uusdc",
     "chains": [
@@ -4218,7 +4292,7 @@
     ]
   },
   "ibc/CD01034D6749F20AAC5330EF4FD8B8CA7C40F7527AB8C4A302FBD2A070852EE1": {
-    "supply": "1355248931485",
+    "supply": "1303594684384",
     "path": "transfer/channel-2",
     "denom": "gravity0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "chains": [
@@ -4243,7 +4317,7 @@
     ]
   },
   "ibc/DBF5FA602C46392DE9F4796A0FC7D02F3A8A3D32CA3FAA50B761D4AA6F619E95": {
-    "supply": "129368029746550609528",
+    "supply": "132742711327986806008",
     "path": "transfer/channel-2",
     "denom": "gravity0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "chains": [
@@ -4267,7 +4341,7 @@
     ]
   },
   "ibc/F1806958CA98757B91C3FA1573ECECD24F6FA3804F074A6977658914A49E65A3": {
-    "supply": "106949468389378404341",
+    "supply": "91621768389378404341",
     "path": "transfer/channel-4",
     "denom": "weth-wei",
     "chains": [
@@ -4278,6 +4352,14 @@
     "supply": "29000",
     "path": "transfer/channel-1/transfer/channel-141/transfer/channel-143/transfer/channel-4",
     "denom": "uusd",
+    "chains": [
+      "crescent"
+    ]
+  },
+  "ibc/FAB21D0938038EB746EA22C53C3147B7CF24AAAC9D84BE80D0D747D59626BDB1": {
+    "supply": "10000000000000000",
+    "path": "transfer/channel-7/transfer/channel-8/transfer/channel-17/transfer/channel-141/transfer/channel-204/transfer/channel-8",
+    "denom": "gravity0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "chains": [
       "crescent"
     ]
@@ -4355,7 +4437,7 @@
     ]
   },
   "ibc/3821E45F6EC4F8D9112CC497D8475879216AE06349011B9DB67B179CDE58A60C": {
-    "supply": "4000000000000000000000000",
+    "supply": "13000000000000000000000000",
     "path": "transfer/channel-0/transfer/channel-46",
     "denom": "attoONE",
     "chains": [
@@ -4420,7 +4502,7 @@
     ]
   },
   "ibc/6411AE2ADA1E73DB59DB151A8988F9B7D5E7E233D8414DB6817F8F1A01611F86": {
-    "supply": "237058586976378299",
+    "supply": "237582520747844762",
     "path": "transfer/channel-0",
     "denom": "basecro",
     "chains": [
@@ -5518,7 +5600,7 @@
     ]
   },
   "ibc/9ABBB41787E96DFD57EB3AD4E18323F26DBEABB2C4891F23A570BE42B37C2A07": {
-    "supply": "5009099000000000000",
+    "supply": "3437643568318154536",
     "path": "transfer/channel-14",
     "denom": "rowan",
     "chains": [
@@ -5532,14 +5614,6 @@
     "chains": [
       "emoney",
       "juno"
-    ]
-  },
-  "ibc/B88536BFB1C6FCEFD827AF99C9321BB47CBE4198A6FB503B2DEB40562A3F777C": {
-    "supply": "302197908350842913",
-    "path": "transfer/channel-14",
-    "denom": "cbtsg",
-    "chains": [
-      "emoney"
     ]
   },
   "ibc/DC1887EED14BCE5A57C8B58E2E7BDC555C96B3CE33B3023E57A4DD34EA9FA073": {
@@ -5567,7 +5641,7 @@
     ]
   },
   "ibc/FA9EE003772526394268E66E81AA4874AEBF8A109D8B09EF37AC25905899F26B": {
-    "supply": "5472000",
+    "supply": "5766000",
     "path": "transfer/channel-26",
     "denom": "uaxl",
     "chains": [
@@ -5633,7 +5707,7 @@
     ]
   },
   "ibc/2B58B8C147E8718EECCB3713271DF46DEE8A3A00A27242628604E31C2F370EF5": {
-    "supply": "13",
+    "supply": "14",
     "path": "transfer/channel-12",
     "denom": "uluna",
     "chains": [
@@ -5692,14 +5766,6 @@
       "evmos"
     ]
   },
-  "ibc/378EDEED0570F8407596842BD366ACF9F97DFC4C91F7CACD2CAB9CF617CC6CAB": {
-    "supply": "1319000000000000000",
-    "path": "transfer/channel-0/transfer/channel-0/transfer/channel-292",
-    "denom": "aevmos",
-    "chains": [
-      "evmos"
-    ]
-  },
   "ibc/384F9594B7AA7CA83F0201960128E2DC70D84DEDB74B3E843D74378224F9D4A0": {
     "supply": "100101",
     "path": "transfer/channel-16",
@@ -5733,7 +5799,7 @@
     ]
   },
   "ibc/473351B37CC9D7BA7B247800EF04D255E442C4C9C93976E3631B190A8F3C5570": {
-    "supply": "40000",
+    "supply": "187000",
     "path": "transfer/channel-21",
     "denom": "uaxl",
     "chains": [
@@ -5756,6 +5822,14 @@
       "evmos"
     ]
   },
+  "ibc/61F3D4579270AC8F0009C06C1F557856503A17EA552B7E046F586DE9A893DFC0": {
+    "supply": "1000000000000000000",
+    "path": "transfer/channel-8",
+    "denom": "gravity0x93581991f68DBaE1eA105233b67f7FA0D6BDeE7b",
+    "chains": [
+      "evmos"
+    ]
+  },
   "ibc/63C53CBDF471D4E867366ABE2E631197257118D1B2BEAD1946C8A408F96464C3": {
     "supply": "100000",
     "path": "transfer/channel-21",
@@ -5774,7 +5848,7 @@
     ]
   },
   "ibc/693989F95CF3279ADC113A6EF21B02A51EC054C95A9083F2E290126668149433": {
-    "supply": "541255659",
+    "supply": "11646101400",
     "path": "transfer/channel-8",
     "denom": "gravity0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "chains": [
@@ -5790,7 +5864,7 @@
     ]
   },
   "ibc/6B3FCE336C3465D3B72F7EFB4EB92FC521BC480FE9653F627A0BD0237DF213F3": {
-    "supply": "23222000000000000",
+    "supply": "2299066864511727751",
     "path": "transfer/channel-8",
     "denom": "gravity0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "chains": [
@@ -5848,7 +5922,7 @@
     ]
   },
   "ibc/8CDDBE338A09671760815DFB91F43E4E910E1E285FAD1B2A8DB62D2B0F62639A": {
-    "supply": "36582108",
+    "supply": "41762675",
     "path": "transfer/channel-0/transfer/channel-144",
     "denom": "ugraviton",
     "chains": [
@@ -5930,7 +6004,7 @@
     ]
   },
   "ibc/B5AB26FB63C08E1C14B91B4DDC15CA4FE59737052B4432D8A3B328B66F6FE7A1": {
-    "supply": "5",
+    "supply": "6",
     "path": "transfer/channel-11",
     "denom": "ucre",
     "chains": [
@@ -5946,7 +6020,7 @@
     ]
   },
   "ibc/BF25D70C6347C21597B23469BD91DD5E9493E973E7FC853A6DA57A6D6CFAEBDF": {
-    "supply": "8044000",
+    "supply": "8448000",
     "path": "transfer/channel-0/transfer/channel-144",
     "denom": "gravity0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "chains": [
@@ -5969,6 +6043,14 @@
     "chains": [
       "evmos",
       "kava"
+    ]
+  },
+  "ibc/C36BAC9269D5BDB23F5AF52B74033C3BC181DD74DA8A40B4C9E8C537D259D00F": {
+    "supply": "10000000000000000",
+    "path": "transfer/channel-8/transfer/channel-17/transfer/channel-141/transfer/channel-204/transfer/channel-8",
+    "denom": "gravity0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "chains": [
+      "evmos"
     ]
   },
   "ibc/C80930149284D56D214B35E7A088944892A4F8A3E65297AD571AC5A0967D3614": {
@@ -6003,8 +6085,16 @@
       "evmos"
     ]
   },
+  "ibc/D884FE6B2F0B0E5267D460A49235A2AF0824F1B62FC22E4F32AB8C2F7619D40F": {
+    "supply": "1",
+    "path": "transfer/channel-8",
+    "denom": "gravity0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+    "chains": [
+      "evmos"
+    ]
+  },
   "ibc/D8921A62D207159A25FFEA0DB4E7DB623A095219B60D99768CCE9D3DF66122C7": {
-    "supply": "44705268646205082079",
+    "supply": "6138427889384306079",
     "path": "transfer/channel-3/transfer/channel-141/transfer/channel-204",
     "denom": "aevmos",
     "chains": [
@@ -6036,7 +6126,7 @@
     ]
   },
   "ibc/DF63978F803A2E27CA5CC9B7631654CCF0BBC788B3B7F0A10200508E37C70992": {
-    "supply": "377408447",
+    "supply": "381984455",
     "path": "transfer/channel-8",
     "denom": "gravity0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "chains": [
@@ -6187,7 +6277,7 @@
     ]
   },
   "ibc/048BE20AE2E6BFD4142C547E04F17E5F94363003A12B7B6C084E08101BFCF7D1": {
-    "supply": "706400962160",
+    "supply": "706400962159",
     "path": "transfer/channel-34",
     "denom": "uhuahua",
     "chains": [
@@ -6203,7 +6293,7 @@
     ]
   },
   "ibc/0BD25234B63E6EE229B0A92D3832AE29445DA528356219B8A950253C2BF0AA9C": {
-    "supply": "52965106",
+    "supply": "53055161",
     "path": "transfer/channel-17/transfer/channel-141/transfer/channel-144",
     "denom": "ugraviton",
     "chains": [
@@ -6211,7 +6301,7 @@
     ]
   },
   "ibc/0C273962C274B2C05B22D9474BFE5B84D6A6FCAD198CB9B0ACD35EA521A36606": {
-    "supply": "54001749675837",
+    "supply": "53709160297113",
     "path": "transfer/channel-18",
     "denom": "unym",
     "chains": [
@@ -6275,7 +6365,7 @@
     ]
   },
   "ibc/22007E398D77B0DDC0120FC12FA7EDF5D523CE29AF9F9B96909A73AF0A33B487": {
-    "supply": "47058538",
+    "supply": "10550853",
     "path": "transfer/channel-8/transfer/channel-27",
     "denom": "uusd",
     "chains": [
@@ -6339,6 +6429,14 @@
       "gravitybridge"
     ]
   },
+  "ibc/3A3935207F71256720C1469988FD8ECB6BC30367711B115919C751BD6C788D0E": {
+    "supply": "1000",
+    "path": "transfer/channel-62/transfer/channel-1/transfer/channel-281",
+    "denom": "gravity0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "chains": [
+      "gravitybridge"
+    ]
+  },
   "ibc/3AA25389BBD1BB16074847AB75911F8B5985673F63E23C181E8500428FB5A333": {
     "supply": "10100",
     "path": "transfer/channel-66",
@@ -6356,7 +6454,7 @@
     ]
   },
   "ibc/3D5109BC236E6BD75F90CC03A5B7AA360FF3CB3F535B662227CEE78E83477AD9": {
-    "supply": "211524680",
+    "supply": "211484680",
     "path": "transfer/channel-47",
     "denom": "uiris",
     "chains": [
@@ -6397,7 +6495,7 @@
     ]
   },
   "ibc/4CD51DA94425EB1C8D1983832E46F410528DB2AAFBFC0C646845DAC2DB7D97AE": {
-    "supply": "17772471",
+    "supply": "19981474",
     "path": "transfer/channel-62",
     "denom": "ucre",
     "chains": [
@@ -6405,7 +6503,7 @@
     ]
   },
   "ibc/5012B1C96F286E8A6604A87037CE51241C6F1CA195B71D1E261FCACB69FB6BC2": {
-    "supply": "1809178688906011",
+    "supply": "1809178689006011",
     "path": "transfer/channel-43",
     "denom": "ncheq",
     "chains": [
@@ -6440,6 +6538,14 @@
     "supply": "200000",
     "path": "transfer/channel-62",
     "denom": "ubcre",
+    "chains": [
+      "gravitybridge"
+    ]
+  },
+  "ibc/64BBBEB97DA04B6CF7A29A5454E43E101B29F506C117E800E128E0B32BA3FE3D": {
+    "supply": "50000000000000000",
+    "path": "transfer/channel-88",
+    "denom": "acanto",
     "chains": [
       "gravitybridge"
     ]
@@ -6533,6 +6639,14 @@
       "gravitybridge"
     ]
   },
+  "ibc/8AFF615A75B218AA8BAAA6A7508C9A6925788B8EE9C966718E764627F6954F5B": {
+    "supply": "10000000000000000",
+    "path": "transfer/channel-17/transfer/channel-141/transfer/channel-204/transfer/channel-8",
+    "denom": "gravity0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "chains": [
+      "gravitybridge"
+    ]
+  },
   "ibc/8B27EF523C778E11284F18996B4D73650BD36BA79978D9B5FD012BDBAD17376F": {
     "supply": "170",
     "path": "transfer/channel-81",
@@ -6542,7 +6656,7 @@
     ]
   },
   "ibc/8F991F0845319611CEE1B7570A0A1EE75D8909A9664AE614BCCFF25E1D244BE9": {
-    "supply": "2",
+    "supply": "3",
     "path": "transfer/channel-10/transfer/channel-208",
     "denom": "wbtc-satoshi",
     "chains": [
@@ -6613,6 +6727,14 @@
       "gravitybridge"
     ]
   },
+  "ibc/B4AEAB744459CD2428206C178256AE6B2A29D24DD5E8EB9CAFFFDDF2FBD1998B": {
+    "supply": "1000000",
+    "path": "transfer/channel-8/transfer/channel-71",
+    "denom": "uusdc",
+    "chains": [
+      "gravitybridge"
+    ]
+  },
   "ibc/B58C182CEE405FA8C3122BFC9F2A343EAFFBBE069AE4A7606DCAF753E122C1B1": {
     "supply": "2000",
     "path": "transfer/channel-10/transfer/channel-122",
@@ -6654,7 +6776,7 @@
     ]
   },
   "ibc/BFFE5A22450AB53580906F6023F88E308873A1B8D9FE058929063C20C928D1A8": {
-    "supply": "1575392692972307",
+    "supply": "1575392692972507",
     "path": "transfer/channel-10/transfer/channel-208",
     "denom": "weth-wei",
     "chains": [
@@ -6712,6 +6834,14 @@
       "gravitybridge"
     ]
   },
+  "ibc/E27D9033FDDAF3A758E264AC9D391CFDD5E741F16812495900DE40DFCF2DCF4A": {
+    "supply": "100000",
+    "path": "transfer/channel-53",
+    "denom": "uatolo",
+    "chains": [
+      "gravitybridge"
+    ]
+  },
   "ibc/E422BDE7D11FE46C2AB48211424674259B194E93450AED0783D96E92F4A998E6": {
     "supply": "10000000000000000",
     "path": "transfer/channel-66",
@@ -6721,7 +6851,7 @@
     ]
   },
   "ibc/EA8382CEE0F6BB3C4B84736D39EFC7474EDCE57EAAEA7DCDF25C0AA96596D78E": {
-    "supply": "11102419033925468770",
+    "supply": "12102419033925468770",
     "path": "transfer/channel-10/transfer/channel-204",
     "denom": "aevmos",
     "chains": [
@@ -6775,6 +6905,14 @@
     "chains": [
       "gravitybridge",
       "stargaze"
+    ]
+  },
+  "ibc/FC3A3552320A13889D56174F9A943F27602C5C748CEB6E2A46CF97B8EE53CCE5": {
+    "supply": "1000000",
+    "path": "transfer/channel-17/transfer/channel-293",
+    "denom": "uusdc",
+    "chains": [
+      "gravitybridge"
     ]
   },
   "ibc/FC7FC998E422DD0B6CF665C5DEA1128D42CA7987A4B998FC8DD2E998318F2A19": {
@@ -6835,7 +6973,7 @@
     ]
   },
   "ibc/0954E1C28EB7AF5B72D24F3BC2B47BBB2FDF91BDDFD57B74B99E133AED40972A": {
-    "supply": "10011",
+    "supply": "2181011",
     "path": "transfer/channel-88",
     "denom": "uscrt",
     "chains": [
@@ -6844,7 +6982,7 @@
     ]
   },
   "ibc/16618B7F7AC551F48C057A13F4CA5503693FBFF507719A85BC6876B8BD75F821": {
-    "supply": "2099237861906852340934",
+    "supply": "4790097861906852340934",
     "path": "transfer/channel-83",
     "denom": "aevmos",
     "chains": [
@@ -6876,7 +7014,7 @@
     ]
   },
   "ibc/624BA9DD171915A2B9EA70F69638B2CEA179959850C1A586F6C485498F29EDD4": {
-    "supply": "8860000001011",
+    "supply": "9977200001011",
     "path": "transfer/channel-84",
     "denom": "dot-planck",
     "chains": [
@@ -6950,7 +7088,7 @@
     ]
   },
   "ibc/B68C1D2682A8B69E20BB921E34C6A3A2B6D1E13E3E8C0092E373826F546DEE65": {
-    "supply": "2730070",
+    "supply": "2877070",
     "path": "transfer/channel-84",
     "denom": "uaxl",
     "chains": [
@@ -7065,7 +7203,7 @@
     ]
   },
   "ibc/6DF82C1C886C15A5D1F514D30318C7C1431B08EABE7658E6A582CCFC52D8E0AB": {
-    "supply": "1082812173716",
+    "supply": "1214416475083",
     "path": "transfer/channel-32",
     "denom": "uiov",
     "chains": [
@@ -7089,7 +7227,7 @@
     ]
   },
   "ibc/A5A5EBF3B7A180FBA2A3CE133153F5B904AA8B085691F66A15BE8156B6722652": {
-    "supply": "83001268192",
+    "supply": "73459406582",
     "path": "transfer/channel-29",
     "denom": "gravity0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "chains": [
@@ -7105,7 +7243,7 @@
     ]
   },
   "ibc/A8C2D23A1E6F95DA4E48BA349667E322BD7A6C996D8A4AAE8BA72E190F3D1477": {
-    "supply": "5906005",
+    "supply": "5888920",
     "path": "transfer/channel-12",
     "denom": "uatom",
     "chains": [
@@ -7150,7 +7288,7 @@
     ]
   },
   "ibc/DDC0CE4852A53B1D3A6BF056CBB59701AC8E91798028CD7C2A7F490A753F8A88": {
-    "supply": "4625357393536",
+    "supply": "4696095614461",
     "path": "transfer/channel-29",
     "denom": "ugraviton",
     "chains": [
@@ -7174,7 +7312,7 @@
     ]
   },
   "ibc/E244B968EE0D1EC047E7516F6ABECE7B68E9FD93B4BD8D08D13642247416BB17": {
-    "supply": "54852658612556713458",
+    "supply": "54417975002469013133",
     "path": "transfer/channel-29",
     "denom": "gravity0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "chains": [
@@ -7224,7 +7362,7 @@
     ]
   },
   "ibc/008BFD000A10BCE5F0D4DD819AE1C1EC2942396062DABDD6AE64A655ABC7085B": {
-    "supply": "505950129453",
+    "supply": "514258416886",
     "path": "transfer/channel-17",
     "denom": "ubtsg",
     "chains": [
@@ -7265,7 +7403,7 @@
     ]
   },
   "ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9": {
-    "supply": "417501583396",
+    "supply": "410538838967",
     "path": "transfer/channel-50",
     "denom": "ubcna",
     "chains": [
@@ -7281,7 +7419,7 @@
     ]
   },
   "ibc/107D152BB3176FAEBF4C2A84C5FFDEEA7C7CB4FE1BBDAB710F1FD25BCD055CBF": {
-    "supply": "6730069",
+    "supply": "23280069",
     "path": "transfer/channel-86",
     "denom": "uluna",
     "chains": [
@@ -7400,14 +7538,6 @@
       "juno"
     ]
   },
-  "ibc/30602D8AFA040F9FB3AC242F88EC93F5BD07FF79FC95265A6EE878ADD61F92E8": {
-    "supply": "302561598151470839",
-    "path": "transfer/channel-31",
-    "denom": "gravity0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-    "chains": [
-      "juno"
-    ]
-  },
   "ibc/3280DF9D7DE7C2966FB4E075123942EA04BE3114AE7F3B064954A6772BA5D73E": {
     "supply": "1000000",
     "path": "transfer/channel-0/transfer/channel-0/transfer/channel-207/transfer/channel-27",
@@ -7428,6 +7558,14 @@
     "supply": "120000",
     "path": "transfer/channel-1/transfer/channel-326/transfer/channel-0",
     "denom": "uusd",
+    "chains": [
+      "juno"
+    ]
+  },
+  "ibc/43CAA14110CBF0C3FBE58BB661FF2D23B87F9D9578B71F88D78CE157D7E18571": {
+    "supply": "14332",
+    "path": "transfer/channel-0/transfer/channel-169",
+    "denom": "cw20:juno1gz8cf86zr4vw9cjcyyv432vgdaecvr9n254d3uwwkx9rermekddsxzageh",
     "chains": [
       "juno"
     ]
@@ -7473,7 +7611,7 @@
     ]
   },
   "ibc/52423136339C1CE8C91F6A586DFE41591BDDD4665AE526DFFA8421F9ACF95196": {
-    "supply": "237527347",
+    "supply": "251325504",
     "path": "transfer/channel-9",
     "denom": "ungm",
     "chains": [
@@ -7497,7 +7635,7 @@
     ]
   },
   "ibc/5CB906E82B7A88E62644AD811361F5858B74BA9EBD75C84B6D24B20C01A4819F": {
-    "supply": "105569797710",
+    "supply": "104971867184",
     "path": "transfer/channel-83",
     "denom": "umntl",
     "chains": [
@@ -7516,6 +7654,14 @@
     "supply": "490000",
     "path": "transfer/channel-27/transfer/channel-1/transfer/channel-42",
     "denom": "ujuno",
+    "chains": [
+      "juno"
+    ]
+  },
+  "ibc/5DC7EFFDC879FEA9298FC4C953B12171EB93708EA9239FC58FB8020C9937A2ED": {
+    "supply": "4980",
+    "path": "transfer/channel-31",
+    "denom": "gravity0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "chains": [
       "juno"
     ]
@@ -7545,7 +7691,7 @@
     ]
   },
   "ibc/6842C591DC4588411A565C9FF650FB15A17DFE3F0A43201E8141E4D14B8D171A": {
-    "supply": "2558539359700",
+    "supply": "2741002198218",
     "path": "transfer/channel-37",
     "denom": "udig",
     "chains": [
@@ -7577,7 +7723,7 @@
     ]
   },
   "ibc/7455B3F2F2737906BACF4AE980069A4CAB7C7F9FDAABAEFBA439DF037AEC5898": {
-    "supply": "298165758393",
+    "supply": "298124978725",
     "path": "transfer/channel-33",
     "denom": "uxprt",
     "chains": [
@@ -7593,7 +7739,7 @@
     ]
   },
   "ibc/7F7D3698E2E3484D576001608BB84D13F5C8B02B97359716ECC60A29A7523BF3": {
-    "supply": "110",
+    "supply": "1000110",
     "path": "transfer/channel-87",
     "denom": "ukuji",
     "chains": [
@@ -7689,7 +7835,7 @@
     ]
   },
   "ibc/946AD96F278770521526D7283F58268DA2F6ACDDE40324A9D1C86811D78C86A0": {
-    "supply": "38289753077",
+    "supply": "38993734109",
     "path": "transfer/channel-36",
     "denom": "ucmdx",
     "chains": [
@@ -7802,7 +7948,7 @@
     ]
   },
   "ibc/B22D08F0E3D08968FB3CBEE2C1E993581A99AAAA60D0490C1AF7DCE567D5FDDA": {
-    "supply": "2300000",
+    "supply": "42664000",
     "path": "transfer/channel-71",
     "denom": "uusdt",
     "chains": [
@@ -7810,7 +7956,7 @@
     ]
   },
   "ibc/B55B08EF3667B0C6F029C2CC9CAA6B00788CF639EBB84B34818C85CBABA33ABD": {
-    "supply": "21672854155",
+    "supply": "23546286550",
     "path": "transfer/channel-48",
     "denom": "uscrt",
     "chains": [
@@ -7851,7 +7997,7 @@
     ]
   },
   "ibc/B937E34D0098DC9941519BA352B4AB63B682DAE8A82CAB818AA0C9965E2E06F7": {
-    "supply": "201337000",
+    "supply": "216984792",
     "path": "transfer/channel-0/transfer/channel-169",
     "denom": "cw20:juno1j0a9ymgngasfn3l5me8qpd53l5zlm9wurfdk7r65s5mg6tkxal3qpgf5se",
     "chains": [
@@ -7859,7 +8005,7 @@
     ]
   },
   "ibc/B9F7C1E4CE9219B5AF06C47B18661DBD49CCD7A6C18FF789E2FB62BB365CFF9C": {
-    "supply": "1734993243",
+    "supply": "1996703167",
     "path": "transfer/channel-9",
     "denom": "eeur",
     "chains": [
@@ -8011,7 +8157,7 @@
     ]
   },
   "ibc/D836B191CDAE8EDACDEBE7B64B504C5E06CC17C6A072DAF278F9A96DF66F6241": {
-    "supply": "62256564884293",
+    "supply": "245589617670546",
     "path": "transfer/channel-28",
     "denom": "uhuahua",
     "chains": [
@@ -8028,7 +8174,7 @@
     ]
   },
   "ibc/DA5CC4D5B4EBB466AC3C02F21B42E21389EFCD97B530859C833C0D2613371249": {
-    "supply": "421192000",
+    "supply": "841232000",
     "path": "transfer/channel-94",
     "denom": "loki",
     "chains": [
@@ -8052,7 +8198,7 @@
     ]
   },
   "ibc/DFC6F33796D5D0075C5FB54A4D7B8E76915ACF434CB1EE2A1BA0BB8334E17C3A": {
-    "supply": "31054119665",
+    "supply": "31553925054",
     "path": "transfer/channel-29",
     "denom": "uakt",
     "chains": [
@@ -8084,7 +8230,7 @@
     ]
   },
   "ibc/EAC38D55372F38F1AFD68DF7FE9EF762DCF69F26520643CF3F9D292A738D8034": {
-    "supply": "2285292120197",
+    "supply": "2428811945119",
     "path": "transfer/channel-71",
     "denom": "uusdc",
     "chains": [
@@ -8092,7 +8238,7 @@
     ]
   },
   "ibc/EBE900AED8FF6BB2E186B17B066138F647CDD9647EF4FBE2DE6C8D4013A2C990": {
-    "supply": "6888010",
+    "supply": "7182010",
     "path": "transfer/channel-71",
     "denom": "uaxl",
     "chains": [
@@ -8116,7 +8262,7 @@
     ]
   },
   "ibc/F6B367385300865F654E110976B838502504231705BAC0849B0651C226385885": {
-    "supply": "718216620561",
+    "supply": "733565561437",
     "path": "transfer/channel-20",
     "denom": "ustars",
     "chains": [
@@ -8210,7 +8356,7 @@
     ]
   },
   "ibc/30C9FA3DF80892CF4615A84845349EAD427670CB38C6B03B0388BE8543B2AB4D": {
-    "supply": "1014502184",
+    "supply": "1015360102",
     "path": "transfer/channel-1/transfer/channel-72",
     "denom": "uusd",
     "chains": [
@@ -8321,7 +8467,7 @@
     ]
   },
   "ibc/799FDD409719A1122586A629AE8FCA17380351A51C1F47A80A1B8E7F2A491098": {
-    "supply": "2359652042392",
+    "supply": "2335304465107",
     "path": "transfer/channel-5",
     "denom": "uakt",
     "chains": [
@@ -8520,7 +8666,7 @@
     ]
   },
   "ibc/004EBF085BBED1029326D56BE8A2E67C08CECE670A94AC1947DF413EF5130EB2": {
-    "supply": "183395543000000000000",
+    "supply": "186585364000000000000",
     "path": "transfer/channel-9",
     "denom": "wavax-wei",
     "chains": [
@@ -8528,7 +8674,7 @@
     ]
   },
   "ibc/05554A9BFDD28894D7F18F4C707AA0930D778751A437A9FE1F4684A3E1199728": {
-    "supply": "21918661",
+    "supply": "19969284",
     "path": "transfer/channel-3/transfer/channel-208",
     "denom": "uusdc",
     "chains": [
@@ -8536,7 +8682,7 @@
     ]
   },
   "ibc/1B38805B1C75352B28169284F96DF56BDEBD9E8FAC005BDCC8CF0378C82AA8E7": {
-    "supply": "8767313999982000000",
+    "supply": "5874213999982000000",
     "path": "transfer/channel-9",
     "denom": "weth-wei",
     "chains": [
@@ -8544,7 +8690,7 @@
     ]
   },
   "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F": {
-    "supply": "2284881986991",
+    "supply": "3566147589148",
     "path": "transfer/channel-9",
     "denom": "uusdc",
     "chains": [
@@ -8567,26 +8713,10 @@
       "kujira"
     ]
   },
-  "ibc/4472060867B1527ECE6456D82B463A536EAF4ABC57E0099FF5302F4C93D8C65E": {
-    "supply": "1181798708",
-    "path": "transfer/channel-3/transfer/channel-75",
-    "denom": "ustars",
-    "chains": [
-      "kujira"
-    ]
-  },
   "ibc/47B9460DB83EF85065B43266910645FEB8D2BC1CD5CAC970823E4D749797BC6F": {
     "supply": "200086000000",
     "path": "transfer/channel-29",
     "denom": "umeme",
-    "chains": [
-      "kujira"
-    ]
-  },
-  "ibc/49CCA5C7C250B95DC27934C5F30BFCD486A3A9B559A4DD45B914A935ED2D7391": {
-    "supply": "4000000000000000000",
-    "path": "transfer/channel-3/transfer/channel-204",
-    "denom": "aevmos",
     "chains": [
       "kujira"
     ]
@@ -8599,8 +8729,16 @@
       "kujira"
     ]
   },
+  "ibc/8318B7E036E50C0CF799848F23ED84778AAA8749D9C0BCD4FF3F4AF73C53387F": {
+    "supply": "1000000",
+    "path": "transfer/channel-31",
+    "denom": "cw20:juno1qsrercqegvs4ye0yqg93knv73ye5dc3prqwd6jcdcuj8ggp6w0us66deup",
+    "chains": [
+      "kujira"
+    ]
+  },
   "ibc/9CE44E58B581726BAC0E46E3D4B854EF92E04450ED22F9FA84CC96B9DE92A2C8": {
-    "supply": "30000000000000000",
+    "supply": "31000000000000000",
     "path": "transfer/channel-27",
     "denom": "wei",
     "chains": [
@@ -8608,7 +8746,7 @@
     ]
   },
   "ibc/A64467480BBE4CCFC3CF7E25AD1446AA9BDBD4F5BCB9EF6038B83D6964C784E6": {
-    "supply": "4500006000000000000",
+    "supply": "8500083000000000000",
     "path": "transfer/channel-9",
     "denom": "wmatic-wei",
     "chains": [
@@ -8640,7 +8778,7 @@
     ]
   },
   "ibc/C082038FB8D212B1678142F381A47056CADD18617F6077C3162A9E97C2490921": {
-    "supply": "56806147394",
+    "supply": "63965148460",
     "path": "transfer/channel-16",
     "denom": "ucrbrus",
     "chains": [
@@ -8671,6 +8809,14 @@
       "kujira"
     ]
   },
+  "ibc/DC848959A3584875FB85E6984EC87171C748FB37FAA3D6D79919BBE032A8B99B": {
+    "supply": "100000000",
+    "path": "transfer/channel-1/transfer/channel-27",
+    "denom": "uluna",
+    "chains": [
+      "kujira"
+    ]
+  },
   "ibc/E67ADA2204A941CD4743E70771BA08E24885E1ADD6FD140CE1F9E0FEBB68C6B2": {
     "supply": "349427844000000000000",
     "path": "transfer/channel-9",
@@ -8679,8 +8825,16 @@
       "kujira"
     ]
   },
+  "ibc/EA20485E9BEBF77BB3638A79F60A0E1D0A12A6289972F30E475529C80BF5C960": {
+    "supply": "10000000000000000",
+    "path": "transfer/channel-27",
+    "denom": "usdt",
+    "chains": [
+      "kujira"
+    ]
+  },
   "ibc/EFF323CC632EC4F747C61BCE238A758EFDB7699C3226565F7C20DA06509D59A5": {
-    "supply": "952892820",
+    "supply": "2074158393",
     "path": "transfer/channel-1",
     "denom": "ujuno",
     "chains": [
@@ -8696,7 +8850,7 @@
     ]
   },
   "ibc/F3AA7EF362EC5E791FE78A0F4CCC69FEE1F9A7485EB1A8CAB3F6601C00522F10": {
-    "supply": "3827251807857601696038",
+    "supply": "3188265573633459590483",
     "path": "transfer/channel-23",
     "denom": "aevmos",
     "chains": [
@@ -8826,7 +8980,7 @@
     ]
   },
   "ibc/CC12CFFD769D5E0059D98E760DD34FAB477261785B99240C97F6AABC4F566CB5": {
-    "supply": "1840128514389",
+    "supply": "1817973415522",
     "path": "transfer/channel-5",
     "denom": "uhuahua",
     "chains": [
@@ -8843,7 +8997,7 @@
     ]
   },
   "ibc/F951C98B3D08879376970DD39F74907896391810FD40AF9B2357A02E9E82BBA5": {
-    "supply": "321033681",
+    "supply": "350167611",
     "path": "transfer/channel-20",
     "denom": "ujuno",
     "chains": [
@@ -8892,7 +9046,7 @@
     ]
   },
   "ibc/4F7464EEE736CCFB6B444EB72DE60B3B43C0DD509FFA2B87E05D584467AAE8C8": {
-    "supply": "94410249776958000000000000",
+    "supply": "95939905579407000000000000",
     "path": "transfer/channel-20",
     "denom": "oraib0x257a8d1E03D17B8535a182301f15290F11674b53",
     "chains": [
@@ -8925,7 +9079,7 @@
     ]
   },
   "ibc/6BDB8BDA5E9BD0147AF3EB2B195980914B4ED18468D2D4DABB6081A5D9E4B9C0": {
-    "supply": "2862157195000000000000",
+    "supply": "3157591803000000000000",
     "path": "transfer/channel-20",
     "denom": "oraib0xA325Ad6D9c92B55A3Fc5aD7e412B1518F96441C0",
     "chains": [
@@ -8957,7 +9111,7 @@
     ]
   },
   "ibc/9C4DCD21B48231D0BC2AC3D1B74A864746B37E4292694C93C617324250D002FC": {
-    "supply": "655491220",
+    "supply": "657179722",
     "path": "transfer/channel-13",
     "denom": "uosmo",
     "chains": [
@@ -8973,7 +9127,7 @@
     ]
   },
   "ibc/A2E2EEC9057A4A1C2C0A6A4C78B0239118DF5F278830F50B4A6BDD7A66506B78": {
-    "supply": "36657738363",
+    "supply": "36807363063",
     "path": "transfer/channel-15",
     "denom": "uatom",
     "chains": [
@@ -8997,7 +9151,7 @@
     ]
   },
   "ibc/C458B4CC4F5581388B9ACB40774FDFBCEDC77A7F7CDFB112B469794AF86C4A69": {
-    "supply": "50597279332702000000000000",
+    "supply": "51337480920839000000000000",
     "path": "transfer/channel-20",
     "denom": "oraib0x7e2A35C746F2f7C240B664F1Da4DD100141AE71F",
     "chains": [
@@ -9029,7 +9183,7 @@
     ]
   },
   "ibc/E8B5509BE79025DD7A572430204271D3061A535CC66A3A28FDEC4573E473F32F": {
-    "supply": "262985749248000000000000",
+    "supply": "249459104945000000000000",
     "path": "transfer/channel-20",
     "denom": "oraib0x55d398326f99059fF775485246999027B3197955",
     "chains": [
@@ -9053,7 +9207,7 @@
     ]
   },
   "ibc/00B6E60AD3D65CBEF5579AC8AF609527C0B57535B6E32D96C80A735344FD9DCC": {
-    "supply": "730168183400",
+    "supply": "724747635617",
     "path": "transfer/channel-169",
     "denom": "cw20:juno15u3dt79t6sxxa3x3kpkhzsy56edaa5a66wvt3kxmukqjz2sx0hes5sn38g",
     "chains": [
@@ -9077,7 +9231,7 @@
     ]
   },
   "ibc/022A879A5301CBCACF96216C967805F15C33C615B74DC7236027C1BA1BF664FF": {
-    "supply": "2821815864152",
+    "supply": "2822790802483",
     "path": "transfer/channel-73",
     "denom": "ft4B030260D99E3ABE2B604EA2B33BAF3C085CDA12",
     "chains": [
@@ -9085,7 +9239,7 @@
     ]
   },
   "ibc/035520F101E91F234E83E55C20A66780A30820611B17A38EF53AF98D796A9BFC": {
-    "supply": "8459000000000000000",
+    "supply": "12140000000000000000",
     "path": "transfer/channel-0/transfer/channel-292",
     "denom": "aevmos",
     "chains": [
@@ -9093,7 +9247,7 @@
     ]
   },
   "ibc/051A38BBEF92B9D8293AFBE1FA293E704359E9CB28297A0FD5DBA3E9CCEE9AB1": {
-    "supply": "2816197360858",
+    "supply": "2817172324189",
     "path": "transfer/channel-73",
     "denom": "ft85AE1716C5E39EA6D64BBD7898C3899A7B500626",
     "chains": [
@@ -9133,7 +9287,7 @@
     ]
   },
   "ibc/0C024D3D5B57FB5F0A05982F8B7D4214D3A6A661D6F8E0979E5B70039616CEB8": {
-    "supply": "90000000000000000",
+    "supply": "85000000000000000",
     "path": "transfer/channel-277",
     "denom": "wei",
     "chains": [
@@ -9141,7 +9295,7 @@
     ]
   },
   "ibc/0CB9DB3441D0D50F35699DEE22B9C965487E83FB2D9F483D1CC5CA34E856C484": {
-    "supply": "62973219779",
+    "supply": "63352963995",
     "path": "transfer/channel-169",
     "denom": "cw20:juno1n7n7d5088qlzlj37e9mgmkhx6dfgtvt02hqxq66lcap4dxnzdhwqfmgng3",
     "chains": [
@@ -9149,7 +9303,7 @@
     ]
   },
   "ibc/0CD3A0285E1341859B5E86B6AB7682F023D03E97607CCC1DC95706411D866DF7": {
-    "supply": "3844385315335443201187081",
+    "supply": "3513793433749401733072919",
     "path": "transfer/channel-208",
     "denom": "dai-wei",
     "chains": [
@@ -9157,7 +9311,7 @@
     ]
   },
   "ibc/0E43EDE2E2A3AFA36D0CD38BDDC0B49FECA64FA426A82E102F304E430ECF46EE": {
-    "supply": "15127631381172141188606",
+    "supply": "15122716881172141188606",
     "path": "transfer/channel-208",
     "denom": "frax-wei",
     "chains": [
@@ -9237,7 +9391,7 @@
     ]
   },
   "ibc/1480B8FD20AD5FCAE81EA87584D269547DD4D436843C1D20F15E00EB64743EF4": {
-    "supply": "6665639163620",
+    "supply": "7222125546494",
     "path": "transfer/channel-1",
     "denom": "uakt",
     "chains": [
@@ -9286,7 +9440,7 @@
     ]
   },
   "ibc/161D7D62BAB3B9C39003334F1671208F43C06B643CC9EDBBE82B64793C857F1D": {
-    "supply": "127135497",
+    "supply": "99686071",
     "path": "transfer/channel-216",
     "denom": "orai",
     "chains": [
@@ -9350,7 +9504,7 @@
     ]
   },
   "ibc/1DC495FCEFDA068A3820F903EDBD78B942FBD204D7E93D3BA2B432E9669D1A59": {
-    "supply": "1679867432281",
+    "supply": "1819171017299",
     "path": "transfer/channel-37",
     "denom": "ungm",
     "chains": [
@@ -9358,7 +9512,7 @@
     ]
   },
   "ibc/1DCC8A6CB5689018431323953344A9F6CC4D0BFB261E88C9F7777372C10CD076": {
-    "supply": "4275112418480",
+    "supply": "4327320633449",
     "path": "transfer/channel-8",
     "denom": "uregen",
     "chains": [
@@ -9366,7 +9520,7 @@
     ]
   },
   "ibc/1DE9A32D603EE05E9B8619DF24D90FD518C932AE0B5B3209A986B7262DBADE2A": {
-    "supply": "2821845036197",
+    "supply": "2822819974528",
     "path": "transfer/channel-73",
     "denom": "ft575B10B0CEE2C164D9ED6A96313496F164A9607C",
     "chains": [
@@ -9374,7 +9528,7 @@
     ]
   },
   "ibc/1E09CB0F506ACF12FDE4683FB6B34DA62FB4BE122641E0D93AAF98A87675676C": {
-    "supply": "1678335823551",
+    "supply": "1901428855956",
     "path": "transfer/channel-263",
     "denom": "utgd",
     "chains": [
@@ -9406,7 +9560,7 @@
     ]
   },
   "ibc/239A507997222805E441956EBE8087D7E2D05D6535C6D4C75EF8DCF83B3DE1A1": {
-    "supply": "2819428943303",
+    "supply": "2820520628549",
     "path": "transfer/channel-73",
     "denom": "ft56664FC98A2CF5F4FBAC3566D1A11D891AD88305",
     "chains": [
@@ -9486,7 +9640,7 @@
     ]
   },
   "ibc/2716E3F2E146664BEFA9217F1A03BFCEDBCD5178B3C71CACB1A0D7584451D219": {
-    "supply": "363283332975",
+    "supply": "327366379875",
     "path": "transfer/channel-221",
     "denom": "uatolo",
     "chains": [
@@ -9502,7 +9656,7 @@
     ]
   },
   "ibc/27C09777C9F51B8AAE6BC15F92CFFDF2AB04067569A81D4938BA67EEC8D2E5D3": {
-    "supply": "1699997391244",
+    "supply": "1699997255920",
     "path": "transfer/channel-73",
     "denom": "ftB06AFBD13CBFCEB3CDBE449DB3150A4BF985D6AE",
     "chains": [
@@ -9541,8 +9695,16 @@
       "osmosis"
     ]
   },
+  "ibc/28F16F6FEF76BB858C53DDAB0CBEA02A6C146243907DBCCE5A84B2E30F57F4A7": {
+    "supply": "1200000000000000000000",
+    "path": "transfer/channel-144",
+    "denom": "gravity0x147faF8De9d8D8DAAE129B187F0D02D819126750",
+    "chains": [
+      "osmosis"
+    ]
+  },
   "ibc/297C64CC42B5A8D8F82FE2EBE208A6FE8F94B86037FA28C4529A23701C228F7A": {
-    "supply": "4170518395",
+    "supply": "4085139437",
     "path": "transfer/channel-169",
     "denom": "cw20:juno168ctmpyppk90d34p3jjy658zf5a5l3w8wk35wht6ccqj4mr0yv8s4j5awr",
     "chains": [
@@ -9574,7 +9736,7 @@
     ]
   },
   "ibc/307E5C96C8F60D1CBEE269A9A86C0834E1DB06F2B3788AE4F716EDB97A48B97D": {
-    "supply": "87776357084045",
+    "supply": "88714725153248",
     "path": "transfer/channel-128",
     "denom": "udig",
     "chains": [
@@ -9582,7 +9744,7 @@
     ]
   },
   "ibc/346786EA82F41FE55FAD14BF69AD8BA9B36985406E43F3CB23E6C45A285A9593": {
-    "supply": "11835027818992",
+    "supply": "12091552156541",
     "path": "transfer/channel-171",
     "denom": "udarc",
     "chains": [
@@ -9646,7 +9808,7 @@
     ]
   },
   "ibc/3BCCC93AD5DF58D11A6F8A05FA8BC801CBA0BA61A981F57E91B8B598BF8061CB": {
-    "supply": "34013233526061",
+    "supply": "34075075639513",
     "path": "transfer/channel-82",
     "denom": "umed",
     "chains": [
@@ -9702,7 +9864,7 @@
     ]
   },
   "ibc/3FF92D26B407FD61AE95D975712A7C319CDE28DE4D80BDC9978D935932B991D7": {
-    "supply": "376927041728615",
+    "supply": "549651959482659",
     "path": "transfer/channel-208",
     "denom": "dot-planck",
     "chains": [
@@ -9718,7 +9880,7 @@
     ]
   },
   "ibc/41999DF04D9441DAC0DF5D8291DF4333FBCBA810FFD63FDCE34FDF41EF37B6F7": {
-    "supply": "4541591919974333",
+    "supply": "4427238208061191",
     "path": "transfer/channel-212",
     "denom": "ucrbrus",
     "chains": [
@@ -9734,7 +9896,7 @@
     ]
   },
   "ibc/423967B46B1A51D78619085105B04FCFA14F7CBC0BE7539A316B2DCDFC7D8C07": {
-    "supply": "2820685499500",
+    "supply": "2821777184746",
     "path": "transfer/channel-73",
     "denom": "ft25B30C386CDDEBD1413D5AE1180956AE9EB3B9F7",
     "chains": [
@@ -9742,7 +9904,7 @@
     ]
   },
   "ibc/43D583F1B402275054198328415E516851788ED9F7258CBFA4FE3F3D463851DB": {
-    "supply": "2800000",
+    "supply": "2790000",
     "path": "transfer/channel-301",
     "denom": "usat",
     "chains": [
@@ -9750,7 +9912,7 @@
     ]
   },
   "ibc/454E820139E40BD6285C821392A6AAC976D9FC59D75F1937784FC0D9B62F38D0": {
-    "supply": "99999999999999",
+    "supply": "199999999999999",
     "path": "transfer/channel-144",
     "denom": "gravity0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
     "chains": [
@@ -9758,7 +9920,7 @@
     ]
   },
   "ibc/46B44899322F3CD854D2D46DEEF881958467CDD4B3B10086DA49296BBED94BED": {
-    "supply": "1863320825994",
+    "supply": "1869161367881",
     "path": "transfer/channel-42",
     "denom": "ujuno",
     "chains": [
@@ -9774,7 +9936,7 @@
     ]
   },
   "ibc/49C2B2C444B7C5F0066657A4DBF19D676E0D185FF721CFD3E14FA253BCB9BC04": {
-    "supply": "16504235062400308425680159",
+    "supply": "15639355281208940100057480",
     "path": "transfer/channel-262",
     "denom": "aechelon",
     "chains": [
@@ -9798,7 +9960,7 @@
     ]
   },
   "ibc/4E5444C35610CC76FC94E7F7886B93121175C28262DDFDDE6F84E82BF2425452": {
-    "supply": "19308672862645",
+    "supply": "19260520669833",
     "path": "transfer/channel-73",
     "denom": "ubtsg",
     "chains": [
@@ -9822,7 +9984,7 @@
     ]
   },
   "ibc/4F3B0EC2FE2D370D10C3671A1B7B06D2A964C721470C305CBB846ED60E6CAA20": {
-    "supply": "103233635629",
+    "supply": "103255807752",
     "path": "transfer/channel-95",
     "denom": "hydrogen",
     "chains": [
@@ -9837,8 +9999,16 @@
       "osmosis"
     ]
   },
+  "ibc/5025D3D7E3008DAA74C6303283F612E95937D1D422D446E8588511225F0178A6": {
+    "supply": "800000",
+    "path": "transfer/channel-144/transfer/channel-18",
+    "denom": "unym",
+    "chains": [
+      "osmosis"
+    ]
+  },
   "ibc/5052DFBD572FE164F012ABADFA71BDA5B56AD27D68B610F119CE1EF58F24A264": {
-    "supply": "301002023497362236",
+    "supply": "791002023497362236",
     "path": "transfer/channel-47/transfer/channel-55",
     "denom": "aevmos",
     "chains": [
@@ -9854,7 +10024,7 @@
     ]
   },
   "ibc/52B1AA623B34EB78FD767CEA69E8D7FA6C9CFE1FBF49C5406268FD325E2CC2AC": {
-    "supply": "5728352812949",
+    "supply": "5864974854128",
     "path": "transfer/channel-15",
     "denom": "uiov",
     "chains": [
@@ -9862,7 +10032,7 @@
     ]
   },
   "ibc/52C57FCA7D6854AA178E7A183DDBE4EF322B904B1D719FC485F6FFBC1F72A19E": {
-    "supply": "45867342778650",
+    "supply": "44034695008392",
     "path": "transfer/channel-169",
     "denom": "cw20:juno1j0a9ymgngasfn3l5me8qpd53l5zlm9wurfdk7r65s5mg6tkxal3qpgf5se",
     "chains": [
@@ -9870,7 +10040,7 @@
     ]
   },
   "ibc/52E12CF5CA2BB903D84F5298B4BFD725D66CAB95E09AA4FC75B2904CA5485FEB": {
-    "supply": "31623",
+    "supply": "32416",
     "path": "transfer/channel-169",
     "denom": "cw20:juno1tdjwrqmnztn2j3sj2ln9xnyps5hs48q3ddwjrz7jpv6mskappjys5czd49",
     "chains": [
@@ -9902,7 +10072,7 @@
     ]
   },
   "ibc/56C276FC136E239449DCE664292DBEEF5795C4EF4B5B35DB98BD1C0948274867": {
-    "supply": "2820248957649",
+    "supply": "2821340642895",
     "path": "transfer/channel-73",
     "denom": "ftE4903ECC861CA45F2C2BC7EAB8255D2E6E87A33A",
     "chains": [
@@ -9910,15 +10080,23 @@
     ]
   },
   "ibc/57AA1A70A4BC9769C525EBF6386F7A21536E04A79D62E1981EFCEF9428EBB205": {
-    "supply": "10727358654",
+    "supply": "15221445560",
     "path": "transfer/channel-143",
     "denom": "ukava",
     "chains": [
       "osmosis"
     ]
   },
+  "ibc/58F9AFFEB10F218C490F0A03EF4E5835F90129BD8C1BF57D3A188C8F7BEC2257": {
+    "supply": "900000",
+    "path": "transfer/channel-143/transfer/channel-0/transfer/channel-141/transfer/channel-143/transfer/channel-0/transfer/channel-141/transfer/channel-143/transfer/channel-0",
+    "denom": "uatom",
+    "chains": [
+      "osmosis"
+    ]
+  },
   "ibc/5973C068568365FFF40DEDCF1A1CB7582B6116B731CD31A12231AE25E20B871F": {
-    "supply": "7051699564673",
+    "supply": "7049023045321",
     "path": "transfer/channel-37",
     "denom": "eeur",
     "chains": [
@@ -9926,7 +10104,7 @@
     ]
   },
   "ibc/5A7C219BA5F7582B99629BA3B2A01A61BFDA0F6FD1FE95B5366F7334C4BC0580": {
-    "supply": "19619539654",
+    "supply": "20515661130",
     "path": "transfer/channel-297",
     "denom": "ucre",
     "chains": [
@@ -9942,7 +10120,7 @@
     ]
   },
   "ibc/5D1F516200EE8C6B2354102143B78A2DEDA25EDE771AC0F8DC3C1837C8FD4447": {
-    "supply": "956305952711230673807453",
+    "supply": "1046441817901620016922865",
     "path": "transfer/channel-229",
     "denom": "afet",
     "chains": [
@@ -10006,7 +10184,7 @@
     ]
   },
   "ibc/63B6652187062E4D1146C9AF9DED7AB7FD6B27F9338CA2431B33081A982ED451": {
-    "supply": "250",
+    "supply": "15082",
     "path": "transfer/channel-259/transfer/channel-0",
     "denom": "uatom",
     "chains": [
@@ -10030,7 +10208,7 @@
     ]
   },
   "ibc/64BA6E31FE887D66C6F8F31C7B1A80C7CA179239677B4088BB55F5EA07DBE273": {
-    "supply": "3031833094273897272840",
+    "supply": "4320927132131231304113",
     "path": "transfer/channel-122",
     "denom": "inj",
     "chains": [
@@ -10038,7 +10216,7 @@
     ]
   },
   "ibc/65381C5F3FD21442283D56925E62EA524DED8B6927F0FF94E21E0020954C40B5": {
-    "supply": "851354338073046332",
+    "supply": "929054190368385271",
     "path": "transfer/channel-144",
     "denom": "gravity0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "chains": [
@@ -10078,7 +10256,7 @@
     ]
   },
   "ibc/67795E528DF67C5606FC20F824EA39A6EF55BA133F4DC79C90A8C47A0901E17C": {
-    "supply": "31063640550948",
+    "supply": "29203153874469",
     "path": "transfer/channel-184",
     "denom": "uumee",
     "chains": [
@@ -10094,7 +10272,7 @@
     ]
   },
   "ibc/67C89B8B0A70C08F093C909A4DD996DD10E0494C87E28FD9A551697BF173D4CA": {
-    "supply": "121532996624386",
+    "supply": "111557057249551",
     "path": "transfer/channel-238",
     "denom": "umeme",
     "chains": [
@@ -10126,7 +10304,7 @@
     ]
   },
   "ibc/6A6174468758D207DD2D880363BF699C6568A29E87651337AEDAFD9E69EA7E58": {
-    "supply": "2819847666770",
+    "supply": "2820822630101",
     "path": "transfer/channel-73",
     "denom": "ft2DD67F5D99E9A141142B48474FA7B6B3FF00A3FE",
     "chains": [
@@ -10150,7 +10328,7 @@
     ]
   },
   "ibc/6AE98883D4D5D5FF9E50D7130F1305DA2FFA0C652D1DD9C123657C6B4EB2DF8A": {
-    "supply": "2351764602250160070341973",
+    "supply": "2471922057763369538876897",
     "path": "transfer/channel-204",
     "denom": "aevmos",
     "chains": [
@@ -10158,7 +10336,7 @@
     ]
   },
   "ibc/6BDB4C8CCD45033F9604E4B93ED395008A753E01EECD6992E7D1EA23D9D3B788": {
-    "supply": "17006395316",
+    "supply": "16694701506",
     "path": "transfer/channel-169",
     "denom": "cw20:juno1r4pzw8f9z0sypct5l9j906d47z998ulwvhvqe5xdwgy8wf84583sxwh0pa",
     "chains": [
@@ -10190,7 +10368,7 @@
     ]
   },
   "ibc/6F62F01D913E3FFE472A38C78235B8F021B511BC6596ADFF02615C8F83D3B373": {
-    "supply": "1521200000000000000",
+    "supply": "1951200000000000000",
     "path": "transfer/channel-208",
     "denom": "wavax-wei",
     "chains": [
@@ -10206,7 +10384,7 @@
     ]
   },
   "ibc/71B441E27F1BBB44DD0891BCD370C2794D404D60A4FFE5AECCD9B1E28BC89805": {
-    "supply": "76366356",
+    "supply": "35100000",
     "path": "transfer/channel-144",
     "denom": "gravity0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "chains": [
@@ -10246,7 +10424,7 @@
     ]
   },
   "ibc/785AFEC6B3741100D15E7AF01374E3C4C36F24888E96479B1C33F5C71F364EF9": {
-    "supply": "71163802939",
+    "supply": "72145326007",
     "path": "transfer/channel-251",
     "denom": "uluna",
     "chains": [
@@ -10270,7 +10448,7 @@
     ]
   },
   "ibc/7A08C6F11EF0F59EB841B9F788A87EC9F2361C7D9703157EC13D940DC53031FA": {
-    "supply": "4019534182427909",
+    "supply": "4884825912820576",
     "path": "transfer/channel-108",
     "denom": "ncheq",
     "chains": [
@@ -10278,7 +10456,7 @@
     ]
   },
   "ibc/7ABF696369EFB3387DF22B6A24204459FE5EFD010220E8E5618DC49DB877047B": {
-    "supply": "2824112857331",
+    "supply": "2824927318994",
     "path": "transfer/channel-73",
     "denom": "ft2D8E7041556CE93E1EFD66C07C45D551A6AAAE09",
     "chains": [
@@ -10294,7 +10472,7 @@
     ]
   },
   "ibc/7C4D60AA95E5A7558B0A364860979CA34B7FF8AAF255B87AF9E879374470CEC0": {
-    "supply": "22564885164331",
+    "supply": "24177948756228",
     "path": "transfer/channel-6",
     "denom": "uiris",
     "chains": [
@@ -10302,7 +10480,7 @@
     ]
   },
   "ibc/7C781B4C2082CD62129A972D47486D78EC17155C299270E3C89348EA026BEAF8": {
-    "supply": "148265539",
+    "supply": "147580789",
     "path": "transfer/channel-169",
     "denom": "cw20:juno1gz8cf86zr4vw9cjcyyv432vgdaecvr9n254d3uwwkx9rermekddsxzageh",
     "chains": [
@@ -10318,7 +10496,7 @@
     ]
   },
   "ibc/7DAA292F1316DBC96983AE6579F202CAFDF3974C7E314334F69207F4994A87E3": {
-    "supply": "1010000",
+    "supply": "1000000",
     "path": "transfer/channel-144/transfer/channel-17",
     "denom": "uatom",
     "chains": [
@@ -10334,7 +10512,7 @@
     ]
   },
   "ibc/7F1A862E98185A286F011DD093D8BD2FA1B7CD1A723EC5E6C59F76692F1728F7": {
-    "supply": "242850339148",
+    "supply": "242850143561",
     "path": "transfer/channel-73",
     "denom": "ft25FB31D974EED8EBC1CCB168FE7FC01789830EE8",
     "chains": [
@@ -10342,7 +10520,7 @@
     ]
   },
   "ibc/8061A06D3BD4D52C4A28FFECF7150D370393AF0BA661C3776C54FF32836C3961": {
-    "supply": "3299230245156544967230681",
+    "supply": "3308339674623201196137915",
     "path": "transfer/channel-4/transfer/channel-38",
     "denom": "gravity0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006",
     "chains": [
@@ -10374,7 +10552,7 @@
     ]
   },
   "ibc/82063D24CFED51468E2FA902FD9EAA1C92A5D0064DC82BABB4A2CBE4DCA4F9D6": {
-    "supply": "47058538",
+    "supply": "10550853",
     "path": "transfer/channel-144/transfer/channel-8/transfer/channel-27",
     "denom": "uusd",
     "chains": [
@@ -10382,7 +10560,7 @@
     ]
   },
   "ibc/8242AD24008032E457D2E12D46588FD39FB54FB29680C6C7663D296B383C37C4": {
-    "supply": "24411098344",
+    "supply": "23048011844",
     "path": "transfer/channel-208",
     "denom": "uusdt",
     "chains": [
@@ -10406,7 +10584,7 @@
     ]
   },
   "ibc/8318FD63C42203D16DDCAF49FE10E8590669B3219A3E87676AC9DA50722687FB": {
-    "supply": "41411440453447385387618330",
+    "supply": "41949954792919132031192743",
     "path": "transfer/channel-47",
     "denom": "rowan",
     "chains": [
@@ -10430,7 +10608,7 @@
     ]
   },
   "ibc/85BA29678C40CD0B2CCF92C93AFECF1EE5CB6625940905662912668316508D95": {
-    "supply": "24808402",
+    "supply": "1227505254",
     "path": "transfer/channel-42/transfer/channel-71",
     "denom": "uusdc",
     "chains": [
@@ -10446,7 +10624,7 @@
     ]
   },
   "ibc/8A07D4BD40E0F44ECFDF360F7EA7008B288926FB87C54489FE54DB81A5340E0C": {
-    "supply": "2819347608916",
+    "supply": "2820439294162",
     "path": "transfer/channel-73",
     "denom": "ft7020C2A8E984EEBCBB383E91CD6FBB067BB2272B",
     "chains": [
@@ -10454,15 +10632,31 @@
     ]
   },
   "ibc/8A34AF0C1943FD0DFCDE9ADBF0B2C9959C45E87E6088EA2FC6ADACD59261B8A2": {
-    "supply": "224132324902231",
+    "supply": "225275817194098",
     "path": "transfer/channel-115",
     "denom": "ulum",
     "chains": [
       "osmosis"
     ]
   },
+  "ibc/8A851498C3A370CF900C569DBA229853652FC4F70840F0867B06A7C00346525A": {
+    "supply": "10000000000000000",
+    "path": "transfer/channel-204/transfer/channel-8",
+    "denom": "gravity0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "chains": [
+      "osmosis"
+    ]
+  },
+  "ibc/8BE68723ED6C7270835F1AB9DC8B113C364434931D96F7894908B25C4DC3B9E1": {
+    "supply": "50000000000000000000",
+    "path": "transfer/channel-312",
+    "denom": "attoaioz",
+    "chains": [
+      "osmosis"
+    ]
+  },
   "ibc/8BF26A91A7227E125DFC2DDFBD15A3618F8B1F67B8740237DED07E0C35EAE3E2": {
-    "supply": "263203",
+    "supply": "263275",
     "path": "transfer/channel-0/transfer/channel-326/transfer/channel-4",
     "denom": "uusdc",
     "chains": [
@@ -10478,7 +10672,7 @@
     ]
   },
   "ibc/8FEFAE6AECF6E2A255585617F781F35A8D5709A545A804482A261C0C9548A9D3": {
-    "supply": "1548752438431137",
+    "supply": "1402068061403954",
     "path": "transfer/channel-188",
     "denom": "swth",
     "chains": [
@@ -10494,7 +10688,7 @@
     ]
   },
   "ibc/903A61A498756EA560B85A85132D3AEE21B5DEDD41213725D22ABF276EA6945E": {
-    "supply": "4664000",
+    "supply": "4958000",
     "path": "transfer/channel-208",
     "denom": "uaxl",
     "chains": [
@@ -10518,7 +10712,7 @@
     ]
   },
   "ibc/93B87B73E634D3BD3CD782F52C99883F340CE6027F37718E0E04D552272DA8A9": {
-    "supply": "1000000000",
+    "supply": "1017664696",
     "path": "transfer/channel-0/transfer/channel-343",
     "denom": "ukuji",
     "chains": [
@@ -10558,7 +10752,7 @@
     ]
   },
   "ibc/987C17B11ABC2B20019178ACE62929FE9840202CE79498E29FE8E5CB02B7C0A4": {
-    "supply": "131304573795896",
+    "supply": "128451287075558",
     "path": "transfer/channel-75",
     "denom": "ustars",
     "chains": [
@@ -10566,7 +10760,7 @@
     ]
   },
   "ibc/9989AD6CCA39D1131523DB0617B50F6442081162294B4795E26746292467B525": {
-    "supply": "65474804226065740",
+    "supply": "60100828167476011",
     "path": "transfer/channel-53",
     "denom": "nanolike",
     "chains": [
@@ -10590,7 +10784,7 @@
     ]
   },
   "ibc/9B6FBABA36BB4A3BF127AE5E96B572A5197FD9F3111D895D8919B07BC290764A": {
-    "supply": "7522785527901",
+    "supply": "7523316312927",
     "path": "transfer/channel-258",
     "denom": "mGeo",
     "chains": [
@@ -10598,7 +10792,7 @@
     ]
   },
   "ibc/9BBA9A1C257E971E38C1422780CE6F0B0686F0A3085E2D61118D904BFE0F5F5E": {
-    "supply": "2318518556445",
+    "supply": "2593570972290",
     "path": "transfer/channel-165",
     "denom": "usomm",
     "chains": [
@@ -10606,7 +10800,7 @@
     ]
   },
   "ibc/9BBC8BD41DC282F0DF4709ED7562F5B12F161D8DD391386B79EF179AA50621C3": {
-    "supply": "999999412",
+    "supply": "999997266",
     "path": "transfer/channel-95",
     "denom": "pool906F3CC4C0F4634031990DB81761BD390890F8A8A80460EBDC6B151254DE7D1D",
     "chains": [
@@ -10622,7 +10816,7 @@
     ]
   },
   "ibc/9BCB27203424535B6230D594553F1659C77EC173E36D9CF4759E7186EE747E84": {
-    "supply": "7850445640279",
+    "supply": "8596504953598",
     "path": "transfer/channel-181",
     "denom": "udec",
     "chains": [
@@ -10638,7 +10832,7 @@
     ]
   },
   "ibc/9F9B07EF9AD291167CF5700628145DE1DEB777C2CFC7907553B24446515F6D0E": {
-    "supply": "236328281298",
+    "supply": "155736387072",
     "path": "transfer/channel-144",
     "denom": "gravity0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "chains": [
@@ -10654,7 +10848,7 @@
     ]
   },
   "ibc/A0CC0CF735BFB30E730C70019D4218A1244FF383503FF7579C9201AB93CA9293": {
-    "supply": "2586076934332",
+    "supply": "2393959396958",
     "path": "transfer/channel-4",
     "denom": "uxprt",
     "chains": [
@@ -10726,7 +10920,7 @@
     ]
   },
   "ibc/AA1C80225BCA7B32ED1FC6ABF8B8E899BEB48ECDB4B417FD69873C6D715F97E7": {
-    "supply": "138625681387",
+    "supply": "136874224911",
     "path": "transfer/channel-169",
     "denom": "cw20:juno17wzaxtfdw5em7lc94yed4ylgjme63eh73lm3lutp2rhcxttyvpwsypjm4w",
     "chains": [
@@ -10750,7 +10944,7 @@
     ]
   },
   "ibc/AB589511ED0DD5FA56171A39978AFBF1371DB986EC1C3526CE138A16377E39BB": {
-    "supply": "155399999999998127405",
+    "supply": "7648910199999998127405",
     "path": "transfer/channel-208",
     "denom": "wmatic-wei",
     "chains": [
@@ -10782,7 +10976,7 @@
     ]
   },
   "ibc/AD185F62399F770CCCE8A36A180A77879FF6C26A0398BD3D2A74E087B0BFA121": {
-    "supply": "2496088211186",
+    "supply": "2495884047955",
     "path": "transfer/channel-261",
     "denom": "cw20:ki1dt3lk455ed360pna38fkhqn0p8y44qndsr77qu73ghyaz2zv4whq83mwdy",
     "chains": [
@@ -10830,7 +11024,7 @@
     ]
   },
   "ibc/B3E549766520FC58F4B02A9B0C04BB07BDB6BCC85AAFFBA8D67EEA801254975E": {
-    "supply": "3020000",
+    "supply": "3010000",
     "path": "transfer/channel-204/transfer/channel-3",
     "denom": "uatom",
     "chains": [
@@ -10838,7 +11032,7 @@
     ]
   },
   "ibc/B3FB7128CE957DE1ADB687A919AA0786C77C62FB1280C07CDD78AEA032D56853": {
-    "supply": "2818901111430",
+    "supply": "2819992796676",
     "path": "transfer/channel-73",
     "denom": "ft52EEB0EE509AC546ED92EAC8591F731F213DDD16",
     "chains": [
@@ -10862,7 +11056,7 @@
     ]
   },
   "ibc/B4DED8861763C7674BD726FFFE5CAB09BDC3CC706E77C82E46EFEDCF9DB3B495": {
-    "supply": "1699585281892",
+    "supply": "1699521881615",
     "path": "transfer/channel-73",
     "denom": "ft7EC1DFFC7248F7437E75BEE3EF6D539AFE87C071",
     "chains": [
@@ -10878,7 +11072,7 @@
     ]
   },
   "ibc/B547DC9B897E7C3AA5B824696110B8E3D2C31E3ED3F02FF363DCBAD82457E07E": {
-    "supply": "14433450981288",
+    "supply": "13539727297485",
     "path": "transfer/channel-77",
     "denom": "uxki",
     "chains": [
@@ -10910,7 +11104,7 @@
     ]
   },
   "ibc/B797E4F42CD33C50511B341E50C5CC0E8EF0D93B1E1247ABAA071583B8619202": {
-    "supply": "2817566942484",
+    "supply": "2818541880815",
     "path": "transfer/channel-73",
     "denom": "ft99091610CCC66F4277C66D14AF2BC4C5EE52E27A",
     "chains": [
@@ -10934,7 +11128,7 @@
     ]
   },
   "ibc/B9E0A1A524E98BB407D3CED8720EFEFD186002F90C1B1B7964811DD0CCC12228": {
-    "supply": "12482115603539515",
+    "supply": "12501852222790663",
     "path": "transfer/channel-113",
     "denom": "uhuahua",
     "chains": [
@@ -10942,7 +11136,7 @@
     ]
   },
   "ibc/BB6BCDB515050BAE97516111873CCD7BCF1FD0CCB723CC12F3C4F704D6C646CE": {
-    "supply": "155731737553",
+    "supply": "270509320657",
     "path": "transfer/channel-259",
     "denom": "ukuji",
     "chains": [
@@ -10958,7 +11152,7 @@
     ]
   },
   "ibc/BCDB35B7390806F35E716D275E1E017999F8281A81B6F128F087EF34D1DFA761": {
-    "supply": "9997566",
+    "supply": "9997570",
     "path": "transfer/channel-95",
     "denom": "tocyb",
     "chains": [
@@ -11006,7 +11200,7 @@
     ]
   },
   "ibc/C1CEF00F016FE89EA6E5B07DA895AACD91B0AAD69A991033D846B988AD4FB69D": {
-    "supply": "2822441349273",
+    "supply": "2823416287604",
     "path": "transfer/channel-73",
     "denom": "ftD4B6290EDEE1EC7B97AB5A1DC6C177EFD08ADCC3",
     "chains": [
@@ -11014,7 +11208,7 @@
     ]
   },
   "ibc/C2A2E9CA95DDD4828B75124B5E27B8401C7D8493BC48353D418CBFC04565899B": {
-    "supply": "2709353568",
+    "supply": "2824799475",
     "path": "transfer/channel-169",
     "denom": "cw20:juno1re3x67ppxap48ygndmrc7har2cnc7tcxtm9nplcas4v0gc3wnmvs3s807z",
     "chains": [
@@ -11022,7 +11216,7 @@
     ]
   },
   "ibc/C360EF34A86D334F625E4CBB7DA3223AEA97174B61F35BB3758081A8160F7D9B": {
-    "supply": "1959468557448",
+    "supply": "2255634653415",
     "path": "transfer/channel-258",
     "denom": "loki",
     "chains": [
@@ -11070,7 +11264,7 @@
     ]
   },
   "ibc/C9864D1B9623F703C75BBF72B7FF8A7317E1535C96538D21467A4311246DC3B5": {
-    "supply": "2817951456973",
+    "supply": "2819043142219",
     "path": "transfer/channel-73",
     "denom": "ft24C9FA4F10B0F235F4A815B15FC774E046A2B2EB",
     "chains": [
@@ -11086,7 +11280,7 @@
     ]
   },
   "ibc/C9B0D48FD2C5B91135F118FF2484551888966590D7BDC20F6A87308DBA670796": {
-    "supply": "246612",
+    "supply": "196511",
     "path": "transfer/channel-144",
     "denom": "gravity0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
     "chains": [
@@ -11134,7 +11328,7 @@
     ]
   },
   "ibc/CBA34207E969623D95D057D9B11B0C8B32B89A71F170577D982FDDE623813FFC": {
-    "supply": "23892852889316",
+    "supply": "22747360519267",
     "path": "transfer/channel-232",
     "denom": "umntl",
     "chains": [
@@ -11150,7 +11344,7 @@
     ]
   },
   "ibc/CBC60FC96BD21708D3B60B2E4AD949E0DA07C67EFE6A8D463298806CD507A9CF": {
-    "supply": "1420263685045293105598",
+    "supply": "1420046093995180598270",
     "path": "transfer/channel-144",
     "denom": "gravity0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006",
     "chains": [
@@ -11198,7 +11392,7 @@
     ]
   },
   "ibc/CE5BFF1D9BADA03BB5CCA5F56939392A761B53A10FBD03B37506669C3218D3B2": {
-    "supply": "141621999216410",
+    "supply": "136870771370993",
     "path": "transfer/channel-222",
     "denom": "nhash",
     "chains": [
@@ -11230,7 +11424,7 @@
     ]
   },
   "ibc/D1542AA8762DB13087D8364F3EA6509FD6F009A34F00426AF9E4F9FA85CBBF1F": {
-    "supply": "30232912320",
+    "supply": "31912338313",
     "path": "transfer/channel-208",
     "denom": "wbtc-satoshi",
     "chains": [
@@ -11238,7 +11432,7 @@
     ]
   },
   "ibc/D189335C6E4A68B513C10AB227BF1C1D38C746766278BA3EEB4FB14124F1D858": {
-    "supply": "36327844097597",
+    "supply": "35797986760334",
     "path": "transfer/channel-208",
     "denom": "uusdc",
     "chains": [
@@ -11246,7 +11440,7 @@
     ]
   },
   "ibc/D27DDDF34BB47E5D5A570742CC667DE53277867116CCCA341F27785E899A70F3": {
-    "supply": "21891900000000000000",
+    "supply": "22971121000000000000",
     "path": "transfer/channel-208",
     "denom": "mkr-wei",
     "chains": [
@@ -11286,7 +11480,7 @@
     ]
   },
   "ibc/D400A93A90ADBA94AC4E8E1F639362F9E8DB9D422E71F980BA410B03597F3992": {
-    "supply": "2221705251",
+    "supply": "2024461993",
     "path": "transfer/channel-42/transfer/channel-27",
     "denom": "uusd",
     "chains": [
@@ -11350,7 +11544,7 @@
     ]
   },
   "ibc/D805F1DA50D31B96E4282C1D4181EDDFB1A44A598BFF5666F4B43E4B8BEA95A5": {
-    "supply": "28238515169628",
+    "supply": "28100030237845",
     "path": "transfer/channel-51",
     "denom": "ubcna",
     "chains": [
@@ -11374,7 +11568,7 @@
     ]
   },
   "ibc/DB9755CB6FE55192948AE074D18FA815E1429D3D374D5BDA8D89623C6CF235C3": {
-    "supply": "14925016216214",
+    "supply": "14995608832847",
     "path": "transfer/channel-169",
     "denom": "cw20:juno1y9rf7ql6ffwkv02hsgd4yruz23pn4w97p75e2slsnkm0mnamhzysvqnxaq",
     "chains": [
@@ -11470,7 +11664,7 @@
     ]
   },
   "ibc/E4FFAACCDB7D55CE2D257DF637C00158CB841F11D0013B2D03E31FF7800A2C58": {
-    "supply": "2817237431829",
+    "supply": "2818212370160",
     "path": "transfer/channel-73",
     "denom": "ft387C1C279D962ED80C09C1D592A92C4275FD7C5D",
     "chains": [
@@ -11502,7 +11696,7 @@
     ]
   },
   "ibc/E6931F78057F7CC5DA0FD6CEF82FF39373A6E0452BF1FD76910B93292CF356C1": {
-    "supply": "2226405152041350",
+    "supply": "2381496527918666",
     "path": "transfer/channel-5",
     "denom": "basecro",
     "chains": [
@@ -11510,7 +11704,7 @@
     ]
   },
   "ibc/E7B35499CFBEB0FF5778127ABA4FB2C4B79A6B8D3D831D4379C4048C238796BD": {
-    "supply": "943631127764",
+    "supply": "942946574929",
     "path": "transfer/channel-124",
     "denom": "uvdl",
     "chains": [
@@ -11526,7 +11720,7 @@
     ]
   },
   "ibc/E97634A40119F1898989C2A23224ED83FDD0A57EA46B3A094E287288D1672B44": {
-    "supply": "23669541508216",
+    "supply": "23763515750290",
     "path": "transfer/channel-144",
     "denom": "ugraviton",
     "chains": [
@@ -11542,7 +11736,7 @@
     ]
   },
   "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5": {
-    "supply": "5020692777426984825200",
+    "supply": "5473559071836292305446",
     "path": "transfer/channel-208",
     "denom": "weth-wei",
     "chains": [
@@ -11550,7 +11744,7 @@
     ]
   },
   "ibc/EA3E1640F9B1532AB129A571203A0B9F789A7F14BB66E350DCBFA18E1A1931F0": {
-    "supply": "9199460615036",
+    "supply": "9298887607812",
     "path": "transfer/channel-87",
     "denom": "ucmdx",
     "chains": [
@@ -11566,9 +11760,17 @@
     ]
   },
   "ibc/EA4C0A9F72E2CEDF10D0E7A9A6A22954DB3444910DB5BE980DF59B05A46DAD1C": {
-    "supply": "8079211209417",
+    "supply": "7691122137886",
     "path": "transfer/channel-135",
     "denom": "udsm",
+    "chains": [
+      "osmosis"
+    ]
+  },
+  "ibc/EB515E060C15C4C6C41B3B04DF67377A743437FF863DBD35C9A5914D0B617DAA": {
+    "supply": "51608864",
+    "path": "transfer/channel-143/transfer/channel-5",
+    "denom": "uakt",
     "chains": [
       "osmosis"
     ]
@@ -11630,7 +11832,7 @@
     ]
   },
   "ibc/F16FDC11A7662B86BC0B9CE61871CBACF7C20606F95E86260FD38915184B75B4": {
-    "supply": "370901159877768220644286",
+    "supply": "432438216792194304411837",
     "path": "transfer/channel-253",
     "denom": "el1",
     "chains": [
@@ -11646,7 +11848,7 @@
     ]
   },
   "ibc/F292A17CF920E3462C816CBE6B042E779F676CAB59096904C4C1C966413E3DF5": {
-    "supply": "6884566584922206981814",
+    "supply": "6886978149922206981814",
     "path": "transfer/channel-144",
     "denom": "gravity0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "chains": [
@@ -11670,7 +11872,7 @@
     ]
   },
   "ibc/F35C87A18804313088DAAF6FD430FCCCF1362BC3464D4FAD783C476F594C9CA7": {
-    "supply": "1699214865704",
+    "supply": "1699202472265",
     "path": "transfer/channel-73",
     "denom": "ftE141AFEBD94447BADE4946D1BF4B2E141F00BBFD",
     "chains": [
@@ -11678,7 +11880,7 @@
     ]
   },
   "ibc/F3FF7A84A73B62921538642F9797C423D2B4C4ACB3C7FCFFCE7F12AA69909C4B": {
-    "supply": "828033751908",
+    "supply": "826074364271",
     "path": "transfer/channel-38",
     "denom": "uixo",
     "chains": [
@@ -11702,7 +11904,7 @@
     ]
   },
   "ibc/F49DE040EBA5AB2FAD5F660C2A1DDF98A68470FAE82229818BE775EBF3EE79F2": {
-    "supply": "3430997817010",
+    "supply": "3367195161447",
     "path": "transfer/channel-236",
     "denom": "uglx",
     "chains": [
@@ -11710,7 +11912,7 @@
     ]
   },
   "ibc/F4A070A6D78496D53127EA85C094A9EC87DFC1F36071B8CCDDBD020F933D213D": {
-    "supply": "406500000000000000",
+    "supply": "499500000000000000",
     "path": "transfer/channel-208",
     "denom": "wbnb-wei",
     "chains": [
@@ -11734,7 +11936,7 @@
     ]
   },
   "ibc/F6B691D5F7126579DDC87357B09D653B47FDCE0A3383FF33C8D8B544FE29A8A6": {
-    "supply": "1928021",
+    "supply": "2524764",
     "path": "transfer/channel-169",
     "denom": "cw20:juno1g2g7ucurum66d42g8k5twk34yegdq8c82858gz0tq2fc75zy7khssgnhjl",
     "chains": [
@@ -11750,7 +11952,7 @@
     ]
   },
   "ibc/F867AE2112EFE646EC71A25CD2DFABB8927126AC1E19F1BBF0FF693A4ECA05DE": {
-    "supply": "57935615294",
+    "supply": "64529629511",
     "path": "transfer/channel-148",
     "denom": "uband",
     "chains": [
@@ -11782,7 +11984,7 @@
     ]
   },
   "ibc/FE2CD1E6828EC0FAB8AF39BAC45BC25B965BA67CCBC50C13A14BD610B0D1E2C4": {
-    "supply": "8809526105345",
+    "supply": "8950744919105",
     "path": "transfer/channel-95",
     "denom": "boot",
     "chains": [
@@ -11790,7 +11992,7 @@
     ]
   },
   "ibc/FFA652599C77E853F017193E36B5AB2D4D9AFC4B54721A74904F80C9236BF3B7": {
-    "supply": "177915651385",
+    "supply": "1353392968052",
     "path": "transfer/channel-286",
     "denom": "ulumen",
     "chains": [
@@ -11904,7 +12106,7 @@
     ]
   },
   "ibc/A6E3AF63B3C906416A9AF7A556C59EA4BD50E617EFFE6299B99700CCB780E444": {
-    "supply": "14818227002351502683985937",
+    "supply": "14754720213422865201222237",
     "path": "transfer/channel-38",
     "denom": "gravity0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006",
     "chains": [
@@ -12056,7 +12258,7 @@
     ]
   },
   "ibc/01FD9A46F4B9ED5A01BFA9DA7A039A8D3B3A8BA5EAA4333520DBF43C6B8028D7": {
-    "supply": "1125000000000001",
+    "supply": "37079000000000001",
     "path": "transfer/channel-17",
     "denom": "gravity0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "chains": [
@@ -12104,7 +12306,7 @@
     ]
   },
   "ibc/23A8E16C655512DD4AA83769BA695FB8CCA4D1CA220652B894FAB44E53462C59": {
-    "supply": "1864547133000000001",
+    "supply": "864547133000000001",
     "path": "transfer/channel-18",
     "denom": "aevmos",
     "chains": [
@@ -12112,7 +12314,7 @@
     ]
   },
   "ibc/28DECFA7FB7E3AB58DC3B3AEA9B11C6C6B6E46356DCC26505205DAD3379984F5": {
-    "supply": "17223311",
+    "supply": "13523311",
     "path": "transfer/channel-16",
     "denom": "uluna",
     "chains": [
@@ -12120,7 +12322,7 @@
     ]
   },
   "ibc/34BFFD88FD2A4ED8C4D227A7A3CE966A4D514F5F07823FFABC4CC3DBC9D8CCDE": {
-    "supply": "599990",
+    "supply": "52039990",
     "path": "transfer/channel-24",
     "denom": "ucre",
     "chains": [
@@ -12128,7 +12330,7 @@
     ]
   },
   "ibc/3615C32EDF0886E6B8692404484DA43AFE4F497E86FC4EB77684CF292A0CFCCF": {
-    "supply": "65291823",
+    "supply": "190262448",
     "path": "transfer/channel-17",
     "denom": "gravity0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "chains": [
@@ -12136,7 +12338,7 @@
     ]
   },
   "ibc/38FB1A3DA004C5F0E013432DC6CEF632000AE1387F41E09809A10DC234DE9C49": {
-    "supply": "7623862",
+    "supply": "11807581",
     "path": "transfer/channel-17",
     "denom": "gravity0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "chains": [
@@ -12160,7 +12362,7 @@
     ]
   },
   "ibc/448B29AB9766D29CC09944EDF6A08573B45A37C55746A45FA3CF53F1B58DF98D": {
-    "supply": "48863866522",
+    "supply": "48865652252",
     "path": "transfer/channel-21",
     "denom": "uakt",
     "chains": [
@@ -12200,7 +12402,7 @@
     ]
   },
   "ibc/630E7B10690ADEC9E9CEEE904CE78C522BBCDDC6A081B23FA26A55F6EF40E41E": {
-    "supply": "36148520118278",
+    "supply": "39884784276799",
     "path": "transfer/channel-11",
     "denom": "uhuahua",
     "chains": [
@@ -12232,9 +12434,25 @@
     ]
   },
   "ibc/7EAE5BEF3A26B64AFBD89828AFDDB1DC7024A0276D22745201632C40E6E634D0": {
-    "supply": "3010985414",
+    "supply": "12940099863",
     "path": "transfer/channel-19",
     "denom": "ustars",
+    "chains": [
+      "secretnetwork"
+    ]
+  },
+  "ibc/8161CB553A9AF7494CA20237CD7A52027409AA1A3B55A37F968CCE99C7C5BDF2": {
+    "supply": "4000000000000000000",
+    "path": "transfer/channel-20",
+    "denom": "dai-wei",
+    "chains": [
+      "secretnetwork"
+    ]
+  },
+  "ibc/85D2E221418593D26619632CA7BB6CF54633D15F47E5BC48CDE8A8A8C39054A0": {
+    "supply": "1000000",
+    "path": "transfer/channel-17",
+    "denom": "gravity0x2B89bF8ba858cd2FCee1faDa378D5cd6936968Be",
     "chains": [
       "secretnetwork"
     ]
@@ -12288,7 +12506,7 @@
     ]
   },
   "ibc/A7CBAF118AC24A896DC46A098FE9FA2A588A36A2F0239913229D3A11D92E7B2E": {
-    "supply": "1861000",
+    "supply": "2155000",
     "path": "transfer/channel-20",
     "denom": "uaxl",
     "chains": [
@@ -12344,7 +12562,7 @@
     ]
   },
   "ibc/CD7B6B7D85FDF5F72A78E806BCFB8060B561EEF27677B111E0A610626056451E": {
-    "supply": "43371241",
+    "supply": "62871241",
     "path": "transfer/channel-20",
     "denom": "uusdc",
     "chains": [
@@ -12352,7 +12570,7 @@
     ]
   },
   "ibc/DEEF987757F80419CC651C8323ACD21D6C3D664E51B5E5A29B2663F5AD132A67": {
-    "supply": "4904997",
+    "supply": "14904997",
     "path": "transfer/channel-17",
     "denom": "ugraviton",
     "chains": [
@@ -12360,7 +12578,7 @@
     ]
   },
   "ibc/E83107E876FF194B54E9AC3099E49DBB7728156F250ABD3E997D2B7E89E0810B": {
-    "supply": "36733916643090",
+    "supply": "36238472776737",
     "path": "transfer/channel-3",
     "denom": "udvpn",
     "chains": [
@@ -12401,7 +12619,7 @@
     ]
   },
   "ibc/FFA324A40F82EF430CF78D498CE04FF634D2091FCDC04EFEC8841B86011F307A": {
-    "supply": "2001012",
+    "supply": "7098012",
     "path": "transfer/channel-22",
     "denom": "ukuji",
     "chains": [
@@ -12513,7 +12731,7 @@
     ]
   },
   "ibc/B1C0DDB14F25279A2026BC8794E12B259F8BDA546A3C5132CCAEE4431CE36783": {
-    "supply": "11199825925",
+    "supply": "12154508929",
     "path": "transfer/channel-55",
     "denom": "udec",
     "chains": [
@@ -12553,7 +12771,7 @@
     ]
   },
   "ibc/11DFDFADE34DCE439BA732EBA5CD8AA804A544BA1ECC0882856289FAF01FE53F": {
-    "supply": "198369917614",
+    "supply": "197277164618",
     "path": "transfer/channel-8",
     "denom": "uiris",
     "chains": [
@@ -12561,7 +12779,7 @@
     ]
   },
   "ibc/17F5C77854734CFE1301E6067AA42CDF62DAF836E4467C635E6DB407853C6082": {
-    "supply": "270331791058",
+    "supply": "264619205196",
     "path": "transfer/channel-18",
     "denom": "uusd",
     "chains": [
@@ -12569,7 +12787,7 @@
     ]
   },
   "ibc/21CB41565FCA19AB6613EE06B0D56E588E0DC3E53FF94BA499BB9635794A1A35": {
-    "supply": "7551252795060",
+    "supply": "7399065772628",
     "path": "transfer/channel-1",
     "denom": "udvpn",
     "chains": [
@@ -12577,7 +12795,7 @@
     ]
   },
   "ibc/2CC6F10253D563A7C238096BA63D060F7F356E37D5176E517034B8F730DB4AB6": {
-    "supply": "8283761582",
+    "supply": "6708287872",
     "path": "transfer/channel-10",
     "denom": "uregen",
     "chains": [
@@ -12585,7 +12803,7 @@
     ]
   },
   "ibc/345D30E8ED06B47FC538ED131D99D16126F07CD6F8B35DE96AAF4C1E445AF466": {
-    "supply": "7388564834",
+    "supply": "6794216798",
     "path": "transfer/channel-65",
     "denom": "uscrt",
     "chains": [
@@ -12609,7 +12827,7 @@
     ]
   },
   "ibc/6D717BFF5537D129035BAB39F593D638BA258A9F8D86FB7ECCEAB05B6950CC3E": {
-    "supply": "181190367030",
+    "supply": "171167020240",
     "path": "transfer/channel-2",
     "denom": "uakt",
     "chains": [
@@ -12625,7 +12843,7 @@
     ]
   },
   "ibc/7B8A3357032F3DB000ACFF3B2C9F8E77B932F21004FC93B5A8F77DE24161A573": {
-    "supply": "34105564010",
+    "supply": "31620176616",
     "path": "transfer/channel-19",
     "denom": "eeur",
     "chains": [
@@ -12649,7 +12867,7 @@
     ]
   },
   "ibc/ACA7D0100794F39DF3FF0C5E31638B24737321C24F32C2C486A24C78DD8F2029": {
-    "supply": "4057817028",
+    "supply": "3927007173",
     "path": "transfer/channel-19",
     "denom": "ungm",
     "chains": [
@@ -12657,7 +12875,7 @@
     ]
   },
   "ibc/B21954812E6E642ADC0B5ACB233E02A634BF137C572575BF80F7C0CC3DB2E74D": {
-    "supply": "26446690925391",
+    "supply": "26222524521614",
     "path": "transfer/channel-9",
     "denom": "basecro",
     "chains": [
@@ -12665,7 +12883,7 @@
     ]
   },
   "ibc/B4314D0E670CB43C88A5DCA09F76E5E812BD831CC2FEC6E434C9E5A9D1F57953": {
-    "supply": "22648898705",
+    "supply": "20895261847",
     "path": "transfer/channel-17",
     "denom": "uosmo",
     "chains": [
@@ -12681,7 +12899,7 @@
     ]
   },
   "ibc/C5C8682EB9AA1313EF1B12C991ADCDA465B80C05733BFB2972E2005E01BCE459": {
-    "supply": "33283064933",
+    "supply": "31148070494",
     "path": "transfer/channel-15",
     "denom": "uixo",
     "chains": [
@@ -12697,7 +12915,7 @@
     ]
   },
   "ibc/D87BC708A791246AA683D514C273736F07579CBD56C9CA79B7823F9A01C16270": {
-    "supply": "1247349247",
+    "supply": "1190528992",
     "path": "transfer/channel-7",
     "denom": "uxprt",
     "chains": [
@@ -12721,7 +12939,7 @@
     ]
   },
   "ibc/F141935FF02B74BDC6B8A0BD6FE86A23EE25D10E89AA0CD9158B3D92B63FDF4D": {
-    "supply": "291800479369076",
+    "supply": "287437415953104",
     "path": "transfer/channel-18",
     "denom": "uluna",
     "chains": [
@@ -12729,7 +12947,7 @@
     ]
   },
   "ibc/F20C4E30E4202C11FE009D6D58B2FF212C99084CB6F767287A51A93EFD960086": {
-    "supply": "11412279797",
+    "supply": "12885220651",
     "path": "transfer/channel-54",
     "denom": "uiov",
     "chains": [
@@ -12737,7 +12955,7 @@
     ]
   },
   "ibc/F279AB967042CAC10BFF70FAECB179DCE37AAAE4CD4C1BC4565C2BBC383BC0FA": {
-    "supply": "48448468662",
+    "supply": "41757309989",
     "path": "transfer/channel-14",
     "denom": "ujuno",
     "chains": [
@@ -13682,7 +13900,7 @@
     ]
   },
   "ibc/14E4FD1AB72DE9BF1D6725CBA18373C406CB9A7DA17955299F3F4DC5C6131A4E": {
-    "supply": "10400000000000000000",
+    "supply": "15900000000000000000",
     "path": "transfer/channel-6",
     "denom": "wmatic-wei",
     "chains": [
@@ -13706,7 +13924,7 @@
     ]
   },
   "ibc/3E35008738AC049C9C1A1E37F785E947A8DAA9811B3EA3B25580664294056151": {
-    "supply": "3348000",
+    "supply": "3635000",
     "path": "transfer/channel-6",
     "denom": "uaxl",
     "chains": [
@@ -13770,7 +13988,7 @@
     ]
   },
   "ibc/B249D1E86F588286FEA286AA8364FFCE69EC65604BD7869D824ADE40F00FA25B": {
-    "supply": "1998",
+    "supply": "2109",
     "path": "transfer/channel-5",
     "denom": "aevmos",
     "chains": [
@@ -13778,7 +13996,7 @@
     ]
   },
   "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4": {
-    "supply": "7460102594729",
+    "supply": "6496135529623",
     "path": "transfer/channel-6",
     "denom": "uusdc",
     "chains": [
@@ -13786,7 +14004,7 @@
     ]
   },
   "ibc/BC8A77AFBD872FDC32A348D3FB10CC09277C266CFE52081DE341C7EC6752E674": {
-    "supply": "172697801020170002",
+    "supply": "172697801712635424",
     "path": "transfer/channel-6",
     "denom": "weth-wei",
     "chains": [
@@ -13794,7 +14012,7 @@
     ]
   },
   "ibc/CBF67A2BCF6CAE343FDF251E510C8E18C361FC02B23430C121116E0811835DEF": {
-    "supply": "3822058792501",
+    "supply": "3121919484571",
     "path": "transfer/channel-6",
     "denom": "uusdt",
     "chains": [
@@ -13842,7 +14060,7 @@
     ]
   },
   "ibc/3A5B71F2AA11D24F9688A10D4279CE71560489D7A695364FC361EC6E09D02889": {
-    "supply": "759",
+    "supply": "795",
     "path": "transfer/channel-9",
     "denom": "ugraviton",
     "chains": [
@@ -13858,7 +14076,7 @@
     ]
   },
   "ibc/62E0D973B8AA4483200B17E1A5EC9ADC382CB36AC215441C75C5D5149A0FAE1C": {
-    "supply": "105",
+    "supply": "106",
     "path": "transfer/channel-22",
     "denom": "ucre",
     "chains": [
