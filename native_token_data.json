@@ -5,19 +5,19 @@
     "denom": "ubld",
     "symbol": "BLD",
     "decimals": 6,
-    "description": "BLD is the token used to secure the Agoric chain through staking and to backstop the RUN Protocol.",
+    "description": "BLD is the token used to secure the Agoric chain through staking and to backstop Inter Protocol.",
     "coingecko_id": null,
     "logos": {
       "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/bld.png"
     }
   },
-  "urun": {
+  "uist": {
     "chain": "agoric",
     "name": "Agoric Stable Token",
-    "denom": "urun",
-    "symbol": "RUN",
+    "denom": "uist",
+    "symbol": "IST",
     "decimals": 6,
-    "description": "RUN is the stable token used by the Agoric chain for execution fees and commerce.",
+    "description": "IST is the stable token used by the Agoric chain for execution fees and commerce.",
     "coingecko_id": null,
     "logos": {
       "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/run.png"
@@ -320,6 +320,18 @@
     "logos": {
       "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bandchain/images/band.png",
       "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bandchain/images/band.svg"
+    }
+  },
+  "ubze": {
+    "chain": "beezee",
+    "name": "BeeZee",
+    "denom": "ubze",
+    "symbol": "BZE",
+    "decimals": 6,
+    "description": "BeeZee native blockchain",
+    "coingecko_id": "bzedge",
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/beezee/images/bze.png"
     }
   },
   "ubcna": {
@@ -882,10 +894,10 @@
       "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/impacthub/images/ixo.png"
     }
   },
-  "uinj": {
+  "inj": {
     "chain": "injective",
     "name": "Injective",
-    "denom": "uinj",
+    "denom": "inj",
     "symbol": "INJ",
     "decimals": 6,
     "description": "The INJ token is the native governance token for the Injective chain.",
@@ -1150,17 +1162,17 @@
       "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/omniflixhub/images/flix.png"
     }
   },
-  "uorai": {
+  "orai": {
     "chain": "oraichain",
     "name": "Oraichain",
-    "denom": "uorai",
+    "denom": "orai",
     "symbol": "ORAI",
     "decimals": 6,
     "description": "The native token of Oraichain",
     "coingecko_id": "oraichain-token",
     "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/oraichain/images/orai.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/oraichain/images/orai.svg"
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/oraichain/images/orai-white.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/oraichain/images/orai-white.svg"
     }
   },
   "uosmo": {
@@ -1199,6 +1211,18 @@
     "coingecko_id": "medibloc",
     "logos": {
       "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/panacea/images/med.png"
+    }
+  },
+  "upasg": {
+    "chain": "passage",
+    "name": "Passage",
+    "denom": "upasg",
+    "symbol": "PASG",
+    "decimals": 6,
+    "description": "The native staking and governance token of the Passage chain.",
+    "coingecko_id": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/passage/images/pasg.png"
     }
   },
   "uxprt": {
