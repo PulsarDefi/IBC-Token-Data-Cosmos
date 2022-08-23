@@ -1,4 +1,4 @@
-# 💱 IBC-Cosmos data
+# 💱 IBC Cosmos Token Data
 
 ### Why this repo?
 
