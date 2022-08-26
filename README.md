@@ -7,11 +7,9 @@
 - With `ibc_data.json` you should be able to find any IBC token by its hash where the keys are in the format `ibc/HASH__CHAIN`, and using the origin property, you should be able to trace back to its original token data on `native_token_data.json`
 
 ### Known issues
-
 - `basecro` and `uluna` have conflicts. `uluna` denom is used on [Terra, Terra2] and `basecro` on [crypto_org, cronos] chains. This has been solved in most ibcs 153 out of 162.
 
 ### Future
-
 - Planning on adding more relevant data
 - Planning on adding an API behind this data
 
@@ -32,6 +30,8 @@
         "origin": {
             "denom": String,
             "chain": String | List[String] | null
+            // null if we cant find this denom on native_token_data.json
+            // list if we couldn't pick correct chain e.g: [terra, terra2] for uluna
         }
     }
 }
@@ -44,7 +44,7 @@
     "DENOM__CHAIN": {
         "chain": String,
         "name": String,
-        "denom": String,
+        "denom": String, 
         "symbol": String,
         "decimals": integer,
         "description": String,
@@ -52,7 +52,7 @@
         "logos": {
           String: String
         }
-    },
+    }
 }
 ```
 
