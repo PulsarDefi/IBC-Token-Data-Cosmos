@@ -9,7 +9,7 @@
 
 ## 🪄 Usage
 
-#### IBC data schema:
+#### IBC Data Schema
 
 ```
 {
@@ -28,7 +28,7 @@
 }
 ```
 
-#### Native Token data schema:
+#### Native Token Data Schema
 
 ```
 {
