@@ -2,7 +2,7 @@
 
 ![alt text](https://i.imgur.com/jVdp3yy.png)
 
-## ⚒️ Why this repo?
+## ⚒️ Why This Repository?
 
 - At Pulsar we felt like there was a big gap with IBC data, which prevented us from having a good way to match any IBC token to its original native token. This repo is meant to be kept updated with the current native and IBC tokens of each cosmos chain under [Cosmos Chain Registry](https://github.com/cosmos/chain-registry).
 - With `ibc_data.json` you should be able to find any IBC token by it's hash where the keys are in the format `ibc/HASH__CHAIN`, and using the origin property, you should be able to trace back to its original token data on `native_token_data.json`.
@@ -54,7 +54,7 @@
 - The file `native_token_data.min.json` is just a minified version of `native_token_data.json`.<br/><br/>
 
 
-## 🐛 Known issues
+## 🐛 Known Issues
 - `basecro` and `uluna` have conflicts. `uluna` denom is used on [Terra, Terra2] and `basecro` on [crypto_org, cronos] chains. This has been solved in most ibcs 153 out of 162.
 
 ## 🔮 Future
