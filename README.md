@@ -35,12 +35,12 @@
 #### Native Token Data Schema
 
 ```
-AssetType(Enum, String) {
+Type AssetType(Enum, String) {
     native,
     contract
 }
 
-Type BridgeAsset = {
+Type BridgeAsset(Object) = {
     "chain": String,
     "value": String,
     "token_type": AssetType,
