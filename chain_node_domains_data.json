@@ -1,9 +1,29 @@
 {
+  "beezee": {
+    "lcds": [
+      "https://rest.getbze.com/",
+      "https://rest-1.getbze.com/",
+      "https://rest-2.getbze.com/"
+    ],
+    "rpcs": [
+      "https://rpc.getbze.com/",
+      "https://rpc-1.getbze.com/",
+      "https://rpc-2.getbze.com/"
+    ]
+  },
   "thorchain": {
     "lcds": [
       "https://thornode.thorchain.info/"
     ],
     "rpcs": []
+  },
+  "arkh": {
+    "lcds": [
+      "https://asc-blockchain-api.arkhadian.com/"
+    ],
+    "rpcs": [
+      "https://asc-dataseed.arkhadian.com/"
+    ]
   },
   "agoric": {
     "lcds": [
@@ -15,101 +35,6 @@
       "https://main.rpc.agoric.net/",
       "https://agoric-rpc.polkachu.com/",
       "https://rpc.agoric.nodestake.top/"
-    ]
-  },
-  "bandchain": {
-    "lcds": [
-      "https://laozi1.bandchain.org/api/",
-      "https://api-bandchain-ia.cosmosia.notional.ventures/",
-      "https://band-api.ibs.team/"
-    ],
-    "rpcs": [
-      "http://rpc.laozi1.bandchain.org:80/",
-      "https://rpc-bandchain-ia.cosmosia.notional.ventures/",
-      "https://band-rpc.ibs.team/"
-    ]
-  },
-  "aioz": {
-    "lcds": [
-      "https://lcd-dataseed.aioz.network/"
-    ],
-    "rpcs": [
-      "https://rpc-dataseed.aioz.network/"
-    ]
-  },
-  "commercionetwork": {
-    "lcds": [
-      "https://lcd-mainnet.commercio.network/"
-    ],
-    "rpcs": [
-      "https://rpc-mainnet.commercio.network/"
-    ]
-  },
-  "akash": {
-    "lcds": [
-      "https://api.akash.forbole.com/",
-      "https://rest-akash.ecostake.com/",
-      "https://akash-api.lavenderfive.com/",
-      "https://akash-api.polkachu.com/",
-      "https://api-akash-ia.cosmosia.notional.ventures/",
-      "https://akash.c29r3.xyz/api/"
-    ],
-    "rpcs": [
-      "https://rpc.akash.forbole.com/",
-      "https://rpc-akash.ecostake.com/",
-      "https://akash-rpc.lavenderfive.com/",
-      "https://akash-rpc.polkachu.com/",
-      "https://rpc-akash-ia.cosmosia.notional.ventures/",
-      "http://akash.c29r3.xyz:80/rpc/"
-    ]
-  },
-  "bostrom": {
-    "lcds": [
-      "https://lcd.bostrom.cybernode.ai/",
-      "https://lcd.cyber.posthuman.digital/",
-      "https://api-cyber-ia.cosmosia.notional.ventures/"
-    ],
-    "rpcs": [
-      "https://rpc.bostrom.cybernode.ai/",
-      "https://rpc.cyber.posthuman.digital/",
-      "https://rpc-cyber-ia.cosmosia.notional.ventures/"
-    ]
-  },
-  "chihuahua": {
-    "lcds": [
-      "https://api.chihuahua.wtf/",
-      "https://rest-chihuahua.ecostake.com/",
-      "https://api-chihuahua-ia.cosmosia.notional.ventures/",
-      "https://chihuahua-api.polkachu.com/",
-      "https://chihuahua-api.lavenderfive.com/"
-    ],
-    "rpcs": [
-      "https://rpc.chihuahua.wtf/",
-      "https://rpc-chihuahua.ecostake.com/",
-      "https://chihuahua-rpc.polkachu.com/",
-      "https://rpc-chihuahua-ia.cosmosia.notional.ventures/",
-      "https://chihuahua-rpc.lavenderfive.com/"
-    ]
-  },
-  "axelar": {
-    "lcds": [
-      "https://lcd-axelar.imperator.co/",
-      "https://axelar-lcd.quickapi.com/",
-      "https://axelar-rest.chainode.tech/",
-      "https://axelar-lcd.qubelabs.io/",
-      "https://api-1.axelar.nodes.guru/",
-      "https://api-axelar-ia.cosmosia.notional.ventures/",
-      "https://axelar-api.polkachu.com/"
-    ],
-    "rpcs": [
-      "https://rpc-axelar.imperator.co/",
-      "https://axelar-rpc.quickapi.com/",
-      "https://axelar-rpc.chainode.tech/",
-      "https://axelar-rpc.pops.one/",
-      "https://axelar-rpc.qubelabs.io/",
-      "https://rpc-1.axelar.nodes.guru/",
-      "https://rpc-axelar-ia.cosmosia.notional.ventures/",
-      "https://axelar-rpc.polkachu.com/"
     ]
   },
   "bitcanna": {
@@ -135,50 +60,113 @@
       "https://bitcanna-rpc.panthea.eu/"
     ]
   },
-  "canto": {
+  "chronicnetwork": {
     "lcds": [
-      "http://164.90.154.41:1317/",
-      "https://api.canto.nodestake.top/",
-      "https://canto-api.polkachu.com/",
-      "https://canto-api.lavenderfive.com/"
+      "https://api.chronic.nodestake.top/",
+      "https://api-chronic.zenchainlabs.io/"
     ],
     "rpcs": [
-      "http://164.90.154.41:26657/",
-      "https://rpc.canto.nodestake.top/",
-      "https://canto-rpc.polkachu.com/",
-      "https://canto-rpc.lavenderfive.com/"
+      "https://rpc.chronic.nodestake.top/",
+      "https://rpc-chronic.zenchainlabs.io/"
     ]
   },
-  "beezee": {
+  "cheqd": {
     "lcds": [
-      "https://rest.getbze.com/",
-      "https://rest-1.getbze.com/",
-      "https://rest-2.getbze.com/"
+      "https://api.cheqd.net/",
+      "https://cheqd-api.lavenderfive.com/",
+      "https://lcd.cheqd.ezstaking.io/",
+      "https://api-cheqd-ia.cosmosia.notional.ventures/",
+      "https://api.cheqd.nodestake.top/"
     ],
     "rpcs": [
-      "https://rpc.getbze.com/",
-      "https://rpc-1.getbze.com/",
-      "https://rpc-2.getbze.com/"
+      "https://rpc.cheqd.net/",
+      "https://rpc.cheqd.ezstaking.io/",
+      "https://cheqd-rpc.lavenderfive.com/",
+      "https://rpc-cheqd-ia.cosmosia.notional.ventures/",
+      "https://rpc.cheqd.nodestake.top/"
     ]
   },
-  "cronos": {
+  "bostrom": {
     "lcds": [
-      "https://rest.cronos.org/"
+      "https://lcd.bostrom.cybernode.ai/",
+      "https://lcd.cyber.posthuman.digital/",
+      "https://api-cyber-ia.cosmosia.notional.ventures/"
     ],
     "rpcs": [
-      "https://rpc.cronos.org/"
+      "https://rpc.bostrom.cybernode.ai/",
+      "https://rpc.cyber.posthuman.digital/",
+      "https://rpc-cyber-ia.cosmosia.notional.ventures/"
     ]
   },
-  "crescent": {
+  "commercionetwork": {
     "lcds": [
-      "https://mainnet.crescent.network:1317/",
-      "https://api.crescent.pupmos.network/",
-      "https://crescent-api.polkachu.com/"
+      "https://lcd-mainnet.commercio.network/"
     ],
     "rpcs": [
-      "https://mainnet.crescent.network:26657/",
-      "https://crescent-rpc.polkachu.com/",
-      "https://rpc.crescent.pupmos.network/"
+      "https://rpc-mainnet.commercio.network/"
+    ]
+  },
+  "comdex": {
+    "lcds": [
+      "https://api.comdex.audit.one/rest/",
+      "https://rest.comdex.one/",
+      "http://comdex.node.vitwit.com:1317/",
+      "https://api-comdex.zenchainlabs.io/",
+      "https://lcd.comdex.ezstaking.io/",
+      "https://api-comdex-ia.cosmosia.notional.ventures/",
+      "https://api.comdex.chaintools.tech/",
+      "https://comdex-api.polkachu.com/",
+      "https://comdex-api.lavenderfive.com/"
+    ],
+    "rpcs": [
+      "https://rpc.comdex.one/",
+      "http://comdex.node.vitwit.com:26657/",
+      "https://rpc-comdex.zenchainlabs.io/",
+      "https://comdex-rpc.polkachu.com/",
+      "https://rpc.comdex.ezstaking.io/",
+      "https://rpc-comdex-ia.cosmosia.notional.ventures/",
+      "https://rpc.comdex.chaintools.tech/",
+      "https://comdex-rpc.lavenderfive.com/"
+    ]
+  },
+  "assetmantle": {
+    "lcds": [
+      "https://rest.assetmantle.one/",
+      "https://rest-assetmantle.ecostake.com/",
+      "https://lcd.asset-mantle.ezstaking.io/",
+      "https://api.assetmantle.nodestake.top/",
+      "https://api-assetmantle-ia.cosmosia.notional.ventures/",
+      "https://assetmantle-api.polkachu.com/",
+      "https://api-assetmanle.d-stake.xyz/"
+    ],
+    "rpcs": [
+      "https://rpc.assetmantle.one/",
+      "https://rpc-assetmantle.ecostake.com/",
+      "https://assetmantle-rpc.polkachu.com/",
+      "https://rpc.asset-mantle.ezstaking.io/",
+      "https://rpc.assetmantle.nodestake.top/",
+      "https://rpc-assetmantle-ia.cosmosia.notional.ventures/",
+      "https://rpc-assetmanle.d-stake.xyz/"
+    ]
+  },
+  "cerberus": {
+    "lcds": [
+      "https://api.cerberus.zone:1317/",
+      "https://rest-cerberus.ecostake.com/",
+      "https://api-cerberus-ia.cosmosia.notional.ventures/",
+      "https://cerberus-api.polkachu.com/",
+      "https://cerberus-api.lavenderfive.com/",
+      "https://cerberus-api.kleomed.es/",
+      "https://cerberus-api.panthea.eu/"
+    ],
+    "rpcs": [
+      "https://rpc.cerberus.zone:26657/",
+      "https://rpc-cerberus.ecostake.com/",
+      "https://cerberus-rpc.polkachu.com/",
+      "https://rpc-cerberus-ia.cosmosia.notional.ventures/",
+      "https://cerberus-rpc.lavenderfive.com/",
+      "https://cerberus-rpc.kleomed.es/",
+      "https://cerberus-rpc.panthea.eu/"
     ]
   },
   "cosmoshub": {
@@ -216,132 +204,6 @@
       "https://atom-rpc.kleomed.es/"
     ]
   },
-  "comdex": {
-    "lcds": [
-      "https://api.comdex.audit.one/rest/",
-      "https://rest.comdex.one/",
-      "http://comdex.node.vitwit.com:1317/",
-      "https://api-comdex.zenchainlabs.io/",
-      "https://lcd.comdex.ezstaking.io/",
-      "https://api-comdex-ia.cosmosia.notional.ventures/",
-      "https://api.comdex.chaintools.tech/",
-      "https://comdex-api.polkachu.com/",
-      "https://comdex-api.lavenderfive.com/"
-    ],
-    "rpcs": [
-      "https://rpc.comdex.one/",
-      "http://comdex.node.vitwit.com:26657/",
-      "https://rpc-comdex.zenchainlabs.io/",
-      "https://comdex-rpc.polkachu.com/",
-      "https://rpc.comdex.ezstaking.io/",
-      "https://rpc-comdex-ia.cosmosia.notional.ventures/",
-      "https://rpc.comdex.chaintools.tech/",
-      "https://comdex-rpc.lavenderfive.com/"
-    ]
-  },
-  "genesisl1": {
-    "lcds": [
-      "https://api.genesisl1.org/"
-    ],
-    "rpcs": [
-      "https://26657.genesisl1.org/"
-    ]
-  },
-  "idep": {
-    "lcds": [
-      "https://lcd.idep.ezstaking.io/",
-      "https://api.idep.nodestake.top/",
-      "https://idep-api.lavenderfive.com/"
-    ],
-    "rpcs": [
-      "https://idep-rpc.lavenderfive.com/"
-    ]
-  },
-  "fetchhub": {
-    "lcds": [
-      "https://rest-fetchhub.fetch.ai/",
-      "https://api-fetchhub-ia.cosmosia.notional.ventures/",
-      "https://fetch-api.polkachu.com/"
-    ],
-    "rpcs": [
-      "https://rpc-fetchhub.fetch.ai/",
-      "https://fetchapi.terminet.io/",
-      "https://rpc-fetchhub-ia.cosmosia.notional.ventures/",
-      "https://fetch-rpc.polkachu.com/"
-    ]
-  },
-  "carbon": {
-    "lcds": [
-      "https://api.carbon.network/",
-      "https://rest.carbon.bh.rocks/"
-    ],
-    "rpcs": [
-      "https://tm-api.carbon.network/",
-      "https://rpc.carbon.bh.rocks/"
-    ]
-  },
-  "irisnet": {
-    "lcds": [
-      "https://lcd-iris.keplr.app/",
-      "https://api-irisnet-ia.cosmosia.notional.ventures/"
-    ],
-    "rpcs": [
-      "https://rpc-iris.keplr.app/",
-      "https://rpc-irisnet-ia.cosmosia.notional.ventures/"
-    ]
-  },
-  "firmachain": {
-    "lcds": [
-      "https://lcd-mainnet.firmachain.dev:1317/",
-      "https://api.firmachain.chaintools.tech/",
-      "https://firmachain-api.lavenderfive.com/"
-    ],
-    "rpcs": [
-      "https://lcd-mainnet.firmachain.dev:26657/",
-      "https://rpc.firmachain.chaintools.tech/",
-      "https://firmachain-rpc.lavenderfive.com/"
-    ]
-  },
-  "chronicnetwork": {
-    "lcds": [
-      "https://api.chronic.nodestake.top/",
-      "https://api-chronic.zenchainlabs.io/"
-    ],
-    "rpcs": [
-      "https://rpc.chronic.nodestake.top/",
-      "https://rpc-chronic.zenchainlabs.io/"
-    ]
-  },
-  "odin": {
-    "lcds": [
-      "http://34.79.179.216:1317/",
-      "https://odin-api.lavenderfive.com/"
-    ],
-    "rpcs": [
-      "http://34.79.179.216:26657/",
-      "https://odin-rpc.lavenderfive.com/"
-    ]
-  },
-  "assetmantle": {
-    "lcds": [
-      "https://rest.assetmantle.one/",
-      "https://rest-assetmantle.ecostake.com/",
-      "https://lcd.asset-mantle.ezstaking.io/",
-      "https://api.assetmantle.nodestake.top/",
-      "https://api-assetmantle-ia.cosmosia.notional.ventures/",
-      "https://assetmantle-api.polkachu.com/",
-      "https://api-assetmanle.d-stake.xyz/"
-    ],
-    "rpcs": [
-      "https://rpc.assetmantle.one/",
-      "https://rpc-assetmantle.ecostake.com/",
-      "https://assetmantle-rpc.polkachu.com/",
-      "https://rpc.asset-mantle.ezstaking.io/",
-      "https://rpc.assetmantle.nodestake.top/",
-      "https://rpc-assetmantle-ia.cosmosia.notional.ventures/",
-      "https://rpc-assetmanle.d-stake.xyz/"
-    ]
-  },
   "emoney": {
     "lcds": [
       "https://lcd-emoney.keplr.app/",
@@ -360,20 +222,41 @@
       "https://e-money-rpc.ibs.team/"
     ]
   },
-  "cheqd": {
+  "axelar": {
     "lcds": [
-      "https://api.cheqd.net/",
-      "https://cheqd-api.lavenderfive.com/",
-      "https://lcd.cheqd.ezstaking.io/",
-      "https://api-cheqd-ia.cosmosia.notional.ventures/",
-      "https://api.cheqd.nodestake.top/"
+      "https://lcd-axelar.imperator.co/",
+      "https://axelar-lcd.quickapi.com/",
+      "https://axelar-rest.chainode.tech/",
+      "https://axelar-lcd.qubelabs.io/",
+      "https://api-1.axelar.nodes.guru/",
+      "https://api-axelar-ia.cosmosia.notional.ventures/",
+      "https://axelar-api.polkachu.com/"
     ],
     "rpcs": [
-      "https://rpc.cheqd.net/",
-      "https://rpc.cheqd.ezstaking.io/",
-      "https://cheqd-rpc.lavenderfive.com/",
-      "https://rpc-cheqd-ia.cosmosia.notional.ventures/",
-      "https://rpc.cheqd.nodestake.top/"
+      "https://rpc-axelar.imperator.co/",
+      "https://axelar-rpc.quickapi.com/",
+      "https://axelar-rpc.chainode.tech/",
+      "https://axelar-rpc.pops.one/",
+      "https://axelar-rpc.qubelabs.io/",
+      "https://rpc-1.axelar.nodes.guru/",
+      "https://rpc-axelar-ia.cosmosia.notional.ventures/",
+      "https://axelar-rpc.polkachu.com/"
+    ]
+  },
+  "desmos": {
+    "lcds": [
+      "https://api.mainnet.desmos.network/",
+      "https://lcd.desmos.ezstaking.io/",
+      "https://desmos-api.lavenderfive.com/",
+      "https://desmos-api.ibs.team/",
+      "https://api-bitsong.starsquid.io/",
+      "https://desmos-api.panthea.eu/"
+    ],
+    "rpcs": [
+      "https://desmos-rpc.lavenderfive.com/",
+      "https://desmos-rpc.ibs.team/",
+      "https://rpc-desmos.starsquid.io/",
+      "https://desmos-rpc.panthea.eu/"
     ]
   },
   "bitsong": {
@@ -403,20 +286,6 @@
       "https://bitsong-rpc.panthea.eu/"
     ]
   },
-  "nomic": {
-    "lcds": [
-      "https://app.nomic.io:8443/"
-    ],
-    "rpcs": []
-  },
-  "arkh": {
-    "lcds": [
-      "https://asc-blockchain-api.arkhadian.com/"
-    ],
-    "rpcs": [
-      "https://asc-dataseed.arkhadian.com/"
-    ]
-  },
   "lumenx": {
     "lcds": [
       "https://api.helios-1.lumenex.io/"
@@ -425,16 +294,147 @@
       "https://rpc.helios-1.lumenex.io/"
     ]
   },
-  "galaxy": {
+  "cudos": {
     "lcds": [
-      "https://rest.galaxychain.zone/",
-      "https://galaxy-api.polkachu.com/",
-      "https://galaxy-api.lavenderfive.com/"
+      "http://mainnet-full-node-01.hosts.cudos.org:1317/"
     ],
     "rpcs": [
-      "https://rpc.galaxychain.zone/",
-      "https://galaxy-rpc.polkachu.com/",
-      "https://galaxy-rpc.lavenderfive.com/"
+      "http://mainnet-full-node-01.hosts.cudos.org:26657/"
+    ]
+  },
+  "genesisl1": {
+    "lcds": [
+      "https://api.genesisl1.org/"
+    ],
+    "rpcs": [
+      "https://26657.genesisl1.org/"
+    ]
+  },
+  "chihuahua": {
+    "lcds": [
+      "https://api.chihuahua.wtf/",
+      "https://rest-chihuahua.ecostake.com/",
+      "https://api-chihuahua-ia.cosmosia.notional.ventures/",
+      "https://chihuahua-api.polkachu.com/",
+      "https://chihuahua-api.lavenderfive.com/"
+    ],
+    "rpcs": [
+      "https://rpc.chihuahua.wtf/",
+      "https://rpc-chihuahua.ecostake.com/",
+      "https://chihuahua-rpc.polkachu.com/",
+      "https://rpc-chihuahua-ia.cosmosia.notional.ventures/",
+      "https://chihuahua-rpc.lavenderfive.com/"
+    ]
+  },
+  "idep": {
+    "lcds": [
+      "https://lcd.idep.ezstaking.io/",
+      "https://api.idep.nodestake.top/",
+      "https://idep-api.lavenderfive.com/"
+    ],
+    "rpcs": [
+      "https://idep-rpc.lavenderfive.com/"
+    ]
+  },
+  "kava": {
+    "lcds": [
+      "https://api.data.kava.io/",
+      "https://api-kava-ia.cosmosia.notional.ventures/",
+      "https://kava-api.polkachu.com/"
+    ],
+    "rpcs": [
+      "https://rpc.data.kava.io/",
+      "https://kava-rpc.polkachu.com/",
+      "https://rpc-kava-ia.cosmosia.notional.ventures/"
+    ]
+  },
+  "carbon": {
+    "lcds": [
+      "https://api.carbon.network/",
+      "https://rest.carbon.bh.rocks/"
+    ],
+    "rpcs": [
+      "https://tm-api.carbon.network/",
+      "https://rpc.carbon.bh.rocks/"
+    ]
+  },
+  "mythos": {
+    "lcds": [
+      "https://mythos.provable.dev/rest/"
+    ],
+    "rpcs": [
+      "https://mythos-rpc.provable.dev/"
+    ]
+  },
+  "canto": {
+    "lcds": [
+      "http://164.90.154.41:1317/",
+      "https://api.canto.nodestake.top/",
+      "https://canto-api.polkachu.com/",
+      "https://canto-api.lavenderfive.com/"
+    ],
+    "rpcs": [
+      "http://164.90.154.41:26657/",
+      "https://rpc.canto.nodestake.top/",
+      "https://canto-rpc.polkachu.com/",
+      "https://canto-rpc.lavenderfive.com/"
+    ]
+  },
+  "nomic": {
+    "lcds": [
+      "https://app.nomic.io:8443/"
+    ],
+    "rpcs": []
+  },
+  "rizon": {
+    "lcds": [
+      "http://seed-1.mainnet.rizon.world:1317/",
+      "https://restapi.rizon.world/",
+      "https://api.rizon.chaintools.tech/",
+      "https://rizon-api.ibs.team/"
+    ],
+    "rpcs": [
+      "http://seed-1.mainnet.rizon.world:26657/",
+      "https://rpcapi.rizon.world/",
+      "https://rpc.rizon.chaintools.tech/",
+      "https://rizon-rpc.ibs.team/"
+    ]
+  },
+  "cronos": {
+    "lcds": [
+      "https://rest.cronos.org/"
+    ],
+    "rpcs": [
+      "https://rpc.cronos.org/"
+    ]
+  },
+  "fetchhub": {
+    "lcds": [
+      "https://rest-fetchhub.fetch.ai/",
+      "https://api-fetchhub-ia.cosmosia.notional.ventures/",
+      "https://fetch-api.polkachu.com/"
+    ],
+    "rpcs": [
+      "https://rpc-fetchhub.fetch.ai/",
+      "https://fetchapi.terminet.io/",
+      "https://rpc-fetchhub-ia.cosmosia.notional.ventures/",
+      "https://fetch-rpc.polkachu.com/"
+    ]
+  },
+  "panacea": {
+    "lcds": [
+      "https://api.gopanacea.org/"
+    ],
+    "rpcs": [
+      "https://rpc.gopanacea.org/"
+    ]
+  },
+  "okexchain": {
+    "lcds": [
+      "https://exchainrpc.okex.org/"
+    ],
+    "rpcs": [
+      "https://exchaintmrpc.okex.org/"
     ]
   },
   "decentr": {
@@ -453,32 +453,136 @@
       "https://decentr-rpc.ibs.team/"
     ]
   },
-  "cerberus": {
+  "konstellation": {
     "lcds": [
-      "https://api.cerberus.zone:1317/",
-      "https://rest-cerberus.ecostake.com/",
-      "https://api-cerberus-ia.cosmosia.notional.ventures/",
-      "https://cerberus-api.polkachu.com/",
-      "https://cerberus-api.lavenderfive.com/",
-      "https://cerberus-api.kleomed.es/",
-      "https://cerberus-api.panthea.eu/"
+      "https://node1.konstellation.tech:1318/",
+      "https://api-konstellation-ia.cosmosia.notional.ventures/",
+      "https://konstellation-api.polkachu.com/",
+      "https://konstellation-api.lavenderfive.com/",
+      "https://api-konstellation.starsquid.io/"
     ],
     "rpcs": [
-      "https://rpc.cerberus.zone:26657/",
-      "https://rpc-cerberus.ecostake.com/",
-      "https://cerberus-rpc.polkachu.com/",
-      "https://rpc-cerberus-ia.cosmosia.notional.ventures/",
-      "https://cerberus-rpc.lavenderfive.com/",
-      "https://cerberus-rpc.kleomed.es/",
-      "https://cerberus-rpc.panthea.eu/"
+      "https://node1.konstellation.tech:26657/",
+      "https://konstellation-rpc.polkachu.com/",
+      "https://rpc.konstellation.badgerbite.xyz/",
+      "https://rpc-konstellation-ia.cosmosia.notional.ventures/",
+      "https://konstellation-rpc.lavenderfive.com/",
+      "https://rpc-konstellation.starsquid.io/"
     ]
   },
-  "okexchain": {
+  "echelon": {
     "lcds": [
-      "https://exchainrpc.okex.org/"
+      "https://api.ech.network/",
+      "https://lcd-echelon.whispernode.com/",
+      "https://echelon-api.polkachu.com/",
+      "https://api.eu.ech.world/",
+      "https://api.us.ech.world/",
+      "https://ech-api.softpaws.xyz/"
     ],
     "rpcs": [
-      "https://exchaintmrpc.okex.org/"
+      "https://tendermint.ech.network/",
+      "https://rpc-echelon.whispernode.com/",
+      "https://echelon-rpc.polkachu.com/",
+      "https://rpc.eu.ech.world/",
+      "https://rpc.us.ech.world/",
+      "https://ech-rpc.softpaws.xyz/"
+    ]
+  },
+  "aioz": {
+    "lcds": [
+      "https://lcd-dataseed.aioz.network/"
+    ],
+    "rpcs": [
+      "https://rpc-dataseed.aioz.network/"
+    ]
+  },
+  "cryptoorgchain": {
+    "lcds": [
+      "https://mainnet.crypto.org/",
+      "https://lcd-crypto-org.keplr.app/",
+      "https://api-cryptoorgchain-ia.cosmosia.notional.ventures/",
+      "https://rest-cryptoorgchain.ecostake.com/"
+    ],
+    "rpcs": [
+      "https://mainnet.crypto.org/",
+      "https://rpc-crypto-org.keplr.app/",
+      "https://rpc-cryptoorgchain-ia.cosmosia.notional.ventures/",
+      "https://rpc-cryptoorgchain.ecostake.com/"
+    ]
+  },
+  "crescent": {
+    "lcds": [
+      "https://mainnet.crescent.network:1317/",
+      "https://api.crescent.pupmos.network/",
+      "https://crescent-api.polkachu.com/"
+    ],
+    "rpcs": [
+      "https://mainnet.crescent.network:26657/",
+      "https://crescent-rpc.polkachu.com/",
+      "https://rpc.crescent.pupmos.network/"
+    ]
+  },
+  "microtick": {
+    "lcds": [],
+    "rpcs": []
+  },
+  "lumnetwork": {
+    "lcds": [
+      "https://node0.mainnet.lum.network/rest/",
+      "https://lum-api.lavenderfive.com/",
+      "https://api-lum.starsquid.io/"
+    ],
+    "rpcs": [
+      "https://node0.mainnet.lum.network/rpc/",
+      "https://lum-rpc.lavenderfive.com/",
+      "https://rpc-lum.starsquid.io/"
+    ]
+  },
+  "rebus": {
+    "lcds": [
+      "https://api.rebuschain.com:1317/",
+      "https://rebus.api.manticore.team/",
+      "https://api.rebus.nodestake.top/",
+      "https://api-1.rebus.nodes.guru/",
+      "https://api.mainnet.rebus.money:1317/",
+      "https://api-rebus.nodeist.net/",
+      "https://api-rebus.d-stake.xyz/"
+    ],
+    "rpcs": [
+      "https://api.rebuschain.com:26657/",
+      "https://rebus.rpc.manticore.team/",
+      "https://rpc.rebus.nodestake.top/",
+      "https://rpc-1.rebus.nodes.guru/",
+      "https://api.mainnet.rebus.money:26657/",
+      "https://rpc-rebus.nodeist.net/",
+      "https://rpc-rebus.d-stake.xyz/"
+    ]
+  },
+  "bandchain": {
+    "lcds": [
+      "https://laozi1.bandchain.org/api/",
+      "https://api-bandchain-ia.cosmosia.notional.ventures/",
+      "https://band-api.ibs.team/"
+    ],
+    "rpcs": [
+      "http://rpc.laozi1.bandchain.org:80/",
+      "https://rpc-bandchain-ia.cosmosia.notional.ventures/",
+      "https://band-rpc.ibs.team/"
+    ]
+  },
+  "regen": {
+    "lcds": [
+      "https://rest-regen.ecostake.com/",
+      "http://public-rpc.regen.vitwit.com:1317/",
+      "https://regen.stakesystems.io/",
+      "https://api-regen-ia.cosmosia.notional.ventures/"
+    ],
+    "rpcs": [
+      "https://rpc-regen.ecostake.com/",
+      "http://public-rpc.regen.vitwit.com:26657/",
+      "https://regen.stakesystems.io:2053/",
+      "http://rpc.regen.forbole.com:80/",
+      "https://rpc-regen-ia.cosmosia.notional.ventures/"
     ]
   },
   "impacthub": {
@@ -497,6 +601,211 @@
       "https://rpc.ixo.ezstaking.io/",
       "https://rpc-ixo-ia.cosmosia.notional.ventures/",
       "https://impacthub-rpc.lavenderfive.com/"
+    ]
+  },
+  "galaxy": {
+    "lcds": [
+      "https://rest.galaxychain.zone/",
+      "https://galaxy-api.polkachu.com/",
+      "https://galaxy-api.lavenderfive.com/"
+    ],
+    "rpcs": [
+      "https://rpc.galaxychain.zone/",
+      "https://galaxy-rpc.polkachu.com/",
+      "https://galaxy-rpc.lavenderfive.com/"
+    ]
+  },
+  "sommelier": {
+    "lcds": [
+      "https://lcd-sommelier.keplr.app/",
+      "https://api.sommelier.pupmos.network/",
+      "https://sommelier-api.polkachu.com/",
+      "https://sommelier-api.lavenderfive.com/"
+    ],
+    "rpcs": [
+      "https://sommelier-rpc.polkachu.com/",
+      "https://rpc.sommelier.pupmos.network/",
+      "https://sommelier-rpc.lavenderfive.com/"
+    ]
+  },
+  "octa": {
+    "lcds": [
+      "http://3.71.102.151:1317/"
+    ],
+    "rpcs": []
+  },
+  "irisnet": {
+    "lcds": [
+      "https://lcd-iris.keplr.app/",
+      "https://api-irisnet-ia.cosmosia.notional.ventures/"
+    ],
+    "rpcs": [
+      "https://rpc-iris.keplr.app/",
+      "https://rpc-irisnet-ia.cosmosia.notional.ventures/"
+    ]
+  },
+  "akash": {
+    "lcds": [
+      "https://api.akash.forbole.com/",
+      "https://rest-akash.ecostake.com/",
+      "https://akash-api.lavenderfive.com/",
+      "https://akash-api.polkachu.com/",
+      "https://api-akash-ia.cosmosia.notional.ventures/",
+      "https://akash.c29r3.xyz/api/"
+    ],
+    "rpcs": [
+      "https://rpc.akash.forbole.com/",
+      "https://rpc-akash.ecostake.com/",
+      "https://akash-rpc.lavenderfive.com/",
+      "https://akash-rpc.polkachu.com/",
+      "https://rpc-akash-ia.cosmosia.notional.ventures/",
+      "http://akash.c29r3.xyz:80/rpc/"
+    ]
+  },
+  "likecoin": {
+    "lcds": [
+      "https://mainnet-node.like.co/",
+      "https://api-likecoin-ia.cosmosia.notional.ventures/"
+    ],
+    "rpcs": [
+      "https://rpc-likecoin-ia.cosmosia.notional.ventures/"
+    ]
+  },
+  "kichain": {
+    "lcds": [
+      "https://api-mainnet.blockchain.ki/",
+      "https://lcd.kichain.ezstaking.io/",
+      "https://api-kichain-ia.cosmosia.notional.ventures/",
+      "https://api.kichain.chaintools.tech/",
+      "https://kichain-api.polkachu.com/",
+      "https://kichain-api.lavenderfive.com/",
+      "https://api.ki.nodestake.top/",
+      "https://ki-api.ibs.team/"
+    ],
+    "rpcs": [
+      "https://rpc-mainnet.blockchain.ki/",
+      "https://kichain-rpc.polkachu.com/",
+      "https://rpc.kichain.ezstaking.io/",
+      "https://rpc-kichain-ia.cosmosia.notional.ventures/",
+      "https://rpc.kichain.chaintools.tech/",
+      "https://kichain-rpc.lavenderfive.com/",
+      "https://rpc.ki.nodestake.top/",
+      "https://ki-rpc.ibs.team/"
+    ]
+  },
+  "firmachain": {
+    "lcds": [
+      "https://lcd-mainnet.firmachain.dev:1317/",
+      "https://api.firmachain.chaintools.tech/",
+      "https://firmachain-api.lavenderfive.com/"
+    ],
+    "rpcs": [
+      "https://lcd-mainnet.firmachain.dev:26657/",
+      "https://rpc.firmachain.chaintools.tech/",
+      "https://firmachain-rpc.lavenderfive.com/"
+    ]
+  },
+  "point": {
+    "lcds": [
+      "https://rpc-mainnet-1.point.space:1317/",
+      "https://api.point.nodestake.top/"
+    ],
+    "rpcs": [
+      "https://rpc-mainnet-1.point.space:26657/",
+      "https://rpc.point.nodestake.top/"
+    ]
+  },
+  "lambda": {
+    "lcds": [
+      "https://rest.lambda.im/",
+      "https://api.lambda.nodestake.top/"
+    ],
+    "rpcs": [
+      "https://rpc.lambda.im/",
+      "https://rpc.lambda.nodestake.top/"
+    ]
+  },
+  "provenance": {
+    "lcds": [
+      "https://api.provenance.io/",
+      "https://api-provenance-ia.cosmosia.notional.ventures/"
+    ],
+    "rpcs": [
+      "https://rpc.provenance.io/",
+      "https://rpc-provenance-ia.cosmosia.notional.ventures/"
+    ]
+  },
+  "meme": {
+    "lcds": [
+      "https://api-meme-1.meme.sx/",
+      "https://api.meme.interbloc.org/",
+      "https://meme-api.polkachu.com/",
+      "https://api.meme.pupmos.network/",
+      "https://meme-api.kleomed.es/"
+    ],
+    "rpcs": [
+      "https://rpc-meme-1.meme.sx/",
+      "https://rpc.meme.interbloc.org/",
+      "https://meme-rpc.polkachu.com/",
+      "https://rpc.meme.pupmos.network/",
+      "https://meme-rpc.kleomed.es/"
+    ]
+  },
+  "passage": {
+    "lcds": [
+      "https://api.passage.vitwit.com/",
+      "https://services.staketab.com/passage-api/",
+      "https://rest-passage.ecostake.com/",
+      "https://passage-api.lavenderfive.com/",
+      "https://api-passage-ia.cosmosia.notional.ventures/",
+      "https://api.passage.nodestake.top/",
+      "https://passage-api.polkachu.com/",
+      "https://passage-api.ibs.team/",
+      "https://api-passage.d-stake.xyz/",
+      "https://passage-api.panthea.eu/"
+    ],
+    "rpcs": [
+      "https://rpc.passage.vitwit.com/",
+      "https://rpc.passage.blockscope.net:26657/",
+      "https://services.staketab.com/passage-rpc/",
+      "https://rpc-passage.ecostake.com/",
+      "https://passage-rpc.lavenderfive.com/",
+      "https://rpc-passage-ia.cosmosia.notional.ventures/",
+      "https://rpc.passage.nodestake.top/",
+      "https://passage-rpc.polkachu.com/",
+      "https://passage-rpc.ibs.team/",
+      "https://rpc-passage.d-stake.xyz/",
+      "https://passage-rpc.panthea.eu/"
+    ]
+  },
+  "juno": {
+    "lcds": [
+      "https://lcd-juno.whispernode.com/",
+      "https://lcd-juno.itastakers.com/",
+      "https://rest-juno.ecostake.com/",
+      "https://juno-api.lavenderfive.com/",
+      "https://api.juno.pupmos.network/",
+      "https://lcd.junomint.com/",
+      "https://api-juno-ia.cosmosia.notional.ventures/",
+      "https://api.juno.chaintools.tech/",
+      "https://juno-api.polkachu.com/",
+      "https://api.juno.silknodes.io/",
+      "https://juno-api.kleomed.es/",
+      "https://api.juno.interbloc.org/"
+    ],
+    "rpcs": [
+      "https://rpc-juno.whispernode.com/",
+      "https://rpc-juno.itastakers.com/",
+      "https://rpc-juno.ecostake.com/",
+      "https://juno-rpc.polkachu.com/",
+      "https://juno-rpc.lavenderfive.com/",
+      "https://rpc.juno.pupmos.network/",
+      "https://rpc.junomint.com/",
+      "https://rpc-juno-ia.cosmosia.notional.ventures/",
+      "https://rpc.juno.chaintools.tech/",
+      "https://rpc.juno.silknodes.io/",
+      "https://juno-rpc.kleomed.es/",
+      "https://rpc.juno.interbloc.org/"
     ]
   },
   "evmos": {
@@ -534,6 +843,53 @@
       "https://evmos-rpc.agoranodes.com/"
     ]
   },
+  "logos": {
+    "lcds": [
+      "https://logos.provable.dev/rest/"
+    ],
+    "rpcs": [
+      "https://logos-rpc.provable.dev/"
+    ]
+  },
+  "persistence": {
+    "lcds": [
+      "https://rest.core.persistence.one/",
+      "https://api-persistent-ia.cosmosia.notional.ventures/",
+      "https://api-persistence.starsquid.io/"
+    ],
+    "rpcs": [
+      "https://rpc.core.persistence.one/",
+      "https://rpc-persistent-ia.cosmosia.notional.ventures/",
+      "https://rpc-persistence.starsquid.io/"
+    ]
+  },
+  "omniflixhub": {
+    "lcds": [
+      "https://omniflixhub-api.skynetvalidators.com/",
+      "https://api.omniflix.nodestake.top/",
+      "https://api.omniflix.chaintools.tech/",
+      "https://api-omniflixhub-ia.cosmosia.notional.ventures/",
+      "https://omniflix-api.lavenderfive.com/",
+      "https://api.omniflix.huginn.tech/"
+    ],
+    "rpcs": [
+      "https://rpc.omniflix.nodestake.top/",
+      "https://rpc.omniflix.chaintools.tech/",
+      "https://rpc-omniflixhub-ia.cosmosia.notional.ventures/",
+      "https://omniflix-rpc.lavenderfive.com/",
+      "https://rpc-omniflix.huginn.tech/"
+    ]
+  },
+  "odin": {
+    "lcds": [
+      "http://34.79.179.216:1317/",
+      "https://odin-api.lavenderfive.com/"
+    ],
+    "rpcs": [
+      "http://34.79.179.216:26657/",
+      "https://odin-rpc.lavenderfive.com/"
+    ]
+  },
   "kujira": {
     "lcds": [
       "https://lcd-kujira.whispernode.com/",
@@ -562,6 +918,38 @@
       "https://rpc-kujira.starsquid.io/"
     ]
   },
+  "shentu": {
+    "lcds": [
+      "https://chainfull.noopsbycertik.com/",
+      "https://shentu-api.panthea.eu/",
+      "https://certik-api.polkachu.com/",
+      "https://api-shentu.starsquid.io/"
+    ],
+    "rpcs": [
+      "https://shenturpc.noopsbycertik.com/",
+      "https://shentu-rpc.panthea.eu/",
+      "https://certik-rpc.polkachu.com/",
+      "https://rpc-shentu.starsquid.io/"
+    ]
+  },
+  "starname": {
+    "lcds": [
+      "https://lcd-iov.keplr.app/",
+      "https://api-starname-ia.cosmosia.notional.ventures/"
+    ],
+    "rpcs": [
+      "https://rpc-iov.keplr.app/",
+      "https://rpc-starname-ia.cosmosia.notional.ventures/"
+    ]
+  },
+  "ethos": {
+    "lcds": [
+      "https://ethos.provable.dev/rest/"
+    ],
+    "rpcs": [
+      "https://ethos-rpc.provable.dev/"
+    ]
+  },
   "gravitybridge": {
     "lcds": [
       "https://gravitychain.io:1317/",
@@ -579,6 +967,71 @@
       "https://rpc-gravitybridge-ia.cosmosia.notional.ventures/",
       "https://rpc.gravity-bridge.nodestake.top/",
       "https://gravitybridge-rpc.lavenderfive.com/"
+    ]
+  },
+  "stargaze": {
+    "lcds": [
+      "https://rest.stargaze-apis.com/",
+      "https://api.stargaze.pupmos.network/",
+      "https://api.stargaze.ezstaking.io/",
+      "https://api.stars.kingnodes.com/",
+      "https://api-stargaze-ia.cosmosia.notional.ventures/",
+      "https://stargaze.c29r3.xyz/api/",
+      "https://stargaze-rapipc.polkachu.com/",
+      "https://api.stargaze.nodestake.top/",
+      "https://stargaze-api.ibs.team/",
+      "https://api-stargaze.d-stake.xyz/"
+    ],
+    "rpcs": [
+      "https://rpc.stargaze-apis.com/",
+      "https://rpc.stargaze.pupmos.network/",
+      "https://rpc.stargaze.ezstaking.io/",
+      "https://rpc.stars.kingnodes.com/",
+      "https://stargaze-rpc.polkachu.com/",
+      "https://rpc-stargaze-ia.cosmosia.notional.ventures/",
+      "https://stargaze.c29r3.xyz/rpc/",
+      "https://rpc.stargaze.nodestake.top/",
+      "https://stargaze-rpc.ibs.team/",
+      "https://rpc-stargaze.d-stake.xyz/"
+    ]
+  },
+  "umee": {
+    "lcds": [
+      "https://api.aphrodite.main.network.umee.cc/",
+      "https://api.apollo.main.network.umee.cc/",
+      "https://api.artemis.main.network.umee.cc/",
+      "https://api.athena.main.network.umee.cc/",
+      "https://api.beaked.main.network.umee.cc/",
+      "https://api.bottlenose.main.network.umee.cc/",
+      "https://api-umee-ia.cosmosia.notional.ventures/",
+      "https://umee-api.polkachu.com/"
+    ],
+    "rpcs": [
+      "https://rpc.beaked.main.network.umee.cc/",
+      "https://rpc.bottlenose.main.network.umee.cc/",
+      "https://umee-rpc.polkachu.com/",
+      "https://rpc.umee.testnet.run/",
+      "https://rpc-umee-ia.cosmosia.notional.ventures/"
+    ]
+  },
+  "secretnetwork": {
+    "lcds": [
+      "https://api.scrt.network/",
+      "https://secret-4.api.trivium.network:1317/",
+      "https://secret-api.lavenderfive.com/",
+      "https://scrt-lcd.blockpane.com/",
+      "https://secret.api.consensus.one/",
+      "https://api.secret.forbole.com/",
+      "https://secretnetwork-lcd.stakely.io/"
+    ],
+    "rpcs": [
+      "https://rpc.scrt.network/",
+      "https://secret-4.api.trivium.network:26657/",
+      "https://scrt-rpc.blockpane.com/",
+      "https://secret-rpc.lavenderfive.com/",
+      "https://secret.rpc.consensus.one/",
+      "https://rpc.secret.forbole.com/",
+      "https://secretnetwork-rpc.stakely.io/"
     ]
   },
   "osmosis": {
@@ -608,224 +1061,6 @@
       "https://rpc.osmosis.silknodes.io/"
     ]
   },
-  "echelon": {
-    "lcds": [
-      "https://api.ech.network/",
-      "https://lcd-echelon.whispernode.com/",
-      "https://echelon-api.polkachu.com/",
-      "https://api.eu.ech.world/",
-      "https://api.us.ech.world/",
-      "https://ech-api.softpaws.xyz/"
-    ],
-    "rpcs": [
-      "https://tendermint.ech.network/",
-      "https://rpc-echelon.whispernode.com/",
-      "https://echelon-rpc.polkachu.com/",
-      "https://rpc.eu.ech.world/",
-      "https://rpc.us.ech.world/",
-      "https://ech-rpc.softpaws.xyz/"
-    ]
-  },
-  "logos": {
-    "lcds": [
-      "https://logos.provable.dev/rest/"
-    ],
-    "rpcs": [
-      "https://logos-rpc.provable.dev/"
-    ]
-  },
-  "mythos": {
-    "lcds": [
-      "https://mythos.provable.dev/rest/"
-    ],
-    "rpcs": [
-      "https://mythos-rpc.provable.dev/"
-    ]
-  },
-  "cryptoorgchain": {
-    "lcds": [
-      "https://mainnet.crypto.org/",
-      "https://lcd-crypto-org.keplr.app/",
-      "https://api-cryptoorgchain-ia.cosmosia.notional.ventures/",
-      "https://rest-cryptoorgchain.ecostake.com/"
-    ],
-    "rpcs": [
-      "https://mainnet.crypto.org/",
-      "https://rpc-crypto-org.keplr.app/",
-      "https://rpc-cryptoorgchain-ia.cosmosia.notional.ventures/",
-      "https://rpc-cryptoorgchain.ecostake.com/"
-    ]
-  },
-  "point": {
-    "lcds": [
-      "https://rpc-mainnet-1.point.space:1317/",
-      "https://api.point.nodestake.top/"
-    ],
-    "rpcs": [
-      "https://rpc-mainnet-1.point.space:26657/",
-      "https://rpc.point.nodestake.top/"
-    ]
-  },
-  "microtick": {
-    "lcds": [],
-    "rpcs": []
-  },
-  "persistence": {
-    "lcds": [
-      "https://rest.core.persistence.one/",
-      "https://api-persistent-ia.cosmosia.notional.ventures/",
-      "https://api-persistence.starsquid.io/"
-    ],
-    "rpcs": [
-      "https://rpc.core.persistence.one/",
-      "https://rpc-persistent-ia.cosmosia.notional.ventures/",
-      "https://rpc-persistence.starsquid.io/"
-    ]
-  },
-  "likecoin": {
-    "lcds": [
-      "https://mainnet-node.like.co/",
-      "https://api-likecoin-ia.cosmosia.notional.ventures/"
-    ],
-    "rpcs": [
-      "https://rpc-likecoin-ia.cosmosia.notional.ventures/"
-    ]
-  },
-  "tgrade": {
-    "lcds": [
-      "https://api.mainnet-1.tgrade.confio.run/",
-      "https://lcd.tgrade.posthuman.digital/"
-    ],
-    "rpcs": [
-      "https://rpc.mainnet-1.tgrade.confio.run/",
-      "https://rpc.tgrade.posthuman.digital/"
-    ]
-  },
-  "passage": {
-    "lcds": [
-      "https://api.passage.vitwit.com/",
-      "https://services.staketab.com/passage-api/",
-      "https://rest-passage.ecostake.com/",
-      "https://passage-api.lavenderfive.com/",
-      "https://api-passage-ia.cosmosia.notional.ventures/",
-      "https://api.passage.nodestake.top/",
-      "https://passage-api.polkachu.com/",
-      "https://passage-api.ibs.team/",
-      "https://api-passage.d-stake.xyz/",
-      "https://passage-api.panthea.eu/"
-    ],
-    "rpcs": [
-      "https://rpc.passage.vitwit.com/",
-      "https://rpc.passage.blockscope.net:26657/",
-      "https://services.staketab.com/passage-rpc/",
-      "https://rpc-passage.ecostake.com/",
-      "https://passage-rpc.lavenderfive.com/",
-      "https://rpc-passage-ia.cosmosia.notional.ventures/",
-      "https://rpc.passage.nodestake.top/",
-      "https://passage-rpc.polkachu.com/",
-      "https://passage-rpc.ibs.team/",
-      "https://rpc-passage.d-stake.xyz/",
-      "https://passage-rpc.panthea.eu/"
-    ]
-  },
-  "sommelier": {
-    "lcds": [
-      "https://lcd-sommelier.keplr.app/",
-      "https://api.sommelier.pupmos.network/",
-      "https://sommelier-api.polkachu.com/",
-      "https://sommelier-api.lavenderfive.com/"
-    ],
-    "rpcs": [
-      "https://sommelier-rpc.polkachu.com/",
-      "https://rpc.sommelier.pupmos.network/",
-      "https://sommelier-rpc.lavenderfive.com/"
-    ]
-  },
-  "cudos": {
-    "lcds": [
-      "http://mainnet-full-node-01.hosts.cudos.org:1317/"
-    ],
-    "rpcs": [
-      "http://mainnet-full-node-01.hosts.cudos.org:26657/"
-    ]
-  },
-  "lambda": {
-    "lcds": [
-      "https://rest.lambda.im/",
-      "https://api.lambda.nodestake.top/"
-    ],
-    "rpcs": [
-      "https://rpc.lambda.im/",
-      "https://rpc.lambda.nodestake.top/"
-    ]
-  },
-  "meme": {
-    "lcds": [
-      "https://api-meme-1.meme.sx/",
-      "https://api.meme.interbloc.org/",
-      "https://meme-api.polkachu.com/",
-      "https://api.meme.pupmos.network/",
-      "https://meme-api.kleomed.es/"
-    ],
-    "rpcs": [
-      "https://rpc-meme-1.meme.sx/",
-      "https://rpc.meme.interbloc.org/",
-      "https://meme-rpc.polkachu.com/",
-      "https://rpc.meme.pupmos.network/",
-      "https://meme-rpc.kleomed.es/"
-    ]
-  },
-  "dig": {
-    "lcds": [
-      "https://api-1-dig.notional.ventures/",
-      "https://api-dig-ia.cosmosia.notional.ventures/",
-      "https://dig-api.lavenderfive.com/"
-    ],
-    "rpcs": [
-      "https://rpc-1-dig.notional.ventures/",
-      "https://rpc-dig-ia.cosmosia.notional.ventures/",
-      "https://dig-rpc.lavenderfive.com/"
-    ]
-  },
-  "konstellation": {
-    "lcds": [
-      "https://node1.konstellation.tech:1318/",
-      "https://api-konstellation-ia.cosmosia.notional.ventures/",
-      "https://konstellation-api.polkachu.com/",
-      "https://konstellation-api.lavenderfive.com/",
-      "https://api-konstellation.starsquid.io/"
-    ],
-    "rpcs": [
-      "https://node1.konstellation.tech:26657/",
-      "https://konstellation-rpc.polkachu.com/",
-      "https://rpc.konstellation.badgerbite.xyz/",
-      "https://rpc-konstellation-ia.cosmosia.notional.ventures/",
-      "https://konstellation-rpc.lavenderfive.com/",
-      "https://rpc-konstellation.starsquid.io/"
-    ]
-  },
-  "teritori": {
-    "lcds": [
-      "https://teritori-api.lavenderfive.com/",
-      "https://teritori-api.polkachu.com/",
-      "https://api-teritori.nodeist.net/",
-      "https://api.teritori.nodestake.top/"
-    ],
-    "rpcs": [
-      "https://teritori-rpc.lavenderfive.com/",
-      "https://teritori-rpc.polkachu.com/",
-      "https://rpc-teritori.nodeist.net/",
-      "https://rpc.teritori.nodestake.top/"
-    ]
-  },
-  "ethos": {
-    "lcds": [
-      "https://ethos.provable.dev/rest/"
-    ],
-    "rpcs": [
-      "https://ethos-rpc.provable.dev/"
-    ]
-  },
   "oraichain": {
     "lcds": [
       "http://lcd.orai.io/",
@@ -839,20 +1074,6 @@
       "http://18.116.209.76:26657/",
       "http://64.225.53.108:26657/",
       "http://13.79.247.74:26657/"
-    ]
-  },
-  "rizon": {
-    "lcds": [
-      "http://seed-1.mainnet.rizon.world:1317/",
-      "https://restapi.rizon.world/",
-      "https://api.rizon.chaintools.tech/",
-      "https://rizon-api.ibs.team/"
-    ],
-    "rpcs": [
-      "http://seed-1.mainnet.rizon.world:26657/",
-      "https://rpcapi.rizon.world/",
-      "https://rpc.rizon.chaintools.tech/",
-      "https://rizon-rpc.ibs.team/"
     ]
   },
   "sifchain": {
@@ -880,89 +1101,14 @@
       "https://rpc.sifchain.posthuman.digital/"
     ]
   },
-  "juno": {
+  "tgrade": {
     "lcds": [
-      "https://lcd-juno.whispernode.com/",
-      "https://lcd-juno.itastakers.com/",
-      "https://rest-juno.ecostake.com/",
-      "https://juno-api.lavenderfive.com/",
-      "https://api.juno.pupmos.network/",
-      "https://lcd.junomint.com/",
-      "https://api-juno-ia.cosmosia.notional.ventures/",
-      "https://api.juno.chaintools.tech/",
-      "https://juno-api.polkachu.com/",
-      "https://api.juno.silknodes.io/",
-      "https://juno-api.kleomed.es/",
-      "https://api.juno.interbloc.org/"
+      "https://api.mainnet-1.tgrade.confio.run/",
+      "https://lcd.tgrade.posthuman.digital/"
     ],
     "rpcs": [
-      "https://rpc-juno.whispernode.com/",
-      "https://rpc-juno.itastakers.com/",
-      "https://rpc-juno.ecostake.com/",
-      "https://juno-rpc.polkachu.com/",
-      "https://juno-rpc.lavenderfive.com/",
-      "https://rpc.juno.pupmos.network/",
-      "https://rpc.junomint.com/",
-      "https://rpc-juno-ia.cosmosia.notional.ventures/",
-      "https://rpc.juno.chaintools.tech/",
-      "https://rpc.juno.silknodes.io/",
-      "https://juno-rpc.kleomed.es/",
-      "https://rpc.juno.interbloc.org/"
-    ]
-  },
-  "starname": {
-    "lcds": [
-      "https://lcd-iov.keplr.app/",
-      "https://api-starname-ia.cosmosia.notional.ventures/"
-    ],
-    "rpcs": [
-      "https://rpc-iov.keplr.app/",
-      "https://rpc-starname-ia.cosmosia.notional.ventures/"
-    ]
-  },
-  "regen": {
-    "lcds": [
-      "https://rest-regen.ecostake.com/",
-      "http://public-rpc.regen.vitwit.com:1317/",
-      "https://regen.stakesystems.io/",
-      "https://api-regen-ia.cosmosia.notional.ventures/"
-    ],
-    "rpcs": [
-      "https://rpc-regen.ecostake.com/",
-      "http://public-rpc.regen.vitwit.com:26657/",
-      "https://regen.stakesystems.io:2053/",
-      "http://rpc.regen.forbole.com:80/",
-      "https://rpc-regen-ia.cosmosia.notional.ventures/"
-    ]
-  },
-  "kichain": {
-    "lcds": [
-      "https://api-mainnet.blockchain.ki/",
-      "https://lcd.kichain.ezstaking.io/",
-      "https://api-kichain-ia.cosmosia.notional.ventures/",
-      "https://api.kichain.chaintools.tech/",
-      "https://kichain-api.polkachu.com/",
-      "https://kichain-api.lavenderfive.com/",
-      "https://api.ki.nodestake.top/",
-      "https://ki-api.ibs.team/"
-    ],
-    "rpcs": [
-      "https://rpc-mainnet.blockchain.ki/",
-      "https://kichain-rpc.polkachu.com/",
-      "https://rpc.kichain.ezstaking.io/",
-      "https://rpc-kichain-ia.cosmosia.notional.ventures/",
-      "https://rpc.kichain.chaintools.tech/",
-      "https://kichain-rpc.lavenderfive.com/",
-      "https://rpc.ki.nodestake.top/",
-      "https://ki-rpc.ibs.team/"
-    ]
-  },
-  "panacea": {
-    "lcds": [
-      "https://api.gopanacea.org/"
-    ],
-    "rpcs": [
-      "https://rpc.gopanacea.org/"
+      "https://rpc.mainnet-1.tgrade.confio.run/",
+      "https://rpc.tgrade.posthuman.digital/"
     ]
   },
   "sentinel": {
@@ -980,43 +1126,6 @@
       "https://rpc.sentinel1.badgerbite.xyz/",
       "https://rpc.sentinel.chaintools.tech/",
       "https://rpc.sentinel.freak12techno.io/"
-    ]
-  },
-  "rebus": {
-    "lcds": [
-      "https://api.rebuschain.com:1317/",
-      "https://rebus.api.manticore.team/",
-      "https://api.rebus.nodestake.top/",
-      "https://api-1.rebus.nodes.guru/",
-      "https://api.mainnet.rebus.money:1317/",
-      "https://api-rebus.nodeist.net/",
-      "https://api-rebus.d-stake.xyz/"
-    ],
-    "rpcs": [
-      "https://api.rebuschain.com:26657/",
-      "https://rebus.rpc.manticore.team/",
-      "https://rpc.rebus.nodestake.top/",
-      "https://rpc-1.rebus.nodes.guru/",
-      "https://api.mainnet.rebus.money:26657/",
-      "https://rpc-rebus.nodeist.net/",
-      "https://rpc-rebus.d-stake.xyz/"
-    ]
-  },
-  "omniflixhub": {
-    "lcds": [
-      "https://omniflixhub-api.skynetvalidators.com/",
-      "https://api.omniflix.nodestake.top/",
-      "https://api.omniflix.chaintools.tech/",
-      "https://api-omniflixhub-ia.cosmosia.notional.ventures/",
-      "https://omniflix-api.lavenderfive.com/",
-      "https://api.omniflix.huginn.tech/"
-    ],
-    "rpcs": [
-      "https://rpc.omniflix.nodestake.top/",
-      "https://rpc.omniflix.chaintools.tech/",
-      "https://rpc-omniflixhub-ia.cosmosia.notional.ventures/",
-      "https://omniflix-rpc.lavenderfive.com/",
-      "https://rpc-omniflix.huginn.tech/"
     ]
   },
   "stride": {
@@ -1039,6 +1148,18 @@
       "https://rpc-stride.d-stake.xyz/"
     ]
   },
+  "vidulum": {
+    "lcds": [
+      "https://mainnet-lcd.vidulum.app/",
+      "https://api-vidulum-ia.cosmosia.notional.ventures/",
+      "https://vidulum-api.lavenderfive.com/"
+    ],
+    "rpcs": [
+      "https://mainnet-rpc.vidulum.app/",
+      "https://rpc-vidulum-ia.cosmosia.notional.ventures/",
+      "https://vidulum-rpc.lavenderfive.com/"
+    ]
+  },
   "injective": {
     "lcds": [
       "https://public.lcd.injective.network/",
@@ -1052,63 +1173,18 @@
       "https://rpc-injective-ia.cosmosia.notional.ventures/"
     ]
   },
-  "shentu": {
+  "teritori": {
     "lcds": [
-      "https://chainfull.noopsbycertik.com/",
-      "https://shentu-api.panthea.eu/",
-      "https://certik-api.polkachu.com/",
-      "https://api-shentu.starsquid.io/"
+      "https://teritori-api.lavenderfive.com/",
+      "https://teritori-api.polkachu.com/",
+      "https://api-teritori.nodeist.net/",
+      "https://api.teritori.nodestake.top/"
     ],
     "rpcs": [
-      "https://shenturpc.noopsbycertik.com/",
-      "https://shentu-rpc.panthea.eu/",
-      "https://certik-rpc.polkachu.com/",
-      "https://rpc-shentu.starsquid.io/"
-    ]
-  },
-  "umee": {
-    "lcds": [
-      "https://api.aphrodite.main.network.umee.cc/",
-      "https://api.apollo.main.network.umee.cc/",
-      "https://api.artemis.main.network.umee.cc/",
-      "https://api.athena.main.network.umee.cc/",
-      "https://api.beaked.main.network.umee.cc/",
-      "https://api.bottlenose.main.network.umee.cc/",
-      "https://api-umee-ia.cosmosia.notional.ventures/",
-      "https://umee-api.polkachu.com/"
-    ],
-    "rpcs": [
-      "https://rpc.beaked.main.network.umee.cc/",
-      "https://rpc.bottlenose.main.network.umee.cc/",
-      "https://umee-rpc.polkachu.com/",
-      "https://rpc.umee.testnet.run/",
-      "https://rpc-umee-ia.cosmosia.notional.ventures/"
-    ]
-  },
-  "stargaze": {
-    "lcds": [
-      "https://rest.stargaze-apis.com/",
-      "https://api.stargaze.pupmos.network/",
-      "https://api.stargaze.ezstaking.io/",
-      "https://api.stars.kingnodes.com/",
-      "https://api-stargaze-ia.cosmosia.notional.ventures/",
-      "https://stargaze.c29r3.xyz/api/",
-      "https://stargaze-rapipc.polkachu.com/",
-      "https://api.stargaze.nodestake.top/",
-      "https://stargaze-api.ibs.team/",
-      "https://api-stargaze.d-stake.xyz/"
-    ],
-    "rpcs": [
-      "https://rpc.stargaze-apis.com/",
-      "https://rpc.stargaze.pupmos.network/",
-      "https://rpc.stargaze.ezstaking.io/",
-      "https://rpc.stars.kingnodes.com/",
-      "https://stargaze-rpc.polkachu.com/",
-      "https://rpc-stargaze-ia.cosmosia.notional.ventures/",
-      "https://stargaze.c29r3.xyz/rpc/",
-      "https://rpc.stargaze.nodestake.top/",
-      "https://stargaze-rpc.ibs.team/",
-      "https://rpc-stargaze.d-stake.xyz/"
+      "https://teritori-rpc.lavenderfive.com/",
+      "https://teritori-rpc.polkachu.com/",
+      "https://rpc-teritori.nodeist.net/",
+      "https://rpc.teritori.nodestake.top/"
     ]
   },
   "terra2": {
@@ -1126,66 +1202,6 @@
       "https://rpc-terra.wildsage.io/"
     ]
   },
-  "lumnetwork": {
-    "lcds": [
-      "https://node0.mainnet.lum.network/rest/",
-      "https://lum-api.lavenderfive.com/",
-      "https://api-lum.starsquid.io/"
-    ],
-    "rpcs": [
-      "https://node0.mainnet.lum.network/rpc/",
-      "https://lum-rpc.lavenderfive.com/",
-      "https://rpc-lum.starsquid.io/"
-    ]
-  },
-  "octa": {
-    "lcds": [
-      "http://3.71.102.151:1317/"
-    ],
-    "rpcs": []
-  },
-  "kava": {
-    "lcds": [
-      "https://api.data.kava.io/",
-      "https://api-kava-ia.cosmosia.notional.ventures/",
-      "https://kava-api.polkachu.com/"
-    ],
-    "rpcs": [
-      "https://rpc.data.kava.io/",
-      "https://kava-rpc.polkachu.com/",
-      "https://rpc-kava-ia.cosmosia.notional.ventures/"
-    ]
-  },
-  "desmos": {
-    "lcds": [
-      "https://api.mainnet.desmos.network/",
-      "https://lcd.desmos.ezstaking.io/",
-      "https://desmos-api.lavenderfive.com/",
-      "https://desmos-api.ibs.team/",
-      "https://api-bitsong.starsquid.io/",
-      "https://desmos-api.panthea.eu/"
-    ],
-    "rpcs": [
-      "https://rpc.mainnet.desmos.network/",
-      "https://rpc.desmos.ezstaking.io/",
-      "https://desmos-rpc.lavenderfive.com/",
-      "https://desmos-rpc.ibs.team/",
-      "https://rpc-desmos.starsquid.io/",
-      "https://desmos-rpc.panthea.eu/"
-    ]
-  },
-  "vidulum": {
-    "lcds": [
-      "https://mainnet-lcd.vidulum.app/",
-      "https://api-vidulum-ia.cosmosia.notional.ventures/",
-      "https://vidulum-api.lavenderfive.com/"
-    ],
-    "rpcs": [
-      "https://mainnet-rpc.vidulum.app/",
-      "https://rpc-vidulum-ia.cosmosia.notional.ventures/",
-      "https://vidulum-rpc.lavenderfive.com/"
-    ]
-  },
   "terra": {
     "lcds": [
       "https://blockdaemon-terra-lcd.api.bdnodes.net:1317/",
@@ -1197,33 +1213,16 @@
       "https://rpc-terra-ia.cosmosia.notional.ventures/"
     ]
   },
-  "provenance": {
+  "dig": {
     "lcds": [
-      "https://api.provenance.io/",
-      "https://api-provenance-ia.cosmosia.notional.ventures/"
+      "https://api-1-dig.notional.ventures/",
+      "https://api-dig-ia.cosmosia.notional.ventures/",
+      "https://dig-api.lavenderfive.com/"
     ],
     "rpcs": [
-      "https://rpc.provenance.io/",
-      "https://rpc-provenance-ia.cosmosia.notional.ventures/"
-    ]
-  },
-  "secretnetwork": {
-    "lcds": [
-      "https://api.scrt.network/",
-      "https://secret-4.api.trivium.network:1317/",
-      "https://secret-api.lavenderfive.com/",
-      "https://scrt-lcd.blockpane.com/",
-      "https://secret.api.consensus.one/",
-      "https://api.secret.forbole.com/",
-      "https://secretnetwork-lcd.stakely.io/"
-    ],
-    "rpcs": [
-      "https://secret-4.api.trivium.network:26657/",
-      "https://scrt-rpc.blockpane.com/",
-      "https://secret-rpc.lavenderfive.com/",
-      "https://secret.rpc.consensus.one/",
-      "https://rpc.secret.forbole.com/",
-      "https://secretnetwork-rpc.stakely.io/"
+      "https://rpc-1-dig.notional.ventures/",
+      "https://rpc-dig-ia.cosmosia.notional.ventures/",
+      "https://dig-rpc.lavenderfive.com/"
     ]
   }
 }
