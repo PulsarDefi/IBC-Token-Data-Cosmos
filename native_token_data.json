@@ -681,7 +681,7 @@
     "denom": "umntl",
     "symbol": "MNTL",
     "decimals": 6,
-    "description": "The native token of Asset Mantle",
+    "description": "The native token of AssetMantle",
     "coingecko_id": "assetmantle",
     "bridge_asset": null,
     "logos": {
