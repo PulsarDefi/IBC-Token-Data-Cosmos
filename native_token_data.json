@@ -1,4 +1,100 @@
 {
+  "uband__bandchain": {
+    "name": "Band Protocol",
+    "chain": "bandchain",
+    "denom": "uband",
+    "symbol": "BAND",
+    "decimals": 6,
+    "description": "The native token of BandChain",
+    "coingecko_id": "band-protocol",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bandchain/images/band.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bandchain/images/band.svg"
+    }
+  },
+  "uarkh__arkh": {
+    "name": "Arkh",
+    "chain": "arkh",
+    "denom": "uarkh",
+    "symbol": "ARKH",
+    "decimals": 6,
+    "description": "The native token of Arkhadian",
+    "coingecko_id": null,
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://www.arkhadian.com/static/images/600-prism.png"
+    }
+  },
+  "ubze__beezee": {
+    "name": "BeeZee",
+    "chain": "beezee",
+    "denom": "ubze",
+    "symbol": "BZE",
+    "decimals": 6,
+    "description": "BeeZee native blockchain",
+    "coingecko_id": "bzedge",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/beezee/images/bze.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/beezee/images/bze.svg"
+    }
+  },
+  "uebl__8ball": {
+    "name": "8ball",
+    "chain": "8ball",
+    "denom": "uebl",
+    "symbol": "EBL",
+    "decimals": 6,
+    "description": "The native staking token of 8ball.",
+    "coingecko_id": "",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/8ball/images/8ball.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/8ball/images/8ball.svg"
+    }
+  },
+  "ucommercio__commercionetwork": {
+    "name": "Commercio",
+    "chain": "commercionetwork",
+    "denom": "ucommercio",
+    "symbol": "COM",
+    "decimals": 6,
+    "description": "The native token of Commercio.network",
+    "coingecko_id": null,
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/commercionetwork/images/com.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/commercionetwork/images/com.svg"
+    }
+  },
+  "uccc__commercionetwork": {
+    "name": "Commercio Cash Credit",
+    "chain": "commercionetwork",
+    "denom": "uccc",
+    "symbol": "CCC",
+    "decimals": 6,
+    "description": "The cash credit token of Commercio.network",
+    "coingecko_id": null,
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/commercionetwork/images/ccc.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/commercionetwork/images/ccc.svg"
+    }
+  },
+  "umntl__assetmantle": {
+    "name": "AssetMantle",
+    "chain": "assetmantle",
+    "denom": "umntl",
+    "symbol": "MNTL",
+    "decimals": 6,
+    "description": "The native token of Asset Mantle",
+    "coingecko_id": "assetmantle",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/assetmantle/images/mntl.png"
+    }
+  },
   "ubtsg__bitsong": {
     "name": "BitSong",
     "chain": "bitsong",
@@ -195,18 +291,454 @@
       "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ftD4B6290EDEE1EC7B97AB5A1DC6C177EFD08ADCC3.png"
     }
   },
-  "uband__bandchain": {
-    "name": "Band Protocol",
-    "chain": "bandchain",
-    "denom": "uband",
-    "symbol": "BAND",
+  "uaxl__axelar": {
+    "name": "Axelar",
+    "chain": "axelar",
+    "denom": "uaxl",
+    "symbol": "AXL",
     "decimals": 6,
-    "description": "The native token of BandChain",
-    "coingecko_id": "band-protocol",
+    "description": "The native token of Axelar",
+    "coingecko_id": "axelar",
     "bridge_asset": null,
     "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bandchain/images/band.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bandchain/images/band.svg"
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.svg"
+    }
+  },
+  "uusdc__axelar": {
+    "name": "USD Coin",
+    "chain": "axelar",
+    "denom": "uusdc",
+    "symbol": "USDC",
+    "decimals": 6,
+    "description": "Circle's stablecoin on Axelar",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "ethereum",
+      "value": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "token_type": "contract"
+    },
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg",
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.png"
+    }
+  },
+  "frax-wei__axelar": {
+    "name": "Frax",
+    "chain": "axelar",
+    "denom": "frax-wei",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "description": "Frax's fractional-algorithmic stablecoin on Axelar",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "ethereum",
+      "value": "0x853d955acef822db058eb8505911ed77f175b99e",
+      "token_type": "contract"
+    },
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/frax.svg",
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/frax.png"
+    }
+  },
+  "dai-wei__axelar": {
+    "name": "Dai Stablecoin",
+    "chain": "axelar",
+    "denom": "dai-wei",
+    "symbol": "DAI",
+    "decimals": 18,
+    "description": "Dai stablecoin on Axelar",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "ethereum",
+      "value": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "token_type": "contract"
+    },
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/dai.svg",
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/dai.png"
+    }
+  },
+  "uusdt__axelar": {
+    "name": "Tether USD",
+    "chain": "axelar",
+    "denom": "uusdt",
+    "symbol": "USDT",
+    "decimals": 6,
+    "description": "Tether's USD stablecoin on Axelar",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "ethereum",
+      "value": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "token_type": "contract"
+    },
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdt.svg",
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdt.png"
+    }
+  },
+  "weth-wei__axelar": {
+    "name": "Wrapped Ether",
+    "chain": "axelar",
+    "denom": "weth-wei",
+    "symbol": "WETH",
+    "decimals": 18,
+    "description": "Wrapped Ether on Axelar",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "ethereum",
+      "value": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "token_type": "contract"
+    },
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/weth.png"
+    }
+  },
+  "wbtc-satoshi__axelar": {
+    "name": "Wrapped Bitcoin",
+    "chain": "axelar",
+    "denom": "wbtc-satoshi",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "description": "Wrapped Bitcoin on Axelar",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "ethereum",
+      "value": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "token_type": "contract"
+    },
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/wbtc.png"
+    }
+  },
+  "aave-wei__axelar": {
+    "name": "Aave",
+    "chain": "axelar",
+    "denom": "aave-wei",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "description": "Aave on Axelar",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "ethereum",
+      "value": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+      "token_type": "contract"
+    },
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/aave.svg"
+    }
+  },
+  "ape-wei__axelar": {
+    "name": "ApeCoin",
+    "chain": "axelar",
+    "denom": "ape-wei",
+    "symbol": "APE",
+    "decimals": 18,
+    "description": "ApeCoin on Axelar",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "ethereum",
+      "value": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+      "token_type": "contract"
+    },
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/ape.svg"
+    }
+  },
+  "axs-wei__axelar": {
+    "name": "Axie Infinity Shard",
+    "chain": "axelar",
+    "denom": "axs-wei",
+    "symbol": "AXS",
+    "decimals": 18,
+    "description": "Axie Infinity Shard on Axelar",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "ethereum",
+      "value": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+      "token_type": "contract"
+    },
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/axs.svg"
+    }
+  },
+  "link-wei__axelar": {
+    "name": "Chainlink",
+    "chain": "axelar",
+    "denom": "link-wei",
+    "symbol": "LINK",
+    "decimals": 18,
+    "description": "Chainlink on Axelar",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "ethereum",
+      "value": "0x514910771af9ca656af840dff83e8264ecf986ca",
+      "token_type": "contract"
+    },
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/link.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/link.svg"
+    }
+  },
+  "mkr-wei__axelar": {
+    "name": "Maker",
+    "chain": "axelar",
+    "denom": "mkr-wei",
+    "symbol": "MKR",
+    "decimals": 18,
+    "description": "Maker on Axelar",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "ethereum",
+      "value": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+      "token_type": "contract"
+    },
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/mkr.svg"
+    }
+  },
+  "rai-wei__axelar": {
+    "name": "Rai Reflex Index",
+    "chain": "axelar",
+    "denom": "rai-wei",
+    "symbol": "RAI",
+    "decimals": 18,
+    "description": "Rai Reflex Index on Axelar",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "ethereum",
+      "value": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+      "token_type": "contract"
+    },
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/rai.svg"
+    }
+  },
+  "shib-wei__axelar": {
+    "name": "Shiba Inu",
+    "chain": "axelar",
+    "denom": "shib-wei",
+    "symbol": "SHIB",
+    "decimals": 18,
+    "description": "Shiba Inu on Axelar",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "ethereum",
+      "value": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+      "token_type": "contract"
+    },
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/shib.svg"
+    }
+  },
+  "steth-wei__axelar": {
+    "name": "Lido Staked Ether",
+    "chain": "axelar",
+    "denom": "steth-wei",
+    "symbol": "stETH",
+    "decimals": 18,
+    "description": "Lido Staked Ether on Axelar",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "ethereum",
+      "value": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+      "token_type": "contract"
+    },
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/steth.svg"
+    }
+  },
+  "uni-wei__axelar": {
+    "name": "Uniswap",
+    "chain": "axelar",
+    "denom": "uni-wei",
+    "symbol": "UNI",
+    "decimals": 18,
+    "description": "Uniswap on Axelar",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "ethereum",
+      "value": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+      "token_type": "contract"
+    },
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/uni.svg"
+    }
+  },
+  "xcn-wei__axelar": {
+    "name": "Chain",
+    "chain": "axelar",
+    "denom": "xcn-wei",
+    "symbol": "XCN",
+    "decimals": 18,
+    "description": "Chain on Axelar",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "ethereum",
+      "value": "0xa2cd3d43c775978a96bdbf12d733d5a1ed94fb18",
+      "token_type": "contract"
+    },
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/xcn.svg"
+    }
+  },
+  "dot-planck__axelar": {
+    "name": "Wrapped Polkadot",
+    "chain": "axelar",
+    "denom": "dot-planck",
+    "symbol": "DOT",
+    "decimals": 10,
+    "description": "Wrapped Polkadot on Axelar",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "moonbeam",
+      "value": "0xffffffff1fcacbd218edc0eba20fc2308c778080",
+      "token_type": "contract"
+    },
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polkadot/images/dot.svg",
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polkadot/images/dot.png"
+    }
+  },
+  "wglmr-wei__axelar": {
+    "name": "Wrapped Moonbeam",
+    "chain": "axelar",
+    "denom": "wglmr-wei",
+    "symbol": "WGLMR",
+    "decimals": 18,
+    "description": "Wrapped Moonbeam on Axelar",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "moonbeam",
+      "value": "0xacc15dc74880c9944775448304b263d191c6077f",
+      "token_type": "contract"
+    },
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/moonbeam/images/glmr.svg",
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/moonbeam/images/glmr.png"
+    }
+  },
+  "wmatic-wei__axelar": {
+    "name": "Wrapped Matic",
+    "chain": "axelar",
+    "denom": "wmatic-wei",
+    "symbol": "WMATIC",
+    "decimals": 18,
+    "description": "Wrapped Matic on Axelar",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "polygon",
+      "value": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+      "token_type": "contract"
+    },
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polygon/images/wmatic.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polygon/images/wmatic.svg"
+    }
+  },
+  "wbnb-wei__axelar": {
+    "name": "Wrapped BNB",
+    "chain": "axelar",
+    "denom": "wbnb-wei",
+    "symbol": "WBNB",
+    "decimals": 18,
+    "description": "Wrapped BNB on Axelar",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "binancesmartchain",
+      "value": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "token_type": "contract"
+    },
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/binancesmartchain/images/wbnb.svg",
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/binancesmartchain/images/wbnb.png"
+    }
+  },
+  "busd-wei__axelar": {
+    "name": "Binance USD",
+    "chain": "axelar",
+    "denom": "busd-wei",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "description": "Binance USD on Axelar.",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "ethereum",
+      "value": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+      "token_type": "contract"
+    },
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/busd.png"
+    }
+  },
+  "wavax-wei__axelar": {
+    "name": "Wrapped AVAX",
+    "chain": "axelar",
+    "denom": "wavax-wei",
+    "symbol": "WAVAX",
+    "decimals": 18,
+    "description": "Wrapped AVAX on Axelar.",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "avalanche",
+      "value": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+      "token_type": "contract"
+    },
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/avalanche/images/wavax.svg"
+    }
+  },
+  "wftm-wei__axelar": {
+    "name": "Wrapped FTM",
+    "chain": "axelar",
+    "denom": "wftm-wei",
+    "symbol": "WFTM",
+    "decimals": 18,
+    "description": "Wrapped FTM on Axelar.",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "fantom",
+      "value": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+      "token_type": "contract"
+    },
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/fantom/images/ftm.png"
+    }
+  },
+  "polygon-uusdc__axelar": {
+    "name": "USD Coin from Polygon",
+    "chain": "axelar",
+    "denom": "polygon-uusdc",
+    "symbol": "USDC",
+    "decimals": 6,
+    "description": "Circle's stablecoin from Polygon on Axelar",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "polygon",
+      "value": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "token_type": "contract"
+    },
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg",
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.png"
+    }
+  },
+  "avalanche-uusdc__axelar": {
+    "name": "USD Coin from Avalanche",
+    "chain": "axelar",
+    "denom": "avalanche-uusdc",
+    "symbol": "USDC",
+    "decimals": 6,
+    "description": "Circle's stablecoin from Avalanche on Axelar",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "avalanche",
+      "value": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+      "token_type": "contract"
+    },
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg",
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.png"
     }
   },
   "attoaioz__aioz": {
@@ -221,33 +753,6 @@
     "logos": {
       "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/aioz/images/aioz.svg",
       "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/aioz/images/aioz.png"
-    }
-  },
-  "acanto__canto": {
-    "name": "Canto",
-    "chain": "canto",
-    "denom": "acanto",
-    "symbol": "CANTO",
-    "decimals": 18,
-    "description": "Canto is a Layer-1 blockchain built to deliver on the promise of DeFi",
-    "coingecko_id": "canto",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/canto/images/canto.png"
-    }
-  },
-  "uakt__akash": {
-    "name": "Akash Network",
-    "chain": "akash",
-    "denom": "uakt",
-    "symbol": "AKT",
-    "decimals": 6,
-    "description": "Akash Token (AKT) is the Akash Network's native utility token, used as the primary means to govern, secure the blockchain, incentivize participants, and provide a default mechanism to store and exchange value.",
-    "coingecko_id": "akash-network",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.svg"
     }
   },
   "aacre__acrechain": {
@@ -290,44 +795,18 @@
       "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/acrechain/images/cnto.png"
     }
   },
-  "ubnt__bluzelle": {
-    "name": "Bluzelle",
-    "chain": "bluzelle",
-    "denom": "ubnt",
-    "symbol": "BLZ",
+  "uhuahua__chihuahua": {
+    "name": "Chihuahua",
+    "chain": "chihuahua",
+    "denom": "uhuahua",
+    "symbol": "HUAHUA",
     "decimals": 6,
-    "description": "The native token of Bluzelle",
-    "coingecko_id": "bluzelle",
+    "description": "The native token of Chihuahua Chain",
+    "coingecko_id": "chihuahua-token",
     "bridge_asset": null,
     "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bluzelle/images/bluzelle.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bluzelle/images/bluzelle.svg"
-    }
-  },
-  "uelt__bluzelle": {
-    "name": "ELT",
-    "chain": "bluzelle",
-    "denom": "uelt",
-    "symbol": "ELT",
-    "decimals": 6,
-    "description": "The ELT token of Bluzelle's Gamma 4 Gaming Ecosystem",
-    "coingecko_id": "",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bluzelle/images/elt.png"
-    }
-  },
-  "ug4__bluzelle": {
-    "name": "G4",
-    "chain": "bluzelle",
-    "denom": "ug4",
-    "symbol": "G4",
-    "decimals": 6,
-    "description": "The game token of Bluzelle's Gamma 4 Gaming Ecosystem",
-    "coingecko_id": "",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bluzelle/images/g4.png"
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.svg"
     }
   },
   "ubcna__bitcanna": {
@@ -342,6 +821,34 @@
     "logos": {
       "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitcanna/images/bcna.png",
       "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitcanna/images/bcna.svg"
+    }
+  },
+  "ncheq__cheqd": {
+    "name": "cheqd",
+    "chain": "cheqd",
+    "denom": "ncheq",
+    "symbol": "CHEQ",
+    "decimals": 9,
+    "description": "Native token for the cheqd network",
+    "coingecko_id": "cheqd-network",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cheqd/images/cheq.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cheqd/images/cheq.svg"
+    }
+  },
+  "ucmba__chimba": {
+    "name": "Chimba",
+    "chain": "chimba",
+    "denom": "ucmba",
+    "symbol": "CMBA",
+    "decimals": 6,
+    "description": "The first blokchain in colombia",
+    "coingecko_id": "chimba-token",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chimba/images/chimba-blue.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chimba/images/chimba-blue.svg"
     }
   },
   "ucht__chronicnetwork": {
@@ -370,6 +877,138 @@
       "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chronicnetwork/images/cgas.png"
     }
   },
+  "aRYT__ethos": {
+    "name": "RYT",
+    "chain": "ethos",
+    "denom": "aRYT",
+    "symbol": "RYT",
+    "decimals": 18,
+    "description": "The native token of Ethos",
+    "coingecko_id": null,
+    "bridge_asset": null,
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/ethos/images/ethos.svg",
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/ethos/images/ethos.png"
+    }
+  },
+  "basecro__cryptoorgchain": {
+    "name": "Cronos",
+    "chain": "cryptoorgchain",
+    "denom": "basecro",
+    "symbol": "CRO",
+    "decimals": 8,
+    "description": "CRO coin is the token for the Crypto.com platform.",
+    "coingecko_id": "crypto-com-chain",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cronos/images/cronos.png"
+    }
+  },
+  "uatom__cosmoshub": {
+    "name": "Cosmos Hub Atom",
+    "chain": "cosmoshub",
+    "denom": "uatom",
+    "symbol": "ATOM",
+    "decimals": 6,
+    "description": "The native staking and governance token of the Cosmos Hub.",
+    "coingecko_id": "cosmos",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg"
+    }
+  },
+  "boot__bostrom": {
+    "name": "Bostrom",
+    "chain": "bostrom",
+    "denom": "boot",
+    "symbol": "BOOT",
+    "decimals": 0,
+    "description": "The staking token of Bostrom",
+    "coingecko_id": "bostrom",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bostrom/images/boot.png"
+    }
+  },
+  "ungm__emoney": {
+    "name": "e-Money",
+    "chain": "emoney",
+    "denom": "ungm",
+    "symbol": "NGM",
+    "decimals": 6,
+    "description": "e-Money NGM staking token. In addition to earning staking rewards the token is bought back and burned based on e-Money stablecoin inflation.",
+    "coingecko_id": "e-money",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/ngm.png"
+    }
+  },
+  "eeur__emoney": {
+    "name": "e-Money EUR",
+    "chain": "emoney",
+    "denom": "eeur",
+    "symbol": "EEUR",
+    "decimals": 6,
+    "description": "e-Money EUR stablecoin. Audited and backed by fiat EUR deposits and government bonds.",
+    "coingecko_id": "e-money-eur",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/eeur.png"
+    }
+  },
+  "echf__emoney": {
+    "name": "e-Money CHF",
+    "chain": "emoney",
+    "denom": "echf",
+    "symbol": "ECHF",
+    "decimals": 6,
+    "description": "e-Money CHF stablecoin. Audited and backed by fiat CHF deposits and government bonds.",
+    "coingecko_id": "",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/echf.png"
+    }
+  },
+  "enok__emoney": {
+    "name": "e-Money NOK",
+    "chain": "emoney",
+    "denom": "enok",
+    "symbol": "ENOK",
+    "decimals": 6,
+    "description": "e-Money NOK stablecoin. Audited and backed by fiat NOK deposits and government bonds.",
+    "coingecko_id": "",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/enok.png"
+    }
+  },
+  "edkk__emoney": {
+    "name": "e-Money DKK",
+    "chain": "emoney",
+    "denom": "edkk",
+    "symbol": "EDKK",
+    "decimals": 6,
+    "description": "e-Money DKK stablecoin. Audited and backed by fiat DKK deposits and government bonds.",
+    "coingecko_id": "",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/edkk.png"
+    }
+  },
+  "esek__emoney": {
+    "name": "e-Money SEK",
+    "chain": "emoney",
+    "denom": "esek",
+    "symbol": "ESEK",
+    "decimals": 6,
+    "description": "e-Money SEK stablecoin. Audited and backed by fiat SEK deposits and government bonds.",
+    "coingecko_id": "",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/esek.png"
+    }
+  },
   "udig__dig": {
     "name": "Dig Chain",
     "chain": "dig",
@@ -383,43 +1022,30 @@
       "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dig/images/dig.png"
     }
   },
-  "ubld__agoric": {
-    "name": "Agoric",
-    "chain": "agoric",
-    "denom": "ubld",
-    "symbol": "BLD",
+  "ukuji__kujira": {
+    "name": "Kuji",
+    "chain": "kujira",
+    "denom": "ukuji",
+    "symbol": "KUJI",
     "decimals": 6,
-    "description": "BLD is the token used to secure the Agoric chain through staking and to backstop Inter Protocol.",
-    "coingecko_id": "agoric",
+    "description": "The native staking and governance token of the Kujira chain.",
+    "coingecko_id": "kujira",
     "bridge_asset": null,
     "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/bld.png"
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/kuji.png"
     }
   },
-  "uist__agoric": {
-    "name": "Inter Stable Token",
-    "chain": "agoric",
-    "denom": "uist",
-    "symbol": "IST",
+  "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk__kujira": {
+    "name": "USK",
+    "chain": "kujira",
+    "denom": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+    "symbol": "USK",
     "decimals": 6,
-    "description": "IST is the stable token used by the Agoric chain for execution fees and commerce.",
-    "coingecko_id": null,
+    "description": "The native over-collateralized stablecoin from the Kujira chain.",
+    "coingecko_id": "usk",
     "bridge_asset": null,
     "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/ist.png"
-    }
-  },
-  "ulumen__lumenx": {
-    "name": "LUMEN",
-    "chain": "lumenx",
-    "denom": "ulumen",
-    "symbol": "LUMEN",
-    "decimals": 6,
-    "description": "The native token of Lumen Network",
-    "coingecko_id": null,
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/lumenx/images/lumen.png"
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/usk.png"
     }
   },
   "aechelon__echelon": {
@@ -436,46 +1062,471 @@
       "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/echelon/images/logo.png"
     }
   },
-  "ucommercio__commercionetwork": {
-    "name": "Commercio",
-    "chain": "commercionetwork",
-    "denom": "ucommercio",
-    "symbol": "COM",
+  "ulamb__lambda": {
+    "name": "Lambda",
+    "chain": "lambda",
+    "denom": "ulamb",
+    "symbol": "LAMB",
+    "decimals": 18,
+    "description": "The native token of Lambda",
+    "coingecko_id": "lambda",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/lambda/images/lambda.png"
+    }
+  },
+  "uglx__galaxy": {
+    "name": "Galaxy",
+    "chain": "galaxy",
+    "denom": "uglx",
+    "symbol": "GLX",
     "decimals": 6,
-    "description": "The native token of Commercio.network",
+    "description": "GLX is the staking token of the Galaxy Chain",
     "coingecko_id": null,
     "bridge_asset": null,
     "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/commercionetwork/images/com.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/commercionetwork/images/com.svg"
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/galaxy/images/glx.svg",
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/galaxy/images/glx.png"
     }
   },
-  "uccc__commercionetwork": {
-    "name": "Commercio Cash Credit",
-    "chain": "commercionetwork",
-    "denom": "uccc",
-    "symbol": "CCC",
+  "dys__dyson": {
+    "name": "Dys",
+    "chain": "dyson",
+    "denom": "dys",
+    "symbol": "DYS",
+    "decimals": 0,
+    "description": "The native staking and governance token of the Dyson Protocol",
+    "coingecko_id": "",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dyson/images/dys.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dyson/images/dys.svg"
+    }
+  },
+  "ukava__kava": {
+    "name": "Kava",
+    "chain": "kava",
+    "denom": "ukava",
+    "symbol": "KAVA",
     "decimals": 6,
-    "description": "The cash credit token of Commercio.network",
+    "description": "The native staking and governance token of Kava",
+    "coingecko_id": "kava",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kava/images/kava.png"
+    }
+  },
+  "hard__kava": {
+    "name": "Hard",
+    "chain": "kava",
+    "denom": "hard",
+    "symbol": "HARD",
+    "decimals": 6,
+    "description": "Governance token of Kava Lend Protocol",
+    "coingecko_id": "kava-lend",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kava/images/hard.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kava/images/hard.svg"
+    }
+  },
+  "swp__kava": {
+    "name": "Swap",
+    "chain": "kava",
+    "denom": "swp",
+    "symbol": "SWP",
+    "decimals": 6,
+    "description": "Governance token of Kava Swap Protocol",
+    "coingecko_id": "kava-swap",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kava/images/swp.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kava/images/swp.svg"
+    }
+  },
+  "usdx__kava": {
+    "name": "USDX",
+    "chain": "kava",
+    "denom": "usdx",
+    "symbol": "USDX",
+    "decimals": 6,
+    "description": "The native stablecoin of Kava",
+    "coingecko_id": "usdx",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kava/images/usdx.png"
+    }
+  },
+  "ujkl__jackal": {
+    "name": "Jackal",
+    "chain": "jackal",
+    "denom": "ujkl",
+    "symbol": "JKL",
+    "decimals": 6,
+    "description": "The native staking and governance token of Jackal.",
+    "coingecko_id": "jackal-protocol",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/jackal/images/jkl.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/jackal/images/jkl.svg"
+    }
+  },
+  "nanolike__likecoin": {
+    "name": "LikeCoin",
+    "chain": "likecoin",
+    "denom": "nanolike",
+    "symbol": "LIKE",
+    "decimals": 9,
+    "description": "LIKE is the native staking and governance token of LikeCoin chain, a Decentralized Publishing Infrastructure to empower content ownership, authenticity, and provenance.",
+    "coingecko_id": "likecoin",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/likecoin/images/like.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/likecoin/images/like.svg"
+    }
+  },
+  "utick__microtick": {
+    "name": "Microtick",
+    "chain": "microtick",
+    "denom": "utick",
+    "symbol": "TICK",
+    "decimals": 6,
+    "description": "TICK coin is the token for the Microtick Price Discovery & Oracle App",
     "coingecko_id": null,
     "bridge_asset": null,
     "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/commercionetwork/images/ccc.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/commercionetwork/images/ccc.svg"
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/microtick/images/tick.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/microtick/images/tick.svg"
     }
   },
-  "ucmba__chimba": {
-    "name": "Chimba",
-    "chain": "chimba",
-    "denom": "ucmba",
-    "symbol": "CMBA",
+  "loki__odin": {
+    "name": "ODIN",
+    "chain": "odin",
+    "denom": "loki",
+    "symbol": "ODIN",
     "decimals": 6,
-    "description": "The first blokchain in colombia",
-    "coingecko_id": "chimba-token",
+    "description": "Staking and goverance token for ODIN Protocol",
+    "coingecko_id": "odin-protocol",
     "bridge_asset": null,
     "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chimba/images/chimba-blue.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chimba/images/chimba-blue.svg"
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/odin/images/odin.svg",
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/odin/images/odin.png"
+    }
+  },
+  "mGeo__odin": {
+    "name": "GEO",
+    "chain": "odin",
+    "denom": "mGeo",
+    "symbol": "GEO",
+    "decimals": 6,
+    "description": "GEO token for ODIN Protocol",
+    "coingecko_id": null,
+    "bridge_asset": null,
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/odin/images/geo.svg",
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/odin/images/geo.png"
+    }
+  },
+  "mO9W__odin": {
+    "name": "O9W",
+    "chain": "odin",
+    "denom": "mO9W",
+    "symbol": "O9W",
+    "decimals": 6,
+    "description": "O9W token for ODIN Protocol",
+    "coingecko_id": null,
+    "bridge_asset": null,
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/odin/images/o9w.svg",
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/odin/images/o9w.png"
+    }
+  },
+  "udarc__konstellation": {
+    "name": "DARC",
+    "chain": "konstellation",
+    "denom": "udarc",
+    "symbol": "DARC",
+    "decimals": 6,
+    "description": "The native token of Konstellation Network",
+    "coingecko_id": "darcmatter-coin",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/konstellation/images/darc.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/konstellation/images/darc.svg"
+    }
+  },
+  "uwhale__migaloo": {
+    "name": "Whale",
+    "chain": "migaloo",
+    "denom": "uwhale",
+    "symbol": "WHALE",
+    "decimals": 6,
+    "description": "The native token of Migaloo Chain",
+    "coingecko_id": "",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/whitewhale.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/whitewhale.svg"
+    }
+  },
+  "ulum__lumnetwork": {
+    "name": "Lum",
+    "chain": "lumnetwork",
+    "denom": "ulum",
+    "symbol": "LUM",
+    "decimals": 6,
+    "description": "Native token of the Lum Network",
+    "coingecko_id": "lum-network",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/lumnetwork/images/lum.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/lumnetwork/images/lum.svg"
+    }
+  },
+  "anom__onomy": {
+    "name": "Nom",
+    "chain": "onomy",
+    "denom": "anom",
+    "symbol": "NOM",
+    "decimals": 18,
+    "description": "The native token of Onomy Protocol",
+    "coingecko_id": null,
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/onomy/images/nom.png"
+    }
+  },
+  "orai__oraichain": {
+    "name": "Oraichain",
+    "chain": "oraichain",
+    "denom": "orai",
+    "symbol": "ORAI",
+    "decimals": 6,
+    "description": "The native token of Oraichain",
+    "coingecko_id": "oraichain-token",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/oraichain/images/orai-white.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/oraichain/images/orai-white.svg"
+    }
+  },
+  "uosmo__osmosis": {
+    "name": "Osmosis",
+    "chain": "osmosis",
+    "denom": "uosmo",
+    "symbol": "OSMO",
+    "decimals": 6,
+    "description": "The native token of Osmosis",
+    "coingecko_id": "osmosis",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg"
+    }
+  },
+  "uion__osmosis": {
+    "name": "Ion",
+    "chain": "osmosis",
+    "denom": "uion",
+    "symbol": "ION",
+    "decimals": 6,
+    "description": "",
+    "coingecko_id": "ion",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/ion.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/ion.svg"
+    }
+  },
+  "nhash__provenance": {
+    "name": "Hash",
+    "chain": "provenance",
+    "denom": "nhash",
+    "symbol": "HASH",
+    "decimals": 9,
+    "description": "Hash is the staking token of the Provenance Blockchain",
+    "coingecko_id": "provenance-blockchain",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/provenance/images/hash.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/provenance/images/hash.svg"
+    }
+  },
+  "upasg__passage": {
+    "name": "Passage",
+    "chain": "passage",
+    "denom": "upasg",
+    "symbol": "PASG",
+    "decimals": 6,
+    "description": "The native staking and governance token of the Passage chain.",
+    "coingecko_id": null,
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/passage/images/pasg.png"
+    }
+  },
+  "uxprt__persistence": {
+    "name": "Persistence",
+    "chain": "persistence",
+    "denom": "uxprt",
+    "symbol": "XPRT",
+    "decimals": 6,
+    "description": "The XPRT token is primarily a governance token for the Persistence chain.",
+    "coingecko_id": "persistence",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.svg"
+    }
+  },
+  "stk/uatom__persistence": {
+    "name": "PSTAKE staked ATOM",
+    "chain": "persistence",
+    "denom": "stk/uatom",
+    "symbol": "stkATOM",
+    "decimals": 6,
+    "description": "PSTAKE Liquid-Staked ATOM",
+    "coingecko_id": "stkatom",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/stkatom.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/stkatom.svg"
+    }
+  },
+  "wei__okexchain": {
+    "name": "OKExChain",
+    "chain": "okexchain",
+    "denom": "wei",
+    "symbol": "OKT",
+    "decimals": 18,
+    "description": "The native token of OKExChain",
+    "coingecko_id": "oec-token",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/okexchain/images/okc.png"
+    }
+  },
+  "apoint__point": {
+    "name": "Point",
+    "chain": "point",
+    "denom": "apoint",
+    "symbol": "POINT",
+    "decimals": 18,
+    "description": "The native governance and staking token of the Point network",
+    "coingecko_id": "point-network",
+    "bridge_asset": null,
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/point/images/point-logo.svg",
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/point/images/point-logo.png"
+    }
+  },
+  "umeme__meme": {
+    "name": "MEME",
+    "chain": "meme",
+    "denom": "umeme",
+    "symbol": "MEME",
+    "decimals": 6,
+    "description": "MEME Token (MEME) is the native staking token of the MEME Chain",
+    "coingecko_id": "meme-network",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/meme/images/meme.png"
+    }
+  },
+  "uscrt__secretnetwork": {
+    "name": "Secret Network",
+    "chain": "secretnetwork",
+    "denom": "uscrt",
+    "symbol": "SCRT",
+    "decimals": 6,
+    "description": "The native token of Secret Network",
+    "coingecko_id": "secret",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.svg"
+    }
+  },
+  "acudos__cudos": {
+    "name": "Cudos",
+    "chain": "cudos",
+    "denom": "acudos",
+    "symbol": "CUDOS",
+    "decimals": 18,
+    "description": "The native token of the Cudos blockchain",
+    "coingecko_id": "cudos",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cudos/images/cudos.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cudos/images/cudos.svg"
+    }
+  },
+  "uakt__akash": {
+    "name": "Akash Network",
+    "chain": "akash",
+    "denom": "uakt",
+    "symbol": "AKT",
+    "decimals": 6,
+    "description": "Akash Token (AKT) is the Akash Network's native utility token, used as the primary means to govern, secure the blockchain, incentivize participants, and provide a default mechanism to store and exchange value.",
+    "coingecko_id": "akash-network",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.svg"
+    }
+  },
+  "uiov__starname": {
+    "name": "Starname",
+    "chain": "starname",
+    "denom": "uiov",
+    "symbol": "IOV",
+    "decimals": 6,
+    "description": "IOV coin is the token for the Starname (IOV) Asset Name Service",
+    "coingecko_id": "starname",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/starname/images/iov.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/starname/images/iov.svg"
+    }
+  },
+  "nund__unification": {
+    "name": "Unification Network",
+    "chain": "unification",
+    "denom": "nund",
+    "symbol": "FUND",
+    "decimals": 9,
+    "description": "Staking and governance coin for the Unification Blockchain",
+    "coingecko_id": "unification",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/unification/images/fund.png"
+    }
+  },
+  "usomm__sommelier": {
+    "name": "Somm",
+    "chain": "sommelier",
+    "denom": "usomm",
+    "symbol": "SOMM",
+    "decimals": 6,
+    "description": "Somm Token (SOMM) is the native staking token of the Sommelier Chain",
+    "coingecko_id": "sommelier",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sommelier/images/somm.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sommelier/images/somm.svg"
+    }
+  },
+  "uumee__umee": {
+    "name": "Umee",
+    "chain": "umee",
+    "denom": "uumee",
+    "symbol": "UMEE",
+    "decimals": 6,
+    "description": "The native token of Umee",
+    "coingecko_id": "umee",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/umee/images/umee.png"
     }
   },
   "ufct__firmachain": {
@@ -492,18 +1543,346 @@
       "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/firmachain/images/fct.svg"
     }
   },
-  "uhuahua__chihuahua": {
-    "name": "Chihuahua",
-    "chain": "chihuahua",
-    "denom": "uhuahua",
-    "symbol": "HUAHUA",
+  "uvdl__vidulum": {
+    "name": "Vidulum",
+    "chain": "vidulum",
+    "denom": "uvdl",
+    "symbol": "VDL",
     "decimals": 6,
-    "description": "The native token of Chihuahua Chain",
-    "coingecko_id": "chihuahua-token",
+    "description": "The native token of Vidulum",
+    "coingecko_id": "vidulum",
     "bridge_asset": null,
     "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.svg"
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/vidulum/images/vdl.svg",
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/vidulum/images/vdl.png"
+    }
+  },
+  "acanto__canto": {
+    "name": "Canto",
+    "chain": "canto",
+    "denom": "acanto",
+    "symbol": "CANTO",
+    "decimals": 18,
+    "description": "Canto is a Layer-1 blockchain built to deliver on the promise of DeFi",
+    "coingecko_id": "canto",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/canto/images/canto.png"
+    }
+  },
+  "rowan__sifchain": {
+    "name": "Sifchain Rowan",
+    "chain": "sifchain",
+    "denom": "rowan",
+    "symbol": "ROWAN",
+    "decimals": 18,
+    "description": "Rowan Token (ROWAN) is the Sifchain Network's native utility token, used as the primary means to govern, provide liquidity, secure the blockchain, incentivize participants, and provide a default mechanism to store and exchange value.",
+    "coingecko_id": "sifchain",
+    "bridge_asset": null,
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sifchain/images/rowan.svg",
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sifchain/images/rowan.png"
+    }
+  },
+  "udec__decentr": {
+    "name": "Decentr",
+    "chain": "decentr",
+    "denom": "udec",
+    "symbol": "DEC",
+    "decimals": 6,
+    "description": "The native token of Decentr",
+    "coingecko_id": "decentr",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/decentr/images/dec.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/decentr/images/dec.svg"
+    }
+  },
+  "ucrbrus__cerberus": {
+    "name": "Cerberus",
+    "chain": "cerberus",
+    "denom": "ucrbrus",
+    "symbol": "CRBRUS",
+    "decimals": 6,
+    "description": "The native token of Cerberus Chain",
+    "coingecko_id": "cerberus-2",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cerberus/images/crbrus.png"
+    }
+  },
+  "uc4e__chain4energy": {
+    "name": "Chain4Energy",
+    "chain": "chain4energy",
+    "denom": "uc4e",
+    "symbol": "C4E",
+    "decimals": 6,
+    "description": "The native token of Chain4Energy",
+    "coingecko_id": "",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chain4energy/images/c4e.png"
+    }
+  },
+  "aimv__imversed": {
+    "name": "IMV",
+    "chain": "imversed",
+    "denom": "aimv",
+    "symbol": "IMV",
+    "decimals": 18,
+    "description": "The native EVM, governance and staking token of the Imversed",
+    "coingecko_id": "imv",
+    "bridge_asset": null,
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/imversed/images/imversed.svg",
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/imversed/images/imversed.png"
+    }
+  },
+  "swth__carbon": {
+    "name": "Carbon",
+    "chain": "carbon",
+    "denom": "swth",
+    "symbol": "SWTH",
+    "decimals": 8,
+    "description": "The native governance token of Carbon",
+    "coingecko_id": "switcheo",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/swth.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/swth.svg"
+    }
+  },
+  "usc__carbon": {
+    "name": "Carbon USD Coin",
+    "chain": "carbon",
+    "denom": "usc",
+    "symbol": "USC",
+    "decimals": 8,
+    "description": "The native stablecoin of Carbon",
+    "coingecko_id": "carbon-usd",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/usc.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/usc.svg"
+    }
+  },
+  "bnb.1.6.773edb__carbon": {
+    "name": "Binance Coin",
+    "chain": "carbon",
+    "denom": "bnb.1.6.773edb",
+    "symbol": "BNB",
+    "decimals": 18,
+    "description": "BNB token on Carbon",
+    "coingecko_id": null,
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/binancesmartchain/images/bnb.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/binancesmartchain/images/bnb.svg"
+    }
+  },
+  "bneo.1.14.e2e5f6__carbon": {
+    "name": "BurgerNEO",
+    "chain": "carbon",
+    "denom": "bneo.1.14.e2e5f6",
+    "symbol": "bNEO",
+    "decimals": 8,
+    "description": "bNEO token on Carbon",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "neo",
+      "value": "0x48c40d4666f93408be1bef038b6722404d9a4c2a",
+      "token_type": "contract"
+    },
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/bneo.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/bneo.svg"
+    }
+  },
+  "busd.1.6.754a80__carbon": {
+    "name": "BUSD (BEP-20)",
+    "chain": "carbon",
+    "denom": "busd.1.6.754a80",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "description": "BUSD (BEP-20) token on Carbon",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "binancesmartchain",
+      "value": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "token_type": "contract"
+    },
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/busd.png"
+    }
+  },
+  "eth.1.2.942d87__carbon": {
+    "name": "Ethereum (ERC20)",
+    "chain": "carbon",
+    "denom": "eth.1.2.942d87",
+    "symbol": "ETH",
+    "decimals": 18,
+    "description": "ETH (ERC20) token on Carbon",
+    "coingecko_id": null,
+    "bridge_asset": null,
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/eth.svg"
+    }
+  },
+  "usdc.1.2.343151__carbon": {
+    "name": "Circle USD",
+    "chain": "carbon",
+    "denom": "usdc.1.2.343151",
+    "symbol": "USDC",
+    "decimals": 6,
+    "description": "USDC (ERC20) token on Carbon",
+    "coingecko_id": null,
+    "bridge_asset": {
+      "chain": "ethereum",
+      "value": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "token_type": "contract"
+    },
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.svg"
+    }
+  },
+  "ucmdx__comdex": {
+    "name": "Comdex",
+    "chain": "comdex",
+    "denom": "ucmdx",
+    "symbol": "CMDX",
+    "decimals": 6,
+    "description": "Native Token of Comdex Protocol",
+    "coingecko_id": "comdex",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/cmdx.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/cmdx.svg"
+    }
+  },
+  "uharbor__comdex": {
+    "name": "Harbor",
+    "chain": "comdex",
+    "denom": "uharbor",
+    "symbol": "HARBOR",
+    "decimals": 6,
+    "description": "Governance Token of Harbor protocol on Comdex network",
+    "coingecko_id": "",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/harbor.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/harbor.svg"
+    }
+  },
+  "ucmst__comdex": {
+    "name": "CMST",
+    "chain": "comdex",
+    "denom": "ucmst",
+    "symbol": "CMST",
+    "decimals": 6,
+    "description": "Stable Token of Harbor protocol on Comdex network",
+    "coingecko_id": "composite",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/cmst.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/cmst.svg"
+    }
+  },
+  "ucre__crescent": {
+    "name": "Crescent",
+    "chain": "crescent",
+    "denom": "ucre",
+    "symbol": "CRE",
+    "decimals": 6,
+    "description": "The native token of Crescent",
+    "coingecko_id": "crescent-network",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/crescent/images/cre.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/crescent/images/cre.svg"
+    }
+  },
+  "ubcre__crescent": {
+    "name": "Bonded Crescent",
+    "chain": "crescent",
+    "denom": "ubcre",
+    "symbol": "bCRE",
+    "decimals": 6,
+    "description": "The bonded token of Crescent",
+    "coingecko_id": null,
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/crescent/images/bcre.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/crescent/images/bcre.svg"
+    }
+  },
+  "udsm__desmos": {
+    "name": "Desmos",
+    "chain": "desmos",
+    "denom": "udsm",
+    "symbol": "DSM",
+    "decimals": 6,
+    "description": "The native token of Desmos",
+    "coingecko_id": "desmos",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/desmos/images/dsm.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/desmos/images/dsm.svg"
+    }
+  },
+  "aevmos__evmos": {
+    "name": "Evmos",
+    "chain": "evmos",
+    "denom": "aevmos",
+    "symbol": "EVMOS",
+    "decimals": 18,
+    "description": "The native EVM, governance and staking token of the Evmos Hub",
+    "coingecko_id": "evmos",
+    "bridge_asset": null,
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/evmos/images/evmos.svg",
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/evmos/images/evmos.png"
+    }
+  },
+  "el1__genesisl1": {
+    "name": "GenesisL1",
+    "chain": "genesisl1",
+    "denom": "el1",
+    "symbol": "L1",
+    "decimals": 18,
+    "description": "L1 coin is the GenesisL1 blockchain utility, governance and EVM token",
+    "coingecko_id": null,
+    "bridge_asset": null,
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/genesisl1/images/l1.svg",
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/genesisl1/images/l1.png"
+    }
+  },
+  "afet__fetchhub": {
+    "name": "fetch-ai",
+    "chain": "fetchhub",
+    "denom": "afet",
+    "symbol": "FET",
+    "decimals": 18,
+    "description": "The native staking and governance token of the Fetch Hub.",
+    "coingecko_id": "fetch-ai",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/fetchhub/images/fet.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/fetchhub/images/fet.svg"
+    }
+  },
+  "nanomobx__fetchhub": {
+    "name": "MOBIX",
+    "chain": "fetchhub",
+    "denom": "nanomobx",
+    "symbol": "MOBX",
+    "decimals": 9,
+    "description": "The MOBX coin rewards the use of eco-friendly micromobility transportation.",
+    "coingecko_id": null,
+    "bridge_asset": null,
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/fetchhub/images/mobx.svg",
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/fetchhub/images/mobx.png"
     }
   },
   "ugraviton__gravitybridge": {
@@ -527,7 +1906,7 @@
     "symbol": "PSTAKE",
     "decimals": 18,
     "description": "pSTAKE is a liquid staking protocol unlocking the liquidity of staked assets.",
-    "coingecko_id": "pstake-finance",
+    "coingecko_id": null,
     "bridge_asset": {
       "chain": "ethereum",
       "value": "0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006",
@@ -624,1233 +2003,18 @@
       "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/dai.svg"
     }
   },
-  "uc4e__chain4energy": {
-    "name": "Chain4Energy",
-    "chain": "chain4energy",
-    "denom": "uc4e",
-    "symbol": "C4E",
-    "decimals": 6,
-    "description": "The native token of Chain4Energy",
-    "coingecko_id": "",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chain4energy/images/c4e.png"
-    }
-  },
-  "uglx__galaxy": {
-    "name": "Galaxy",
-    "chain": "galaxy",
-    "denom": "uglx",
-    "symbol": "GLX",
-    "decimals": 6,
-    "description": "GLX is the staking token of the Galaxy Chain",
-    "coingecko_id": null,
-    "bridge_asset": null,
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/galaxy/images/glx.svg",
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/galaxy/images/glx.png"
-    }
-  },
-  "wei__okexchain": {
-    "name": "OKExChain",
-    "chain": "okexchain",
-    "denom": "wei",
-    "symbol": "OKT",
+  "inj__injective": {
+    "name": "Injective",
+    "chain": "injective",
+    "denom": "inj",
+    "symbol": "INJ",
     "decimals": 18,
-    "description": "The native token of OKExChain",
-    "coingecko_id": "oec-token",
+    "description": "The INJ token is the native governance token for the Injective chain.",
+    "coingecko_id": "injective-protocol",
     "bridge_asset": null,
     "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/okexchain/images/okc.png"
-    }
-  },
-  "ujkl__jackal": {
-    "name": "Jackal",
-    "chain": "jackal",
-    "denom": "ujkl",
-    "symbol": "JKL",
-    "decimals": 6,
-    "description": "The native staking and governance token of Jackal.",
-    "coingecko_id": "jackal-protocol",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/jackal/images/jkl.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/jackal/images/jkl.svg"
-    }
-  },
-  "ucrbrus__cerberus": {
-    "name": "Cerberus",
-    "chain": "cerberus",
-    "denom": "ucrbrus",
-    "symbol": "CRBRUS",
-    "decimals": 6,
-    "description": "The native token of Cerberus Chain",
-    "coingecko_id": "cerberus-2",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cerberus/images/crbrus.png"
-    }
-  },
-  "udsm__desmos": {
-    "name": "Desmos",
-    "chain": "desmos",
-    "denom": "udsm",
-    "symbol": "DSM",
-    "decimals": 6,
-    "description": "The native token of Desmos",
-    "coingecko_id": "desmos",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/desmos/images/dsm.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/desmos/images/dsm.svg"
-    }
-  },
-  "uatom__cosmoshub": {
-    "name": "Cosmos Hub Atom",
-    "chain": "cosmoshub",
-    "denom": "uatom",
-    "symbol": "ATOM",
-    "decimals": 6,
-    "description": "The native staking and governance token of the Cosmos Hub.",
-    "coingecko_id": "cosmos",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg"
-    }
-  },
-  "umntl__assetmantle": {
-    "name": "AssetMantle",
-    "chain": "assetmantle",
-    "denom": "umntl",
-    "symbol": "MNTL",
-    "decimals": 6,
-    "description": "The native token of Asset Mantle",
-    "coingecko_id": "assetmantle",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/assetmantle/images/mntl.png"
-    }
-  },
-  "el1__genesisl1": {
-    "name": "GenesisL1",
-    "chain": "genesisl1",
-    "denom": "el1",
-    "symbol": "L1",
-    "decimals": 18,
-    "description": "L1 coin is the GenesisL1 blockchain utility, governance and EVM token",
-    "coingecko_id": null,
-    "bridge_asset": null,
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/genesisl1/images/l1.svg",
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/genesisl1/images/l1.png"
-    }
-  },
-  "arebus__rebus": {
-    "name": "Rebus",
-    "chain": "rebus",
-    "denom": "arebus",
-    "symbol": "REBUS",
-    "decimals": 18,
-    "description": "REBUS, the native coin of the Rebus chain.",
-    "coingecko_id": "rebus",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/rebus/images/rebus.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/rebus/images/rebus.svg"
-    }
-  },
-  "aLYT__logos": {
-    "name": "LYT",
-    "chain": "logos",
-    "denom": "aLYT",
-    "symbol": "LYT",
-    "decimals": 18,
-    "description": "The native token of Logos",
-    "coingecko_id": null,
-    "bridge_asset": null,
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/logos/images/logos.svg",
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/logos/images/logos.png"
-    }
-  },
-  "umars__mars": {
-    "name": "Mars",
-    "chain": "mars",
-    "denom": "umars",
-    "symbol": "MARS",
-    "decimals": 6,
-    "description": "Mars protocol token",
-    "coingecko_id": "mars-protocol",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mars/images/mars-token.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mars/images/mars-token.svg"
-    }
-  },
-  "basecro__cryptoorgchain": {
-    "name": "Cronos",
-    "chain": "cryptoorgchain",
-    "denom": "basecro",
-    "symbol": "CRO",
-    "decimals": 8,
-    "description": "CRO coin is the token for the Crypto.com platform.",
-    "coingecko_id": "crypto-com-chain",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cronos/images/cronos.png"
-    }
-  },
-  "boot__bostrom": {
-    "name": "Bostrom",
-    "chain": "bostrom",
-    "denom": "boot",
-    "symbol": "BOOT",
-    "decimals": 0,
-    "description": "The staking token of Bostrom",
-    "coingecko_id": "bostrom",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bostrom/images/boot.png"
-    }
-  },
-  "uixo__impacthub": {
-    "name": "IXO",
-    "chain": "impacthub",
-    "denom": "uixo",
-    "symbol": "IXO",
-    "decimals": 6,
-    "description": "The native token of IXO Chain",
-    "coingecko_id": "ixo",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/impacthub/images/ixo.png"
-    }
-  },
-  "ulamb__lambda": {
-    "name": "Lambda",
-    "chain": "lambda",
-    "denom": "ulamb",
-    "symbol": "LAMB",
-    "decimals": 18,
-    "description": "The native token of Lambda",
-    "coingecko_id": "lambda",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/lambda/images/lambda.png"
-    }
-  },
-  "uxprt__persistence": {
-    "name": "Persistence",
-    "chain": "persistence",
-    "denom": "uxprt",
-    "symbol": "XPRT",
-    "decimals": 6,
-    "description": "The XPRT token is primarily a governance token for the Persistence chain.",
-    "coingecko_id": "persistence",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.svg"
-    }
-  },
-  "stk/uatom__persistence": {
-    "name": "PSTAKE staked ATOM",
-    "chain": "persistence",
-    "denom": "stk/uatom",
-    "symbol": "stkATOM",
-    "decimals": 6,
-    "description": "PSTAKE Liquid-Staked ATOM",
-    "coingecko_id": null,
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/stkatom.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/stkatom.svg"
-    }
-  },
-  "aplanq__planq": {
-    "name": "Planq",
-    "chain": "planq",
-    "denom": "aplanq",
-    "symbol": "PLQ",
-    "decimals": 18,
-    "description": "The native EVM, governance and staking token of the Planq Network",
-    "coingecko_id": "",
-    "bridge_asset": null,
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/planq/images/planq.svg",
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/planq/images/planq.png"
-    }
-  },
-  "nanolike__likecoin": {
-    "name": "LikeCoin",
-    "chain": "likecoin",
-    "denom": "nanolike",
-    "symbol": "LIKE",
-    "decimals": 9,
-    "description": "LIKE is the native staking and governance token of LikeCoin chain, a Decentralized Publishing Infrastructure to empower content ownership, authenticity, and provenance.",
-    "coingecko_id": "likecoin",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/likecoin/images/like.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/likecoin/images/like.svg"
-    }
-  },
-  "ukuji__kujira": {
-    "name": "Kuji",
-    "chain": "kujira",
-    "denom": "ukuji",
-    "symbol": "KUJI",
-    "decimals": 6,
-    "description": "The native staking and governance token of the Kujira chain.",
-    "coingecko_id": "kujira",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/kuji.png"
-    }
-  },
-  "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk__kujira": {
-    "name": "USK",
-    "chain": "kujira",
-    "denom": "factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
-    "symbol": "USK",
-    "decimals": 6,
-    "description": "The native over-collateralized stablecoin from the Kujira chain.",
-    "coingecko_id": "usk",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/usk.png"
-    }
-  },
-  "udarc__konstellation": {
-    "name": "DARC",
-    "chain": "konstellation",
-    "denom": "udarc",
-    "symbol": "DARC",
-    "decimals": 6,
-    "description": "The native token of Konstellation Network",
-    "coingecko_id": "darcmatter-coin",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/konstellation/images/darc.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/konstellation/images/darc.svg"
-    }
-  },
-  "ulyl__loyal": {
-    "name": "Loyal",
-    "chain": "loyal",
-    "denom": "ulyl",
-    "symbol": "LYL",
-    "decimals": 6,
-    "description": "The native token of Loyal",
-    "coingecko_id": null,
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/loyal/images/lyl.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/loyal/images/lyl.svg"
-    }
-  },
-  "utori__teritori": {
-    "name": "Teritori",
-    "chain": "teritori",
-    "denom": "utori",
-    "symbol": "TORI",
-    "decimals": 6,
-    "description": "Tori token (TORI) is the Teritoti Network’s native utility token, used as the primary means to govern, secure the blockchain, incentivize ecosystem contributors and use the various Teritori dApp features.",
-    "coingecko_id": "teritori",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/teritori/images/utori.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/teritori/images/utori.svg"
-    }
-  },
-  "ucre__crescent": {
-    "name": "Crescent",
-    "chain": "crescent",
-    "denom": "ucre",
-    "symbol": "CRE",
-    "decimals": 6,
-    "description": "The native token of Crescent",
-    "coingecko_id": "crescent-network",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/crescent/images/cre.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/crescent/images/cre.svg"
-    }
-  },
-  "ubcre__crescent": {
-    "name": "Bonded Crescent",
-    "chain": "crescent",
-    "denom": "ubcre",
-    "symbol": "bCRE",
-    "decimals": 6,
-    "description": "The bonded token of Crescent",
-    "coingecko_id": null,
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/crescent/images/bcre.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/crescent/images/bcre.svg"
-    }
-  },
-  "ucmdx__comdex": {
-    "name": "Comdex",
-    "chain": "comdex",
-    "denom": "ucmdx",
-    "symbol": "CMDX",
-    "decimals": 6,
-    "description": "Native Token of Comdex Protocol",
-    "coingecko_id": "comdex",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/cmdx.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/cmdx.svg"
-    }
-  },
-  "uharbor__comdex": {
-    "name": "Harbor",
-    "chain": "comdex",
-    "denom": "uharbor",
-    "symbol": "HARBOR",
-    "decimals": 6,
-    "description": "Governance Token of Harbor protocol on Comdex network",
-    "coingecko_id": "",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/harbor.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/harbor.svg"
-    }
-  },
-  "ucmst__comdex": {
-    "name": "CMST",
-    "chain": "comdex",
-    "denom": "ucmst",
-    "symbol": "CMST",
-    "decimals": 6,
-    "description": "Stable Token of Harbor protocol on Comdex network",
-    "coingecko_id": "composite",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/cmst.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/comdex/images/cmst.svg"
-    }
-  },
-  "aevmos__evmos": {
-    "name": "Evmos",
-    "chain": "evmos",
-    "denom": "aevmos",
-    "symbol": "EVMOS",
-    "decimals": 18,
-    "description": "The native EVM, governance and staking token of the Evmos Hub",
-    "coingecko_id": "evmos",
-    "bridge_asset": null,
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/evmos/images/evmos.svg",
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/evmos/images/evmos.png"
-    }
-  },
-  "anom__onomy": {
-    "name": "Nom",
-    "chain": "onomy",
-    "denom": "anom",
-    "symbol": "NOM",
-    "decimals": 18,
-    "description": "The native token of Onomy Protocol",
-    "coingecko_id": null,
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/onomy/images/nom.png"
-    }
-  },
-  "unym__nyx": {
-    "name": "Nym",
-    "chain": "nyx",
-    "denom": "unym",
-    "symbol": "NYM",
-    "decimals": 6,
-    "description": "NYM Token (NYM) is the Nym Network's native utility token, used as the primary means to incentivize mixnet node operators.",
-    "coingecko_id": "nym",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/nyx/images/nyx.png"
-    }
-  },
-  "ubze__beezee": {
-    "name": "BeeZee",
-    "chain": "beezee",
-    "denom": "ubze",
-    "symbol": "BZE",
-    "decimals": 6,
-    "description": "BeeZee native blockchain",
-    "coingecko_id": "bzedge",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/beezee/images/bze.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/beezee/images/bze.svg"
-    }
-  },
-  "unom__nomic": {
-    "name": "Nomic",
-    "chain": "nomic",
-    "denom": "unom",
-    "symbol": "NOM",
-    "decimals": 6,
-    "description": "Nomic Token (NOM) is the Nomic's native utility token, used as the primary means to govern, secure the blockchain, incentivize participants, and provide a default mechanism to store and exchange value.",
-    "coingecko_id": null,
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/nomic/images/nomic.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/nomic/images/nomic.svg"
-    }
-  },
-  "loki__odin": {
-    "name": "ODIN",
-    "chain": "odin",
-    "denom": "loki",
-    "symbol": "ODIN",
-    "decimals": 6,
-    "description": "Staking and goverance token for ODIN Protocol",
-    "coingecko_id": "odin-protocol",
-    "bridge_asset": null,
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/odin/images/odin.svg",
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/odin/images/odin.png"
-    }
-  },
-  "mGeo__odin": {
-    "name": "GEO",
-    "chain": "odin",
-    "denom": "mGeo",
-    "symbol": "GEO",
-    "decimals": 6,
-    "description": "GEO token for ODIN Protocol",
-    "coingecko_id": null,
-    "bridge_asset": null,
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/odin/images/geo.svg",
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/odin/images/geo.png"
-    }
-  },
-  "mO9W__odin": {
-    "name": "O9W",
-    "chain": "odin",
-    "denom": "mO9W",
-    "symbol": "O9W",
-    "decimals": 6,
-    "description": "O9W token for ODIN Protocol",
-    "coingecko_id": null,
-    "bridge_asset": null,
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/odin/images/o9w.svg",
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/odin/images/o9w.png"
-    }
-  },
-  "ungm__emoney": {
-    "name": "e-Money",
-    "chain": "emoney",
-    "denom": "ungm",
-    "symbol": "NGM",
-    "decimals": 6,
-    "description": "e-Money NGM staking token. In addition to earning staking rewards the token is bought back and burned based on e-Money stablecoin inflation.",
-    "coingecko_id": "e-money",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/ngm.png"
-    }
-  },
-  "eeur__emoney": {
-    "name": "e-Money EUR",
-    "chain": "emoney",
-    "denom": "eeur",
-    "symbol": "EEUR",
-    "decimals": 6,
-    "description": "e-Money EUR stablecoin. Audited and backed by fiat EUR deposits and government bonds.",
-    "coingecko_id": "e-money-eur",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/eeur.png"
-    }
-  },
-  "echf__emoney": {
-    "name": "e-Money CHF",
-    "chain": "emoney",
-    "denom": "echf",
-    "symbol": "ECHF",
-    "decimals": 6,
-    "description": "e-Money CHF stablecoin. Audited and backed by fiat CHF deposits and government bonds.",
-    "coingecko_id": "",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/echf.png"
-    }
-  },
-  "enok__emoney": {
-    "name": "e-Money NOK",
-    "chain": "emoney",
-    "denom": "enok",
-    "symbol": "ENOK",
-    "decimals": 6,
-    "description": "e-Money NOK stablecoin. Audited and backed by fiat NOK deposits and government bonds.",
-    "coingecko_id": "",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/enok.png"
-    }
-  },
-  "edkk__emoney": {
-    "name": "e-Money DKK",
-    "chain": "emoney",
-    "denom": "edkk",
-    "symbol": "EDKK",
-    "decimals": 6,
-    "description": "e-Money DKK stablecoin. Audited and backed by fiat DKK deposits and government bonds.",
-    "coingecko_id": "",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/edkk.png"
-    }
-  },
-  "esek__emoney": {
-    "name": "e-Money SEK",
-    "chain": "emoney",
-    "denom": "esek",
-    "symbol": "ESEK",
-    "decimals": 6,
-    "description": "e-Money SEK stablecoin. Audited and backed by fiat SEK deposits and government bonds.",
-    "coingecko_id": "",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/esek.png"
-    }
-  },
-  "uaxl__axelar": {
-    "name": "Axelar",
-    "chain": "axelar",
-    "denom": "uaxl",
-    "symbol": "AXL",
-    "decimals": 6,
-    "description": "The native token of Axelar",
-    "coingecko_id": "axelar",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.svg"
-    }
-  },
-  "uusdc__axelar": {
-    "name": "USD Coin",
-    "chain": "axelar",
-    "denom": "uusdc",
-    "symbol": "USDC",
-    "decimals": 6,
-    "description": "Circle's stablecoin on Axelar",
-    "coingecko_id": "usd-coin",
-    "bridge_asset": {
-      "chain": "ethereum",
-      "value": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-      "token_type": "contract"
-    },
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg",
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.png"
-    }
-  },
-  "frax-wei__axelar": {
-    "name": "Frax",
-    "chain": "axelar",
-    "denom": "frax-wei",
-    "symbol": "FRAX",
-    "decimals": 18,
-    "description": "Frax's fractional-algorithmic stablecoin on Axelar",
-    "coingecko_id": "frax",
-    "bridge_asset": {
-      "chain": "ethereum",
-      "value": "0x853d955acef822db058eb8505911ed77f175b99e",
-      "token_type": "contract"
-    },
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/frax.svg",
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/frax.png"
-    }
-  },
-  "dai-wei__axelar": {
-    "name": "Dai Stablecoin",
-    "chain": "axelar",
-    "denom": "dai-wei",
-    "symbol": "DAI",
-    "decimals": 18,
-    "description": "Dai stablecoin on Axelar",
-    "coingecko_id": "dai",
-    "bridge_asset": {
-      "chain": "ethereum",
-      "value": "0x6b175474e89094c44da98b954eedeac495271d0f",
-      "token_type": "contract"
-    },
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/dai.svg",
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/dai.png"
-    }
-  },
-  "uusdt__axelar": {
-    "name": "Tether USD",
-    "chain": "axelar",
-    "denom": "uusdt",
-    "symbol": "USDT",
-    "decimals": 6,
-    "description": "Tether's USD stablecoin on Axelar",
-    "coingecko_id": "tether",
-    "bridge_asset": {
-      "chain": "ethereum",
-      "value": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-      "token_type": "contract"
-    },
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdt.svg",
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdt.png"
-    }
-  },
-  "weth-wei__axelar": {
-    "name": "Wrapped Ether",
-    "chain": "axelar",
-    "denom": "weth-wei",
-    "symbol": "WETH",
-    "decimals": 18,
-    "description": "Wrapped Ether on Axelar",
-    "coingecko_id": "weth",
-    "bridge_asset": {
-      "chain": "ethereum",
-      "value": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-      "token_type": "contract"
-    },
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/weth.png"
-    }
-  },
-  "wbtc-satoshi__axelar": {
-    "name": "Wrapped Bitcoin",
-    "chain": "axelar",
-    "denom": "wbtc-satoshi",
-    "symbol": "WBTC",
-    "decimals": 8,
-    "description": "Wrapped Bitcoin on Axelar",
-    "coingecko_id": "wrapped-bitcoin",
-    "bridge_asset": {
-      "chain": "ethereum",
-      "value": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
-      "token_type": "contract"
-    },
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/wbtc.png"
-    }
-  },
-  "aave-wei__axelar": {
-    "name": "Aave",
-    "chain": "axelar",
-    "denom": "aave-wei",
-    "symbol": "AAVE",
-    "decimals": 18,
-    "description": "Aave on Axelar",
-    "coingecko_id": "aave",
-    "bridge_asset": {
-      "chain": "ethereum",
-      "value": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
-      "token_type": "contract"
-    },
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/aave.svg"
-    }
-  },
-  "ape-wei__axelar": {
-    "name": "ApeCoin",
-    "chain": "axelar",
-    "denom": "ape-wei",
-    "symbol": "APE",
-    "decimals": 18,
-    "description": "ApeCoin on Axelar",
-    "coingecko_id": "apecoin",
-    "bridge_asset": {
-      "chain": "ethereum",
-      "value": "0x4d224452801aced8b2f0aebe155379bb5d594381",
-      "token_type": "contract"
-    },
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/ape.svg"
-    }
-  },
-  "axs-wei__axelar": {
-    "name": "Axie Infinity Shard",
-    "chain": "axelar",
-    "denom": "axs-wei",
-    "symbol": "AXS",
-    "decimals": 18,
-    "description": "Axie Infinity Shard on Axelar",
-    "coingecko_id": "axie-infinity",
-    "bridge_asset": {
-      "chain": "ethereum",
-      "value": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
-      "token_type": "contract"
-    },
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/axs.svg"
-    }
-  },
-  "link-wei__axelar": {
-    "name": "Chainlink",
-    "chain": "axelar",
-    "denom": "link-wei",
-    "symbol": "LINK",
-    "decimals": 18,
-    "description": "Chainlink on Axelar",
-    "coingecko_id": "chainlink",
-    "bridge_asset": {
-      "chain": "ethereum",
-      "value": "0x514910771af9ca656af840dff83e8264ecf986ca",
-      "token_type": "contract"
-    },
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/link.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/link.svg"
-    }
-  },
-  "mkr-wei__axelar": {
-    "name": "Maker",
-    "chain": "axelar",
-    "denom": "mkr-wei",
-    "symbol": "MKR",
-    "decimals": 18,
-    "description": "Maker on Axelar",
-    "coingecko_id": "maker",
-    "bridge_asset": {
-      "chain": "ethereum",
-      "value": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
-      "token_type": "contract"
-    },
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/mkr.svg"
-    }
-  },
-  "rai-wei__axelar": {
-    "name": "Rai Reflex Index",
-    "chain": "axelar",
-    "denom": "rai-wei",
-    "symbol": "RAI",
-    "decimals": 18,
-    "description": "Rai Reflex Index on Axelar",
-    "coingecko_id": "rai",
-    "bridge_asset": {
-      "chain": "ethereum",
-      "value": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
-      "token_type": "contract"
-    },
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/rai.svg"
-    }
-  },
-  "shib-wei__axelar": {
-    "name": "Shiba Inu",
-    "chain": "axelar",
-    "denom": "shib-wei",
-    "symbol": "SHIB",
-    "decimals": 18,
-    "description": "Shiba Inu on Axelar",
-    "coingecko_id": "shiba-inu",
-    "bridge_asset": {
-      "chain": "ethereum",
-      "value": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-      "token_type": "contract"
-    },
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/shib.svg"
-    }
-  },
-  "steth-wei__axelar": {
-    "name": "Lido Staked Ether",
-    "chain": "axelar",
-    "denom": "steth-wei",
-    "symbol": "stETH",
-    "decimals": 18,
-    "description": "Lido Staked Ether on Axelar",
-    "coingecko_id": "staked-ether",
-    "bridge_asset": {
-      "chain": "ethereum",
-      "value": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
-      "token_type": "contract"
-    },
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/steth.svg"
-    }
-  },
-  "uni-wei__axelar": {
-    "name": "Uniswap",
-    "chain": "axelar",
-    "denom": "uni-wei",
-    "symbol": "UNI",
-    "decimals": 18,
-    "description": "Uniswap on Axelar",
-    "coingecko_id": "uniswap",
-    "bridge_asset": {
-      "chain": "ethereum",
-      "value": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
-      "token_type": "contract"
-    },
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/uni.svg"
-    }
-  },
-  "xcn-wei__axelar": {
-    "name": "Chain",
-    "chain": "axelar",
-    "denom": "xcn-wei",
-    "symbol": "XCN",
-    "decimals": 18,
-    "description": "Chain on Axelar",
-    "coingecko_id": "chain-2",
-    "bridge_asset": {
-      "chain": "ethereum",
-      "value": "0xa2cd3d43c775978a96bdbf12d733d5a1ed94fb18",
-      "token_type": "contract"
-    },
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/xcn.svg"
-    }
-  },
-  "dot-planck__axelar": {
-    "name": "Wrapped Polkadot",
-    "chain": "axelar",
-    "denom": "dot-planck",
-    "symbol": "DOT",
-    "decimals": 10,
-    "description": "Wrapped Polkadot on Axelar",
-    "coingecko_id": "polkadot",
-    "bridge_asset": {
-      "chain": "moonbeam",
-      "value": "0xffffffff1fcacbd218edc0eba20fc2308c778080",
-      "token_type": "contract"
-    },
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polkadot/images/dot.svg",
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polkadot/images/dot.png"
-    }
-  },
-  "wglmr-wei__axelar": {
-    "name": "Wrapped Moonbeam",
-    "chain": "axelar",
-    "denom": "wglmr-wei",
-    "symbol": "WGLMR",
-    "decimals": 18,
-    "description": "Wrapped Moonbeam on Axelar",
-    "coingecko_id": "wrapped-moonbeam",
-    "bridge_asset": {
-      "chain": "moonbeam",
-      "value": "0xacc15dc74880c9944775448304b263d191c6077f",
-      "token_type": "contract"
-    },
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/moonbeam/images/glmr.svg",
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/moonbeam/images/glmr.png"
-    }
-  },
-  "wmatic-wei__axelar": {
-    "name": "Wrapped Matic",
-    "chain": "axelar",
-    "denom": "wmatic-wei",
-    "symbol": "WMATIC",
-    "decimals": 18,
-    "description": "Wrapped Matic on Axelar",
-    "coingecko_id": "matic-network",
-    "bridge_asset": {
-      "chain": "polygon",
-      "value": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
-      "token_type": "contract"
-    },
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polygon/images/wmatic.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/polygon/images/wmatic.svg"
-    }
-  },
-  "wbnb-wei__axelar": {
-    "name": "Wrapped BNB",
-    "chain": "axelar",
-    "denom": "wbnb-wei",
-    "symbol": "WBNB",
-    "decimals": 18,
-    "description": "Wrapped BNB on Axelar",
-    "coingecko_id": "wbnb",
-    "bridge_asset": {
-      "chain": "binancesmartchain",
-      "value": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-      "token_type": "contract"
-    },
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/binancesmartchain/images/wbnb.svg",
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/binancesmartchain/images/wbnb.png"
-    }
-  },
-  "busd-wei__axelar": {
-    "name": "Binance USD",
-    "chain": "axelar",
-    "denom": "busd-wei",
-    "symbol": "BUSD",
-    "decimals": 18,
-    "description": "Binance USD on Axelar.",
-    "coingecko_id": "binance-usd",
-    "bridge_asset": {
-      "chain": "ethereum",
-      "value": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
-      "token_type": "contract"
-    },
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/busd.png"
-    }
-  },
-  "wavax-wei__axelar": {
-    "name": "Wrapped AVAX",
-    "chain": "axelar",
-    "denom": "wavax-wei",
-    "symbol": "WAVAX",
-    "decimals": 18,
-    "description": "Wrapped AVAX on Axelar.",
-    "coingecko_id": null,
-    "bridge_asset": {
-      "chain": "avalanche",
-      "value": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
-      "token_type": "contract"
-    },
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/avalanche/images/wavax.svg"
-    }
-  },
-  "wftm-wei__axelar": {
-    "name": "Wrapped FTM",
-    "chain": "axelar",
-    "denom": "wftm-wei",
-    "symbol": "WFTM",
-    "decimals": 18,
-    "description": "Wrapped FTM on Axelar.",
-    "coingecko_id": null,
-    "bridge_asset": {
-      "chain": "fantom",
-      "value": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
-      "token_type": "contract"
-    },
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/fantom/images/ftm.png"
-    }
-  },
-  "polygon-uusdc__axelar": {
-    "name": "USD Coin from Polygon",
-    "chain": "axelar",
-    "denom": "polygon-uusdc",
-    "symbol": "USDC",
-    "decimals": 6,
-    "description": "Circle's stablecoin from Polygon on Axelar",
-    "coingecko_id": null,
-    "bridge_asset": {
-      "chain": "polygon",
-      "value": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
-      "token_type": "contract"
-    },
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg",
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.png"
-    }
-  },
-  "avalanche-uusdc__axelar": {
-    "name": "USD Coin from Avalanche",
-    "chain": "axelar",
-    "denom": "avalanche-uusdc",
-    "symbol": "USDC",
-    "decimals": 6,
-    "description": "Circle's stablecoin from Avalanche on Axelar",
-    "coingecko_id": null,
-    "bridge_asset": {
-      "chain": "avalanche",
-      "value": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
-      "token_type": "contract"
-    },
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.svg",
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/usdc.png"
-    }
-  },
-  "orai__oraichain": {
-    "name": "Oraichain",
-    "chain": "oraichain",
-    "denom": "orai",
-    "symbol": "ORAI",
-    "decimals": 6,
-    "description": "The native token of Oraichain",
-    "coingecko_id": "oraichain-token",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/oraichain/images/orai-white.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/oraichain/images/orai-white.svg"
-    }
-  },
-  "aMYT__mythos": {
-    "name": "MYT",
-    "chain": "mythos",
-    "denom": "aMYT",
-    "symbol": "MYT",
-    "decimals": 18,
-    "description": "The native token of Mythos",
-    "coingecko_id": null,
-    "bridge_asset": null,
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mythos/images/mythos.svg",
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mythos/images/mythos.png"
-    }
-  },
-  "rowan__sifchain": {
-    "name": "Sifchain Rowan",
-    "chain": "sifchain",
-    "denom": "rowan",
-    "symbol": "ROWAN",
-    "decimals": 18,
-    "description": "Rowan Token (ROWAN) is the Sifchain Network's native utility token, used as the primary means to govern, provide liquidity, secure the blockchain, incentivize participants, and provide a default mechanism to store and exchange value.",
-    "coingecko_id": "sifchain",
-    "bridge_asset": null,
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sifchain/images/rowan.svg",
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sifchain/images/rowan.png"
-    }
-  },
-  "uocta__octa": {
-    "name": "Octa",
-    "chain": "octa",
-    "denom": "uocta",
-    "symbol": "OCTA",
-    "decimals": 6,
-    "description": "The native token of Octa Chain",
-    "coingecko_id": null,
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/octa/images/octa.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/octa/images/octa.svg"
-    }
-  },
-  "udec__decentr": {
-    "name": "Decentr",
-    "chain": "decentr",
-    "denom": "udec",
-    "symbol": "DEC",
-    "decimals": 6,
-    "description": "The native token of Decentr",
-    "coingecko_id": "decentr",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/decentr/images/dec.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/decentr/images/dec.svg"
-    }
-  },
-  "aRYT__ethos": {
-    "name": "RYT",
-    "chain": "ethos",
-    "denom": "aRYT",
-    "symbol": "RYT",
-    "decimals": 18,
-    "description": "The native token of Ethos",
-    "coingecko_id": null,
-    "bridge_asset": null,
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/ethos/images/ethos.svg",
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/ethos/images/ethos.png"
-    }
-  },
-  "uflix__omniflixhub": {
-    "name": "Flix",
-    "chain": "omniflixhub",
-    "denom": "uflix",
-    "symbol": "FLIX",
-    "decimals": 6,
-    "description": "The native staking token of OmniFlix Hub.",
-    "coingecko_id": "omniflix-network",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/omniflixhub/images/flix.png"
-    }
-  },
-  "uosmo__osmosis": {
-    "name": "Osmosis",
-    "chain": "osmosis",
-    "denom": "uosmo",
-    "symbol": "OSMO",
-    "decimals": 6,
-    "description": "The native token of Osmosis",
-    "coingecko_id": "osmosis",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg"
-    }
-  },
-  "uion__osmosis": {
-    "name": "Ion",
-    "chain": "osmosis",
-    "denom": "uion",
-    "symbol": "ION",
-    "decimals": 6,
-    "description": "",
-    "coingecko_id": "ion",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/ion.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/ion.svg"
-    }
-  },
-  "afet__fetchhub": {
-    "name": "fetch-ai",
-    "chain": "fetchhub",
-    "denom": "afet",
-    "symbol": "FET",
-    "decimals": 18,
-    "description": "The native staking and governance token of the Fetch Hub.",
-    "coingecko_id": "fetch-ai",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/fetchhub/images/fet.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/fetchhub/images/fet.svg"
-    }
-  },
-  "nanomobx__fetchhub": {
-    "name": "MOBIX",
-    "chain": "fetchhub",
-    "denom": "nanomobx",
-    "symbol": "MOBX",
-    "decimals": 9,
-    "description": "The MOBX coin rewards the use of eco-friendly micromobility transportation.",
-    "coingecko_id": null,
-    "bridge_asset": null,
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/fetchhub/images/mobx.svg",
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/fetchhub/images/mobx.png"
-    }
-  },
-  "uvdl__vidulum": {
-    "name": "Vidulum",
-    "chain": "vidulum",
-    "denom": "uvdl",
-    "symbol": "VDL",
-    "decimals": 6,
-    "description": "The native token of Vidulum",
-    "coingecko_id": "vidulum",
-    "bridge_asset": null,
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/vidulum/images/vdl.svg",
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/vidulum/images/vdl.png"
-    }
-  },
-  "ncheq__cheqd": {
-    "name": "cheqd",
-    "chain": "cheqd",
-    "denom": "ncheq",
-    "symbol": "CHEQ",
-    "decimals": 9,
-    "description": "Native token for the cheqd network",
-    "coingecko_id": "cheqd-network",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cheqd/images/cheq.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cheqd/images/cheq.svg"
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
     }
   },
   "idep__idep": {
@@ -1867,329 +2031,46 @@
       "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/idep/images/idep.png"
     }
   },
-  "basecro__cronos": {
-    "name": "Cronos",
-    "chain": "cronos",
-    "denom": "basecro",
-    "symbol": "CRO",
-    "decimals": 18,
-    "description": "Cronos Chain - Get Instant DApp Portability with EVM Support",
-    "coingecko_id": "crypto-com-chain",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cronos/images/cronos.png"
-    }
-  },
-  "swth__carbon": {
-    "name": "Carbon",
-    "chain": "carbon",
-    "denom": "swth",
-    "symbol": "SWTH",
-    "decimals": 8,
-    "description": "The native governance token of Carbon",
-    "coingecko_id": "switcheo",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/swth.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/swth.svg"
-    }
-  },
-  "usc__carbon": {
-    "name": "Carbon USD Coin",
-    "chain": "carbon",
-    "denom": "usc",
-    "symbol": "USC",
-    "decimals": 8,
-    "description": "The native stablecoin of Carbon",
-    "coingecko_id": "carbon-usd",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/usc.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/usc.svg"
-    }
-  },
-  "bnb.1.6.773edb__carbon": {
-    "name": "Binance Coin",
-    "chain": "carbon",
-    "denom": "bnb.1.6.773edb",
-    "symbol": "BNB",
-    "decimals": 18,
-    "description": "BNB token on Carbon",
-    "coingecko_id": "binancecoin",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/binancesmartchain/images/bnb.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/binancesmartchain/images/bnb.svg"
-    }
-  },
-  "bneo.1.14.e2e5f6__carbon": {
-    "name": "BurgerNEO",
-    "chain": "carbon",
-    "denom": "bneo.1.14.e2e5f6",
-    "symbol": "bNEO",
-    "decimals": 8,
-    "description": "bNEO token on Carbon",
-    "coingecko_id": "neo",
-    "bridge_asset": {
-      "chain": "neo",
-      "value": "0x48c40d4666f93408be1bef038b6722404d9a4c2a",
-      "token_type": "contract"
-    },
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/bneo.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/bneo.svg"
-    }
-  },
-  "busd.1.6.754a80__carbon": {
-    "name": "BUSD (BEP-20)",
-    "chain": "carbon",
-    "denom": "busd.1.6.754a80",
-    "symbol": "BUSD",
-    "decimals": 18,
-    "description": "BUSD (BEP-20) token on Carbon",
-    "coingecko_id": "binance-usd",
-    "bridge_asset": {
-      "chain": "binancesmartchain",
-      "value": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-      "token_type": "contract"
-    },
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/busd.png"
-    }
-  },
-  "eth.1.2.942d87__carbon": {
-    "name": "Ethereum (ERC20)",
-    "chain": "carbon",
-    "denom": "eth.1.2.942d87",
-    "symbol": "ETH",
-    "decimals": 18,
-    "description": "ETH (ERC20) token on Carbon",
-    "coingecko_id": "ethereum",
-    "bridge_asset": null,
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/eth.svg"
-    }
-  },
-  "usdc.1.2.343151__carbon": {
-    "name": "Circle USD",
-    "chain": "carbon",
-    "denom": "usdc.1.2.343151",
-    "symbol": "USDC",
+  "uxki__kichain": {
+    "name": "Ki",
+    "chain": "kichain",
+    "denom": "uxki",
+    "symbol": "XKI",
     "decimals": 6,
-    "description": "USDC (ERC20) token on Carbon",
-    "coingecko_id": "usd-coin",
-    "bridge_asset": {
-      "chain": "ethereum",
-      "value": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-      "token_type": "contract"
-    },
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.svg"
-    }
-  },
-  "nhash__provenance": {
-    "name": "Hash",
-    "chain": "provenance",
-    "denom": "nhash",
-    "symbol": "HASH",
-    "decimals": 9,
-    "description": "Hash is the staking token of the Provenance Blockchain",
-    "coingecko_id": "provenance-blockchain",
+    "description": "The native token of Ki Chain",
+    "coingecko_id": "ki",
     "bridge_asset": null,
     "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/provenance/images/hash.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/provenance/images/hash.svg"
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kichain/images/xki.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kichain/images/xki.svg"
     }
   },
-  "utick__microtick": {
-    "name": "Microtick",
-    "chain": "microtick",
-    "denom": "utick",
-    "symbol": "TICK",
+  "ujuno__juno": {
+    "name": "Juno",
+    "chain": "juno",
+    "denom": "ujuno",
+    "symbol": "JUNO",
     "decimals": 6,
-    "description": "TICK coin is the token for the Microtick Price Discovery & Oracle App",
-    "coingecko_id": null,
+    "description": "The native token of JUNO Chain",
+    "coingecko_id": "juno-network",
     "bridge_asset": null,
     "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/microtick/images/tick.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/microtick/images/tick.svg"
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.svg"
     }
   },
-  "umedas__medasdigital": {
-    "name": "Medas Digital",
-    "chain": "medasdigital",
-    "denom": "umedas",
-    "symbol": "MEDAS",
+  "uatolo__rizon": {
+    "name": "Rizon Chain",
+    "chain": "rizon",
+    "denom": "uatolo",
+    "symbol": "ATOLO",
     "decimals": 6,
-    "description": "The native token of Medas Digital Network",
-    "coingecko_id": null,
+    "description": "Native token of Rizon Chain",
+    "coingecko_id": "rizon",
     "bridge_asset": null,
     "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/medasdigital/images/medas.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/medasdigital/images/medas.svg"
-    }
-  },
-  "uqck__quicksilver": {
-    "name": "Quicksilver",
-    "chain": "quicksilver",
-    "denom": "uqck",
-    "symbol": "QCK",
-    "decimals": 6,
-    "description": "QCK - native token of Quicksilver",
-    "coingecko_id": "quicksilver",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qck.png"
-    }
-  },
-  "uqstars__quicksilver": {
-    "name": "Quicksilver Liquid Staked STARS",
-    "chain": "quicksilver",
-    "denom": "uqstars",
-    "symbol": "qSTARS",
-    "decimals": 6,
-    "description": "Quicksilver Liquid Staked STARS",
-    "coingecko_id": null,
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qstars.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qstars.svg"
-    }
-  },
-  "upasg__passage": {
-    "name": "Passage",
-    "chain": "passage",
-    "denom": "upasg",
-    "symbol": "PASG",
-    "decimals": 6,
-    "description": "The native staking and governance token of the Passage chain.",
-    "coingecko_id": null,
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/passage/images/pasg.png"
-    }
-  },
-  "ukava__kava": {
-    "name": "Kava",
-    "chain": "kava",
-    "denom": "ukava",
-    "symbol": "KAVA",
-    "decimals": 6,
-    "description": "The native staking and governance token of Kava",
-    "coingecko_id": "kava",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kava/images/kava.png"
-    }
-  },
-  "hard__kava": {
-    "name": "Hard",
-    "chain": "kava",
-    "denom": "hard",
-    "symbol": "HARD",
-    "decimals": 6,
-    "description": "Governance token of Kava Lend Protocol",
-    "coingecko_id": "kava-lend",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kava/images/hard.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kava/images/hard.svg"
-    }
-  },
-  "swp__kava": {
-    "name": "Swap",
-    "chain": "kava",
-    "denom": "swp",
-    "symbol": "SWP",
-    "decimals": 6,
-    "description": "Governance token of Kava Swap Protocol",
-    "coingecko_id": "kava-swap",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kava/images/swp.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kava/images/swp.svg"
-    }
-  },
-  "usdx__kava": {
-    "name": "USDX",
-    "chain": "kava",
-    "denom": "usdx",
-    "symbol": "USDX",
-    "decimals": 6,
-    "description": "The native stablecoin of Kava",
-    "coingecko_id": "usdx",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kava/images/usdx.png"
-    }
-  },
-  "inj__injective": {
-    "name": "Injective",
-    "chain": "injective",
-    "denom": "inj",
-    "symbol": "INJ",
-    "decimals": 18,
-    "description": "The INJ token is the native governance token for the Injective chain.",
-    "coingecko_id": "injective-protocol",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg"
-    }
-  },
-  "apoint__point": {
-    "name": "Point",
-    "chain": "point",
-    "denom": "apoint",
-    "symbol": "POINT",
-    "decimals": 18,
-    "description": "The native governance and staking token of the Point network",
-    "coingecko_id": "point-network",
-    "bridge_asset": null,
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/point/images/point-logo.svg",
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/point/images/point-logo.png"
-    }
-  },
-  "umed__panacea": {
-    "name": "MediBloc",
-    "chain": "panacea",
-    "denom": "umed",
-    "symbol": "MED",
-    "decimals": 6,
-    "description": "Panacea is a public blockchain launched by MediBloc, which is the key infrastructure for reinventing the patient-centered healthcare data ecosystem",
-    "coingecko_id": "medibloc",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/panacea/images/med.png"
-    }
-  },
-  "ulum__lumnetwork": {
-    "name": "Lum",
-    "chain": "lumnetwork",
-    "denom": "ulum",
-    "symbol": "LUM",
-    "decimals": 6,
-    "description": "Native token of the Lum Network",
-    "coingecko_id": "lum-network",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/lumnetwork/images/lum.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/lumnetwork/images/lum.svg"
-    }
-  },
-  "umeme__meme": {
-    "name": "MEME",
-    "chain": "meme",
-    "denom": "umeme",
-    "symbol": "MEME",
-    "decimals": 6,
-    "description": "MEME Token (MEME) is the native staking token of the MEME Chain",
-    "coingecko_id": null,
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/meme/images/meme.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/meme/images/meme.svg"
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/rizon/images/atolo.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/rizon/images/atolo.svg"
     }
   },
   "umis__mises": {
@@ -2205,101 +2086,153 @@
       "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mises/images/mises.png"
     }
   },
-  "dys__dyson": {
-    "name": "Dys",
-    "chain": "dyson",
-    "denom": "dys",
-    "symbol": "DYS",
-    "decimals": 0,
-    "description": "The native staking and governance token of the Dyson Protocol",
-    "coingecko_id": "",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dyson/images/dys.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dyson/images/dys.svg"
-    }
-  },
-  "usomm__sommelier": {
-    "name": "Somm",
-    "chain": "sommelier",
-    "denom": "usomm",
-    "symbol": "SOMM",
+  "utgd__tgrade": {
+    "name": "Tgrade",
+    "chain": "tgrade",
+    "denom": "utgd",
+    "symbol": "TGD",
     "decimals": 6,
-    "description": "Somm Token (SOMM) is the native staking token of the Sommelier Chain",
-    "coingecko_id": "sommelier",
+    "description": "The native token of Tgrade",
+    "coingecko_id": "tgrade",
     "bridge_asset": null,
     "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sommelier/images/somm.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sommelier/images/somm.svg"
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/tgrade/images/tgrade-symbol-gradient.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/tgrade/images/tgrade-symbol-gradient.svg"
     }
   },
-  "uxki__kichain": {
-    "name": "Ki",
-    "chain": "kichain",
-    "denom": "uxki",
-    "symbol": "XKI",
-    "decimals": 6,
-    "description": "The native token of Ki Chain",
-    "coingecko_id": "ki",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kichain/images/xki.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/kichain/images/xki.svg"
-    }
-  },
-  "uiov__starname": {
-    "name": "Starname",
-    "chain": "starname",
-    "denom": "uiov",
-    "symbol": "IOV",
-    "decimals": 6,
-    "description": "IOV coin is the token for the Starname (IOV) Asset Name Service",
-    "coingecko_id": "starname",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/starname/images/iov.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/starname/images/iov.svg"
-    }
-  },
-  "acudos__cudos": {
-    "name": "Cudos",
-    "chain": "cudos",
-    "denom": "acudos",
-    "symbol": "CUDOS",
+  "aplanq__planq": {
+    "name": "Planq",
+    "chain": "planq",
+    "denom": "aplanq",
+    "symbol": "PLQ",
     "decimals": 18,
-    "description": "The native token of the Cudos blockchain",
-    "coingecko_id": "cudos",
+    "description": "The native EVM, governance and staking token of the Planq Network",
+    "coingecko_id": "planq",
     "bridge_asset": null,
     "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cudos/images/cudos.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cudos/images/cudos.svg"
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/planq/images/planq.svg",
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/planq/images/planq.png"
     }
   },
-  "aimv__imversed": {
-    "name": "IMV",
-    "chain": "imversed",
-    "denom": "aimv",
-    "symbol": "IMV",
-    "decimals": 18,
-    "description": "The native EVM, governance and staking token of the Imversed",
-    "coingecko_id": "imv",
-    "bridge_asset": null,
-    "logos": {
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/imversed/images/imversed.svg",
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/imversed/images/imversed.png"
-    }
-  },
-  "uregen__regen": {
-    "name": "Regen Network",
-    "chain": "regen",
-    "denom": "uregen",
-    "symbol": "REGEN",
+  "ulumen__lumenx": {
+    "name": "LUMEN",
+    "chain": "lumenx",
+    "denom": "ulumen",
+    "symbol": "LUMEN",
     "decimals": 6,
-    "description": "REGEN coin is the token for the Regen Network Platform",
-    "coingecko_id": "regen",
+    "description": "The native token of Lumen Network",
+    "coingecko_id": null,
     "bridge_asset": null,
     "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/regen/images/regen.png"
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/lumenx/images/lumen.png"
+    }
+  },
+  "nshr__shareledger": {
+    "name": "Shareledger",
+    "chain": "shareledger",
+    "denom": "nshr",
+    "symbol": "SHR",
+    "decimals": 9,
+    "description": "The native token of Shareledger",
+    "coingecko_id": "shareledger",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/shareledger/images/token.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/shareledger/images/token.svg"
+    }
+  },
+  "uixo__impacthub": {
+    "name": "IXO",
+    "chain": "impacthub",
+    "denom": "uixo",
+    "symbol": "IXO",
+    "decimals": 6,
+    "description": "The native token of IXO Chain",
+    "coingecko_id": "ixo",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/impacthub/images/ixo.png"
+    }
+  },
+  "unym__nyx": {
+    "name": "Nym",
+    "chain": "nyx",
+    "denom": "unym",
+    "symbol": "NYM",
+    "decimals": 6,
+    "description": "NYM Token (NYM) is the Nym Network's native utility token, used as the primary means to incentivize mixnet node operators.",
+    "coingecko_id": "nym",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/nyx/images/nyx.png"
+    }
+  },
+  "aLYT__logos": {
+    "name": "LYT",
+    "chain": "logos",
+    "denom": "aLYT",
+    "symbol": "LYT",
+    "decimals": 18,
+    "description": "The native token of Logos",
+    "coingecko_id": null,
+    "bridge_asset": null,
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/logos/images/logos.svg",
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/logos/images/logos.png"
+    }
+  },
+  "uflix__omniflixhub": {
+    "name": "Flix",
+    "chain": "omniflixhub",
+    "denom": "uflix",
+    "symbol": "FLIX",
+    "decimals": 6,
+    "description": "The native staking token of OmniFlix Hub.",
+    "coingecko_id": "omniflix-network",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/omniflixhub/images/flix.png"
+    }
+  },
+  "uocta__octa": {
+    "name": "Octa",
+    "chain": "octa",
+    "denom": "uocta",
+    "symbol": "OCTA",
+    "decimals": 6,
+    "description": "The native token of Octa Chain",
+    "coingecko_id": null,
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/octa/images/octa.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/octa/images/octa.svg"
+    }
+  },
+  "uctk__shentu": {
+    "name": "Shentu",
+    "chain": "shentu",
+    "denom": "uctk",
+    "symbol": "CTK",
+    "decimals": 6,
+    "description": "The native token of Shentu",
+    "coingecko_id": "certik",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/shentu/images/ctk.png"
+    }
+  },
+  "umars__mars": {
+    "name": "Mars",
+    "chain": "mars",
+    "denom": "umars",
+    "symbol": "MARS",
+    "decimals": 6,
+    "description": "Mars protocol token",
+    "coingecko_id": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mars/images/mars-token.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mars/images/mars-token.svg"
     }
   },
   "ufis__stafihub": {
@@ -2354,44 +2287,44 @@
       "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stafihub/images/rhuahua.svg"
     }
   },
-  "udvpn__sentinel": {
-    "name": "Sentinel",
-    "chain": "sentinel",
-    "denom": "udvpn",
-    "symbol": "DVPN",
+  "umed__panacea": {
+    "name": "MediBloc",
+    "chain": "panacea",
+    "denom": "umed",
+    "symbol": "MED",
     "decimals": 6,
-    "description": "DVPN is the native token of the Sentinel Hub.",
-    "coingecko_id": "sentinel",
+    "description": "Panacea is a public blockchain launched by MediBloc, which is the key infrastructure for reinventing the patient-centered healthcare data ecosystem",
+    "coingecko_id": "medibloc",
     "bridge_asset": null,
     "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sentinel/images/dvpn.png"
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/panacea/images/med.png"
     }
   },
-  "uctk__shentu": {
-    "name": "Shentu",
-    "chain": "shentu",
-    "denom": "uctk",
-    "symbol": "CTK",
+  "ustars__stargaze": {
+    "name": "Stargaze",
+    "chain": "stargaze",
+    "denom": "ustars",
+    "symbol": "STARS",
     "decimals": 6,
-    "description": "The native token of Shentu",
-    "coingecko_id": "certik",
+    "description": "The native token of Stargaze",
+    "coingecko_id": "stargaze",
     "bridge_asset": null,
     "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/shentu/images/ctk.png"
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png"
     }
   },
-  "uscrt__secretnetwork": {
-    "name": "Secret Network",
-    "chain": "secretnetwork",
-    "denom": "uscrt",
-    "symbol": "SCRT",
+  "unom__nomic": {
+    "name": "Nomic",
+    "chain": "nomic",
+    "denom": "unom",
+    "symbol": "NOM",
     "decimals": 6,
-    "description": "The native token of Secret Network",
-    "coingecko_id": "secret",
+    "description": "Nomic Token (NOM) is the Nomic's native utility token, used as the primary means to govern, secure the blockchain, incentivize participants, and provide a default mechanism to store and exchange value.",
+    "coingecko_id": null,
     "bridge_asset": null,
     "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.svg"
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/nomic/images/nomic.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/nomic/images/nomic.svg"
     }
   },
   "uiris__irisnet": {
@@ -2408,31 +2341,205 @@
       "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/irisnet/images/iris.svg"
     }
   },
-  "nshr__shareledger": {
-    "name": "Shareledger",
-    "chain": "shareledger",
-    "denom": "nshr",
-    "symbol": "SHR",
-    "decimals": 9,
-    "description": "The native token of Shareledger",
-    "coingecko_id": "shareledger",
+  "udvpn__sentinel": {
+    "name": "Sentinel",
+    "chain": "sentinel",
+    "denom": "udvpn",
+    "symbol": "DVPN",
+    "decimals": 6,
+    "description": "DVPN is the native token of the Sentinel Hub.",
+    "coingecko_id": "sentinel",
     "bridge_asset": null,
     "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/shareledger/images/token.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/shareledger/images/token.svg"
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sentinel/images/dvpn.png"
     }
   },
-  "nund__unification": {
-    "name": "Unification Network",
-    "chain": "unification",
-    "denom": "nund",
-    "symbol": "FUND",
-    "decimals": 9,
-    "description": "Staking and governance coin for the Unification Blockchain",
-    "coingecko_id": "unification",
+  "uregen__regen": {
+    "name": "Regen Network",
+    "chain": "regen",
+    "denom": "uregen",
+    "symbol": "REGEN",
+    "decimals": 6,
+    "description": "REGEN coin is the token for the Regen Network Platform",
+    "coingecko_id": "regen",
     "bridge_asset": null,
     "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/unification/images/fund.png"
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/regen/images/regen.png"
+    }
+  },
+  "uqck__quicksilver": {
+    "name": "Quicksilver",
+    "chain": "quicksilver",
+    "denom": "uqck",
+    "symbol": "QCK",
+    "decimals": 6,
+    "description": "QCK - native token of Quicksilver",
+    "coingecko_id": "quicksilver",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qck.png"
+    }
+  },
+  "uqstars__quicksilver": {
+    "name": "Quicksilver Liquid Staked STARS",
+    "chain": "quicksilver",
+    "denom": "uqstars",
+    "symbol": "qSTARS",
+    "decimals": 6,
+    "description": "Quicksilver Liquid Staked STARS",
+    "coingecko_id": null,
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qstars.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qstars.svg"
+    }
+  },
+  "uqatom__quicksilver": {
+    "name": "Quicksilver Liquid Staked ATOM",
+    "chain": "quicksilver",
+    "denom": "uqatom",
+    "symbol": "qATOM",
+    "decimals": 6,
+    "description": "Quicksilver Liquid Staked ATOM",
+    "coingecko_id": null,
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qatom.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qatom.svg"
+    }
+  },
+  "uqregen__quicksilver": {
+    "name": "Quicksilver Liquid Staked Regen",
+    "chain": "quicksilver",
+    "denom": "uqregen",
+    "symbol": "qREGEN",
+    "decimals": 6,
+    "description": "Quicksilver Liquid Staked REGEN",
+    "coingecko_id": null,
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qregen.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/quicksilver/images/qregen.svg"
+    }
+  },
+  "ubld__agoric": {
+    "name": "Agoric",
+    "chain": "agoric",
+    "denom": "ubld",
+    "symbol": "BLD",
+    "decimals": 6,
+    "description": "BLD is the token used to secure the Agoric chain through staking and to backstop Inter Protocol.",
+    "coingecko_id": "agoric",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/bld.png"
+    }
+  },
+  "uist__agoric": {
+    "name": "Inter Stable Token",
+    "chain": "agoric",
+    "denom": "uist",
+    "symbol": "IST",
+    "decimals": 6,
+    "description": "IST is the stable token used by the Agoric chain for execution fees and commerce.",
+    "coingecko_id": null,
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/ist.png"
+    }
+  },
+  "arebus__rebus": {
+    "name": "Rebus",
+    "chain": "rebus",
+    "denom": "arebus",
+    "symbol": "REBUS",
+    "decimals": 18,
+    "description": "REBUS, the native coin of the Rebus chain.",
+    "coingecko_id": "rebus",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/rebus/images/rebus.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/rebus/images/rebus.svg"
+    }
+  },
+  "basecro__cronos": {
+    "name": "Cronos",
+    "chain": "cronos",
+    "denom": "basecro",
+    "symbol": "CRO",
+    "decimals": 18,
+    "description": "Cronos Chain - Get Instant DApp Portability with EVM Support",
+    "coingecko_id": "crypto-com-chain",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cronos/images/cronos.png"
+    }
+  },
+  "ubnt__bluzelle": {
+    "name": "Bluzelle",
+    "chain": "bluzelle",
+    "denom": "ubnt",
+    "symbol": "BLZ",
+    "decimals": 6,
+    "description": "The native token of Bluzelle",
+    "coingecko_id": "bluzelle",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bluzelle/images/bluzelle.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bluzelle/images/bluzelle.svg"
+    }
+  },
+  "uelt__bluzelle": {
+    "name": "ELT",
+    "chain": "bluzelle",
+    "denom": "uelt",
+    "symbol": "ELT",
+    "decimals": 6,
+    "description": "The ELT token of Bluzelle's Gamma 4 Gaming Ecosystem",
+    "coingecko_id": "",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bluzelle/images/elt.png"
+    }
+  },
+  "ug4__bluzelle": {
+    "name": "G4",
+    "chain": "bluzelle",
+    "denom": "ug4",
+    "symbol": "G4",
+    "decimals": 6,
+    "description": "The game token of Bluzelle's Gamma 4 Gaming Ecosystem",
+    "coingecko_id": "",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bluzelle/images/g4.png"
+    }
+  },
+  "aMYT__mythos": {
+    "name": "MYT",
+    "chain": "mythos",
+    "denom": "aMYT",
+    "symbol": "MYT",
+    "decimals": 18,
+    "description": "The native token of Mythos",
+    "coingecko_id": null,
+    "bridge_asset": null,
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mythos/images/mythos.svg",
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mythos/images/mythos.png"
+    }
+  },
+  "uluna__terra2": {
+    "name": "Luna",
+    "chain": "terra2",
+    "denom": "uluna",
+    "symbol": "LUNA",
+    "decimals": 6,
+    "description": "The native staking token of Terra.",
+    "coingecko_id": "terra-luna-2",
+    "bridge_asset": null,
+    "logos": {
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/luna.png"
     }
   },
   "ustrd__stride": {
@@ -2519,10 +2626,10 @@
       "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stluna.svg"
     }
   },
-  "stuEvmos__stride": {
+  "staevmos__stride": {
     "name": "stEVMOS",
     "chain": "stride",
-    "denom": "stuEvmos",
+    "denom": "staevmos",
     "symbol": "stEVMOS",
     "decimals": 18,
     "description": "",
@@ -2533,85 +2640,60 @@
       "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stevmos.svg"
     }
   },
-  "uarkh__arkh": {
-    "name": "Arkh",
-    "chain": "arkh",
-    "denom": "uarkh",
-    "symbol": "ARKH",
+  "axpla__xpla": {
+    "name": "Xpla",
+    "chain": "xpla",
+    "denom": "axpla",
+    "symbol": "XPLA",
+    "decimals": 18,
+    "description": "The native staking token of XPLA.",
+    "coingecko_id": "xpla",
+    "bridge_asset": null,
+    "logos": {
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/xpla/images/xpla.svg",
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/xpla/images/xpla.png"
+    }
+  },
+  "umedas__medasdigital": {
+    "name": "Medas Digital",
+    "chain": "medasdigital",
+    "denom": "umedas",
+    "symbol": "MEDAS",
     "decimals": 6,
-    "description": "The native token of Arkhadian",
+    "description": "The native token of Medas Digital Network",
     "coingecko_id": null,
     "bridge_asset": null,
     "logos": {
-      "png": "https://www.arkhadian.com/static/images/600-prism.png"
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/medasdigital/images/medas.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/medasdigital/images/medas.svg"
     }
   },
-  "ustars__stargaze": {
-    "name": "Stargaze",
-    "chain": "stargaze",
-    "denom": "ustars",
-    "symbol": "STARS",
+  "ulyl__loyal": {
+    "name": "Loyal",
+    "chain": "loyal",
+    "denom": "ulyl",
+    "symbol": "LYL",
     "decimals": 6,
-    "description": "The native token of Stargaze",
-    "coingecko_id": "stargaze",
+    "description": "The native token of Loyal",
+    "coingecko_id": null,
     "bridge_asset": null,
     "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png"
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/loyal/images/lyl.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/loyal/images/lyl.svg"
     }
   },
-  "utgd__tgrade": {
-    "name": "Tgrade",
-    "chain": "tgrade",
-    "denom": "utgd",
-    "symbol": "TGD",
+  "utori__teritori": {
+    "name": "Teritori",
+    "chain": "teritori",
+    "denom": "utori",
+    "symbol": "TORI",
     "decimals": 6,
-    "description": "The native token of Tgrade",
-    "coingecko_id": "tgrade",
+    "description": "Tori token (TORI) is the Teritoti Network’s native utility token, used as the primary means to govern, secure the blockchain, incentivize ecosystem contributors and use the various Teritori dApp features.",
+    "coingecko_id": "teritori",
     "bridge_asset": null,
     "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/tgrade/images/tgrade-symbol-gradient.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/tgrade/images/tgrade-symbol-gradient.svg"
-    }
-  },
-  "ujuno__juno": {
-    "name": "Juno",
-    "chain": "juno",
-    "denom": "ujuno",
-    "symbol": "JUNO",
-    "decimals": 6,
-    "description": "The native token of JUNO Chain",
-    "coingecko_id": "juno-network",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.svg"
-    }
-  },
-  "uatolo__rizon": {
-    "name": "Rizon Chain",
-    "chain": "rizon",
-    "denom": "uatolo",
-    "symbol": "ATOLO",
-    "decimals": 6,
-    "description": "Native token of Rizon Chain",
-    "coingecko_id": "rizon",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/rizon/images/atolo.png",
-      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/rizon/images/atolo.svg"
-    }
-  },
-  "uluna__terra2": {
-    "name": "Luna",
-    "chain": "terra2",
-    "denom": "uluna",
-    "symbol": "LUNA",
-    "decimals": 6,
-    "description": "The native staking token of Terra.",
-    "coingecko_id": "terra-luna-2",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/luna.png"
+      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/teritori/images/utori.png",
+      "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/teritori/images/utori.svg"
     }
   },
   "uluna__terra": {
@@ -2934,19 +3016,6 @@
     "logos": {
       "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/twt.svg",
       "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/twt.png"
-    }
-  },
-  "uumee__umee": {
-    "name": "Umee",
-    "chain": "umee",
-    "denom": "uumee",
-    "symbol": "UMEE",
-    "decimals": 6,
-    "description": "The native token of Umee",
-    "coingecko_id": "umee",
-    "bridge_asset": null,
-    "logos": {
-      "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/umee/images/umee.png"
     }
   }
 }
